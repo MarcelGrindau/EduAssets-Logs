@@ -1,0 +1,293 @@
+[21:07:09] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[21:07:09] ========================================================
+[21:07:09] 📚 Curriculum Generator  v6.5  |  Build 112  |  2026-03-25
+[21:07:09]    B112: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[21:07:09] ========================================================
+[21:07:10] OpenRouter: 26 Free-Engines geladen
+[21:10:48] ✅ 6 Kapitel übernommen.
+[21:11:12] ✅ 6 Kapitel übernommen.
+[21:11:29] ✅ 4 Kapitel übernommen.
+[21:12:25] ✅ 4 Kapitel übernommen.
+[21:12:39] ▶ Start: 'IT-260325-2107-de' | 4 Kapitel | 5 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Mittel (~20 Seiten)
+[21:12:39] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[21:12:39] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[21:12:39] 📝 DOCX Sektionen deaktiviert: praxis
+[21:12:39] Zusatz-Sprachen: Français, Türkçe
+[21:12:39] ⚠️  MULTI-KI AKTIV: 26 Engines + Claude Synthese
+[21:12:39]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[21:12:39] ============================================================
+[21:12:39] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 4 Kapitel
+[21:12:39] ============================================================
+[21:12:39] [1/4] Betriebssysteme
+[21:12:39]   Multi-KI: 26 Engines | 4 Batch(es) | Zeitbudget: 25s
+[21:12:40]   Multi-KI: gpt-oss-120b:free Fehler — HTTP 404 — Engine dauerhaft geblockt
+[21:12:40]   Multi-KI: gpt-oss-20b:free Fehler — HTTP 404 — Engine dauerhaft geblockt
+[21:12:41]   Multi-KI: gemma-3-27b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:12:51]   Multi-KI: trinity-mini:free OK (4286 Z.)
+[21:13:04]   Multi-KI: nemotron-3-super-120b- Zeitbudget (25s) ueberschritten — uebersprungen
+[21:13:05]   Multi-KI: step-3.5-flash:free Zeitbudget (25s) ueberschritten — uebersprungen
+[21:13:05]   Multi-KI: nemotron-3-nano-30b-a3 Zeitbudget (25s) ueberschritten — uebersprungen
+[21:13:06]   Multi-KI: glm-4.5-air:free Zeitbudget (25s) ueberschritten — uebersprungen
+[21:13:06]   Multi-KI: Batch 1 fertig in 26.5s
+[21:13:07]   Multi-KI: nemotron-3-nano-30b-a3 OK (3442 Z.)
+[21:13:07]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:07]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:07]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:08]   Multi-KI: mistral-small-3.1-24b- Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:19]   Multi-KI: lfm-2.5-1.2b-thinking: OK (2686 Z.)
+[21:13:21]   Multi-KI: trinity-large-preview: OK (5247 Z.)
+[21:13:31]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (25s) ueberschritten — uebersprungen
+[21:13:32]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (25s) ueberschritten — uebersprungen
+[21:13:32]   Multi-KI: Batch 2 fertig in 25.5s
+[21:13:32]   Multi-KI: nemotron-nano-12b-v2-v OK (4239 Z.)
+[21:13:33]   Multi-KI: gemma-3-4b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:33]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:33]   Multi-KI: gemma-3n-e4b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:33]   Multi-KI: gemma-3-12b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:34]   Multi-KI: qwen3-coder:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:34]   Multi-KI: qwen3-next-80b-a3b-ins Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:34]   Multi-KI: lfm-2.5-1.2b-instruct: OK (957 Z.)
+[21:13:57]   Multi-KI: gemma-3n-e2b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[21:13:57]   Multi-KI: Batch 3 fertig in 25.0s
+[21:13:58]   Multi-KI: minimax-m2.5:free Fehler — HTTP 404 — Engine dauerhaft geblockt
+[21:13:59]   Multi-KI: qwen3-4b:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:13:59]   Multi-KI: Batch 4 fertig in 1.0s
+[21:13:59]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[21:13:59]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[21:13:59]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[21:13:59]   Multi-KI: trinity-large-preview:free → 5 Folien geparst
+[21:13:59]   Multi-KI: nemotron-nano-12b-v2-vl:free → 5 Folien geparst
+[21:13:59]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:13:59]   Multi-KI: Claude synthetisiert 6 Versionen...
+[21:14:03]   Multi-KI: step-3.5-flash:free OK (5098 Z.)
+[21:14:27]   Multi-KI: gemma-3n-e2b-it:free OK (6578 Z.)
+[21:14:29]   Multi-KI: Synthese OK (5 Folien)
+[21:14:29]   ✓ 5 Folien generiert
+[21:14:29] [2/4] Allgemeine Grundlagen
+[21:14:29]   Multi-KI: 4 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:14:29]   Multi-KI: nemotron-nano-9b-v2:fr OK (3221 Z.)
+[21:14:31]   Multi-KI: lfm-2.5-1.2b-instruct: OK (1139 Z.)
+[21:14:36]   Multi-KI: trinity-mini:free OK (1983 Z.)
+[21:14:45]   Multi-KI: lfm-2.5-1.2b-thinking: OK (2976 Z.)
+[21:14:54]   Multi-KI: trinity-large-preview: Zeitbudget (25s) ueberschritten — uebersprungen
+[21:14:54]   Multi-KI: Batch 1 fertig in 25.0s
+[21:14:54]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:14:54]   Multi-KI: trinity-mini:free → 6 Folien geparst
+[21:14:54]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[21:14:54]   Multi-KI: Claude synthetisiert 3 Versionen...
+[21:15:18]   Multi-KI: Synthese OK (5 Folien)
+[21:15:18]   ✓ 5 Folien generiert
+[21:15:18] [3/4] Geläufige Betriebssysteme
+[21:15:18]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:15:20]   Multi-KI: lfm-2.5-1.2b-instruct: OK (1230 Z.)
+[21:15:22]   Multi-KI: glm-4.5-air:free OK (4913 Z.)
+[21:15:26]   Multi-KI: trinity-mini:free OK (2160 Z.)
+[21:15:33]   Multi-KI: lfm-2.5-1.2b-thinking: OK (2368 Z.)
+[21:15:33]   Multi-KI: Batch 1 fertig in 14.3s
+[21:15:33]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:15:33]   Multi-KI: trinity-mini:free → 6 Folien geparst
+[21:15:33]   Multi-KI: lfm-2.5-1.2b-thinking:free → 6 Folien geparst
+[21:15:33]   Multi-KI: Claude synthetisiert 3 Versionen...
+[21:15:37]   Multi-KI: trinity-large-preview: OK (6206 Z.)
+[21:15:55]   Multi-KI: Synthese OK (5 Folien)
+[21:15:55]   ✓ 5 Folien generiert
+[21:15:55] [4/4] Boot-Methoden
+[21:15:55]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:15:58]   Multi-KI: lfm-2.5-1.2b-instruct: OK (2089 Z.)
+[21:16:01]   Multi-KI: trinity-mini:free OK (2487 Z.)
+[21:16:09]   Multi-KI: lfm-2.5-1.2b-thinking: OK (2472 Z.)
+[21:16:09]   Multi-KI: Batch 1 fertig in 13.6s
+[21:16:09]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:16:09]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[21:16:09]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[21:16:09]   Multi-KI: Claude synthetisiert 3 Versionen...
+[21:16:37]   Multi-KI: Synthese OK (5 Folien)
+[21:16:37]   ✓ 5 Folien generiert
+[21:16:37] 
+📊 Gesamt: 20 Folien in 4 Kapiteln
+[21:16:37] 
+📊 Erstelle kombinierte Präsentation...
+[21:16:37]   ⚡ Lade 20 Bilder parallel...
+[21:17:00]   ✓ Bilder vorgeladen
+[21:17:05]   Multi-KI: nemotron-3-super-120b- OK (1937 Z.)
+[21:18:42] ✓ PPTX: IT-260325-2107-de_de_Alle_Kapitel.pptx
+[21:18:42] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[21:18:42]   ⚡ Generiere DOCX-Inhalte parallel (3 gleichzeitig)...
+[21:19:45]   📖 Geläufige Betriebssysteme
+[21:19:45]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:20:07]   📖 Boot-Methoden
+[21:20:07]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:20:34]   📖 Allgemeine Grundlagen
+[21:20:34]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:27:43]   📖 Betriebssysteme
+[21:27:43]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:27:45] ✓ DOCX: IT-260325-2107-de_de_Alle_Kapitel_AB.docx
+[21:27:45] 
+============================================================
+[21:27:45] 🎉 FERTIG!
+[21:27:45] ============================================================
+[21:27:45] ─────────────────────────────────────────────────────────────────
+[21:27:45] 📁 OUTPUT-DATEIEN
+[21:27:45]   Dateiname                                               Bytes  Datum
+[21:27:45] ─────────────────────────────────────────────────────────────────
+[21:27:45]   IT-260318-2059-de_Alle_Kapitel.pptx                  12507514  2026-03-18 21:08
+[21:27:45]   IT-260319-1710-de_Alle_Kapitel.pptx                  21916078  2026-03-19 17:28
+[21:27:45]   IT-260319-1740-de_Alle_Kapitel.pptx                  13396247  2026-03-19 17:54
+[21:27:45]   IT-260323-1943-de_Alle_Kapitel.pptx                   3041937  2026-03-23 19:53
+[21:27:45]   IT-260323-1943-de_Alle_Kapitel_neu.pptx               2523028  2026-03-23 21:11
+[21:27:45]   IT-260323-2201-de_Alle_Kapitel.pptx                    482184  2026-03-23 22:19
+[21:27:45]   IT-260323-2238-de_Alle_Kapitel.pptx                   2749741  2026-03-23 22:50
+[21:27:45]   IT-260323-2307-de_Alle_Kapitel.pptx                   2483594  2026-03-23 23:32
+[21:27:45]   IT-260324-1459-de_de_Alle_Kapitel.pptx                4619681  2026-03-24 22:22
+[21:27:45]   IT-260324-1649-de_de_Alle_Kapitel.pptx                 906321  2026-03-24 16:54
+[21:27:45]   IT-260324-2040-de_de_Alle_Kapitel.pptx                4390871  2026-03-24 20:55
+[21:27:45]   IT-260324-2108-de_de_Alle_Kapitel.pptx                3707917  2026-03-24 21:19
+[21:27:45]   IT-260324-2108-de_fr_Alle_Kapitel.pptx                5377549  2026-03-24 22:04
+[21:27:45]   IT-260324-2215-de_de_Alle_Kapitel.pptx                2726937  2026-03-24 22:30
+[21:27:45]   IT-260325-1135-de_de_Alle_Kapitel.pptx                 770334  2026-03-25 11:45
+[21:27:45]   IT-260325-1135-de_fr_Alle_Kapitel.pptx                1022594  2026-03-25 11:50
+[21:27:45]   IT-260325-1135-de_tr_Alle_Kapitel.pptx                 712919  2026-03-25 11:55
+[21:27:45]   IT-260325-1423-de_de_Alle_Kapitel.pptx                1234240  2026-03-25 14:40
+[21:27:45]   IT-260325-1423-de_tr_Alle_Kapitel.pptx                1220308  2026-03-25 15:02
+[21:27:45]   IT-260325-2107-de_de_Alle_Kapitel.pptx                1150930  2026-03-25 21:18
+[21:27:45]   IT-260318-1816-de_Alle_Kapitel_AB.docx                  60069  2026-03-18 18:21
+[21:27:45]   IT-260318-2059-de_Alle_Kapitel_AB.docx                  61018  2026-03-18 21:10
+[21:27:45]   IT-260319-1604-de_Alle_Kapitel_AB.docx                  79231  2026-03-19 16:12
+[21:27:45]   IT-260319-1740-de_Alle_Kapitel_AB.docx                  63101  2026-03-19 18:10
+[21:27:45]   IT-260319-1811-en_Alle_Kapitel_AB.docx                  75220  2026-03-19 18:19
+[21:27:45]   IT-260319-1848-tr_Alle_Kapitel_AB.docx                  62545  2026-03-19 18:53
+[21:27:45]   IT-260321-1456-de_Alle_Kapitel_AB.docx                  44291  2026-03-21 15:00
+[21:27:45]   IT-260323-1943-de_Alle_Kapitel_AB.docx                  71097  2026-03-23 19:56
+[21:27:45]   IT-260323-1943-de_Alle_Kapitel_AB_neu.docx              77354  2026-03-23 21:21
+[21:27:45]   IT-260323-2201-de_Alle_Kapitel_AB.docx                  42944  2026-03-23 22:19
+[21:27:45]   IT-260323-2238-de_Alle_Kapitel_AB.docx                  65519  2026-03-23 22:51
+[21:27:45]   IT-260323-2307-de_Alle_Kapitel_AB.docx                  54675  2026-03-23 23:27
+[21:27:45]   IT-260324-1412-de_de_Alle_Kapitel_AB.docx              106159  2026-03-24 14:24
+[21:27:45]   IT-260324-1459-de_de_Alle_Kapitel_AB.docx              107378  2026-03-24 15:19
+[21:27:45]   IT-260324-1649-de_de_Alle_Kapitel_AB.docx               44066  2026-03-24 16:57
+[21:27:45]   IT-260324-2108-de_de_Alle_Kapitel_AB.docx               78962  2026-03-24 21:50
+[21:27:45]   IT-260324-2108-de_fr_Alle_Kapitel_AB.docx               46655  2026-03-24 22:04
+[21:27:45]   IT-260324-2215-de_de_Alle_Kapitel_AB.docx               79182  2026-03-24 22:43
+[21:27:45]   IT-260325-1135-de_de_Alle_Kapitel_AB.docx               43747  2026-03-25 11:46
+[21:27:45]   IT-260325-1135-de_fr_Alle_Kapitel_AB.docx               43253  2026-03-25 11:50
+[21:27:46]   IT-260325-1135-de_tr_Alle_Kapitel_AB.docx               40706  2026-03-25 11:55
+[21:27:46]   IT-260325-1423-de_de_Alle_Kapitel_AB.docx               55661  2026-03-25 14:49
+[21:27:46]   IT-260325-1423-de_tr_Alle_Kapitel_AB.docx               56180  2026-03-25 15:04
+[21:27:46]   IT-260325-2107-de_de_Alle_Kapitel_AB.docx               58865  2026-03-25 21:27
+[21:27:46]   ~$-260319-1848-tr_Alle_Kapitel_AB.docx                    162  2026-03-20 18:37
+[21:27:46] ─────────────────────────────────────────────────────────────────
+[21:27:46]   GESAMT                                               88458964  (45 Dateien)
+[21:27:46] ─────────────────────────────────────────────────────────────────
+[21:27:46] 
+========================================
+[21:27:46] Generiere Zusatz-Sprache: Français
+[21:27:46] ========================================
+[21:27:46]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:27:48]   Multi-KI: lfm-2.5-1.2b-instruct: OK (1215 Z.)
+[21:27:56]   Multi-KI: trinity-mini:free OK (5863 Z.)
+[21:27:56]   Multi-KI: lfm-2.5-1.2b-thinking: OK (3399 Z.)
+[21:27:56]   Multi-KI: Batch 1 fertig in 10.8s
+[21:27:56]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:27:56]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[21:27:56]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[21:27:56]   Multi-KI: Claude synthetisiert 3 Versionen...
+[21:28:26]   Multi-KI: Synthese OK (5 Folien)
+[21:28:26]   [Français] Betriebssysteme — 5 Folien
+[21:28:26]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:28:29]   Multi-KI: lfm-2.5-1.2b-instruct: OK (1520 Z.)
+[21:28:34]   Multi-KI: trinity-mini:free OK (2894 Z.)
+[21:28:51]   Multi-KI: lfm-2.5-1.2b-thinking: Zeitbudget (25s) ueberschritten — uebersprungen
+[21:28:51]   Multi-KI: Batch 1 fertig in 25.0s
+[21:28:51]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:28:51]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[21:28:51]   Multi-KI: Claude synthetisiert 2 Versionen...
+[21:28:53]   Multi-KI: lfm-2.5-1.2b-thinking: OK (21522 Z.)
+[21:29:13]   Multi-KI: Synthese OK (5 Folien)
+[21:29:13]   [Français] Allgemeine Grundlagen — 5 Folien
+[21:29:13]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:29:16]   Multi-KI: lfm-2.5-1.2b-instruct: OK (2892 Z.)
+[21:29:18]   Multi-KI: trinity-mini:free OK (1887 Z.)
+[21:29:18]   Multi-KI: Batch 1 fertig in 5.7s
+[21:29:18]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:29:18]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[21:29:18]   Multi-KI: Claude synthetisiert 2 Versionen...
+[21:29:43]   Multi-KI: Synthese OK (5 Folien)
+[21:29:43]   [Français] Geläufige Betriebssysteme — 5 Folien
+[21:29:43]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:29:46]   Multi-KI: lfm-2.5-1.2b-instruct: OK (1902 Z.)
+[21:29:51]   Multi-KI: trinity-mini:free OK (2047 Z.)
+[21:29:51]   Multi-KI: Batch 1 fertig in 8.1s
+[21:29:51]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:29:51]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[21:29:51]   Multi-KI: Claude synthetisiert 2 Versionen...
+[21:31:44]   Multi-KI: Synthese OK (5 Folien)
+[21:31:44]   [Français] Boot-Methoden — 5 Folien
+[21:34:53]   [Français] ✓ Sprachkorrektur via TranslationAgent
+[21:37:07] [Français] PPTX: IT-260325-2107-de_fr_Alle_Kapitel.pptx
+[21:39:31] [Français] DOCX: IT-260325-2107-de_fr_Alle_Kapitel_AB.docx
+[21:39:31] 
+========================================
+[21:39:31] Generiere Zusatz-Sprache: Türkçe
+[21:39:31] ========================================
+[21:39:31]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:39:34]   Multi-KI: lfm-2.5-1.2b-instruct: OK (1516 Z.)
+[21:39:43]   Multi-KI: trinity-mini:free OK (4110 Z.)
+[21:39:43]   Multi-KI: Batch 1 fertig in 12.2s
+[21:39:43]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:39:43]   Multi-KI: trinity-mini:free → 6 Folien geparst
+[21:39:43]   Multi-KI: Claude synthetisiert 2 Versionen...
+[21:39:50]   Multi-KI: Synthese OK (5 Folien)
+[21:39:50]   [Türkçe] Betriebssysteme — 5 Folien
+[21:39:50]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:39:52]   Multi-KI: lfm-2.5-1.2b-instruct: OK (653 Z.)
+[21:39:57]   Multi-KI: trinity-mini:free OK (2896 Z.)
+[21:39:57]   Multi-KI: Batch 1 fertig in 7.0s
+[21:39:57]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:39:57]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[21:39:57]   Multi-KI: Claude synthetisiert 2 Versionen...
+[21:40:21]   Multi-KI: Synthese OK (5 Folien)
+[21:40:21]   [Türkçe] Allgemeine Grundlagen — 5 Folien
+[21:40:21]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:40:23]   Multi-KI: lfm-2.5-1.2b-instruct: OK (632 Z.)
+[21:40:29]   Multi-KI: trinity-mini:free OK (2521 Z.)
+[21:40:29]   Multi-KI: Batch 1 fertig in 7.9s
+[21:40:29]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:40:29]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[21:40:29]   Multi-KI: Claude synthetisiert 2 Versionen...
+[21:40:53]   Multi-KI: Synthese OK (5 Folien)
+[21:40:53]   [Türkçe] Geläufige Betriebssysteme — 5 Folien
+[21:40:53]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 25s
+[21:40:55]   Multi-KI: lfm-2.5-1.2b-instruct: OK (556 Z.)
+[21:41:02]   Multi-KI: trinity-mini:free OK (2666 Z.)
+[21:41:02]   Multi-KI: Batch 1 fertig in 8.7s
+[21:41:02]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:41:02]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[21:41:02]   Multi-KI: Claude synthetisiert 2 Versionen...
+[21:41:05]   Multi-KI: Synthese OK (5 Folien)
+[21:41:05]   [Türkçe] Boot-Methoden — 5 Folien
+[21:44:39]   [Türkçe] ✓ Sprachkorrektur via TranslationAgent
+[21:46:57] [Türkçe] PPTX: IT-260325-2107-de_tr_Alle_Kapitel.pptx
+[21:54:11] [Türkçe] DOCX: IT-260325-2107-de_tr_Alle_Kapitel_AB.docx
+[21:54:11] 🔍 QA Agent gestartet (neues Fenster)...
+[21:54:15] 
+────────────────────────────────────────────────────────────
+[21:54:15] 🔍 QA REPORT  —  ⚠️ WARNINGS
+[21:54:15]    8 OK  |  2 Warnungen  |  0 Fehler
+[21:54:15] ────────────────────────────────────────────────────────────
+[21:54:15]   ✅  PPTX 'IT-260325-2107-de_de_Alle_Kapitel.pptx': 20 Folien ✓
+[21:54:15]   ✅  PPTX Größe: 1.1 MB ✓
+[21:54:15]   ⚠️  Folien mit zu kurzen Notizen (<15 Wörter): [6, 7, 8, 9, 10]
+[21:54:15]   ✅  Alle Folien haben ausreichend Text/Bullets ✓
+[21:54:15]   ✅  Bilder auf 100% der Folien ✓
+[21:54:15]   ✅  39 Links geprüft — alle erreichbar ✓
+[21:54:15]   ✅  DOCX 'IT-260325-2107-de_de_Alle_Kapitel_AB.docx': 0.06 MB ✓
+[21:54:15]   ✅  DOCX Umfang: 823 Absätze ✓
+[21:54:15]   ⚠️  Möglicherweise fehlende Sektionen: ['🎯']
+[21:54:15]   ✅  DOCX Kapitel: 4 Überschriften ✓
+[21:54:15] 
+  📋 2 Probleme — bitte prüfen:
+[21:54:15]      ⚠️ Folien mit zu kurzen Notizen (<15 Wörter): [6, 7, 8, 9, 10]
+[21:54:15]      ⚠️ Möglicherweise fehlende Sektionen: ['🎯']
+[21:54:15] ────────────────────────────────────────────────────────────
+

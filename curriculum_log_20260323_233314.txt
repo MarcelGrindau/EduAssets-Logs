@@ -1,0 +1,102 @@
+[23:03:19] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[23:03:19] OpenRouter: 26 Free-Engines geladen
+[23:03:19] ========================================================
+[23:03:19] 📚 Curriculum Generator  v6.5  |  Build 81  |  2026-03-21
+[23:03:19]    B078-081: Design-Upgrade — Arial, Kursbalken, Glossar-Tabelle, Aufgaben-Box, Quiz-Blöcke
+[23:03:19] ========================================================
+[23:07:41] ✅ 5 Kapitel übernommen.
+[23:08:29] ▶ Start: 'IT-260323-2307-de' | 5 Kapitel | 6 Folien | sonar-pro | Modus: combined | DOCX: Kurz (~5 Seiten)
+[23:08:29] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[23:08:29] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[23:08:29] 📝 DOCX Sektionen deaktiviert: praxis
+[23:08:29] Zusatz-Sprachen: Deutsch, English, Türkçe
+[23:08:29] ============================================================
+[23:08:29] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 5 Kapitel
+[23:08:29] ============================================================
+[23:08:29] [1/5] Netzwerk-Konfiguration
+[23:08:45]   ✓ 6 Folien generiert
+[23:08:45] [2/5] Sicherheit und Firewalls
+[23:09:01]   ✓ 6 Folien generiert
+[23:09:01] [3/5] Konfiguration von Routern und Firewalls
+[23:09:19] help.html nicht gefunden — bitte im Programmordner ablegen.
+[23:09:20]   ✓ 6 Folien generiert
+[23:09:20] [4/5] Drahtlose Sicherheit
+[23:09:38]   ✓ 6 Folien generiert
+[23:09:38] [5/5] Schutz vor Social Engineering
+[23:09:56]   ✓ 6 Folien generiert
+[23:09:56] 
+📊 Gesamt: 30 Folien in 5 Kapiteln
+[23:09:56] 
+📊 Erstelle kombinierte Präsentation...
+[23:14:33] ✓ PPTX: IT-260323-2307-de_Alle_Kapitel.pptx
+[23:14:33] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[23:14:33]   📖 Generiere Einleitung + Glossar + Aufgaben: Netzwerk-Konfiguration
+[23:14:47]   ✓ Inhalte OK (1 Aufgaben, 3 Glossar-Einträge)
+[23:14:47]   📖 Generiere Einleitung + Glossar + Aufgaben: Sicherheit und Firewalls
+[23:15:04]   ✓ Inhalte OK (1 Aufgaben, 3 Glossar-Einträge)
+[23:15:04]   📖 Generiere Einleitung + Glossar + Aufgaben: Konfiguration von Routern und Firewalls
+[23:15:18]   ✓ Inhalte OK (1 Aufgaben, 3 Glossar-Einträge)
+[23:15:18]   📖 Generiere Einleitung + Glossar + Aufgaben: Drahtlose Sicherheit
+[23:15:50]   ✓ Inhalte OK (2 Aufgaben, 3 Glossar-Einträge)
+[23:15:50]   📖 Generiere Einleitung + Glossar + Aufgaben: Schutz vor Social Engineering
+[23:16:05]   ✓ Inhalte OK (1 Aufgaben, 3 Glossar-Einträge)
+[23:16:07] ✓ DOCX: IT-260323-2307-de_Alle_Kapitel_AB.docx
+[23:16:07] 
+============================================================
+[23:16:07] 🎉 FERTIG!
+[23:16:07] ============================================================
+[23:16:07] 
+========================================
+[23:16:07] Generiere Zusatz-Sprache: Deutsch
+[23:16:07] ========================================
+[23:16:22]   [Deutsch] Netzwerk-Konfiguration — 6 Folien
+[23:16:45]   [Deutsch] Sicherheit und Firewalls — 6 Folien
+[23:17:06]   [Deutsch] Konfiguration von Routern und Firewalls — 6 Folien
+[23:17:21]   [Deutsch] Drahtlose Sicherheit — 6 Folien
+[23:17:39]   [Deutsch] Schutz vor Social Engineering — 6 Folien
+[23:21:47] [Deutsch] PPTX: IT-260323-2307-de_Alle_Kapitel.pptx
+[23:21:49] [Deutsch] DOCX: IT-260323-2307-de_Alle_Kapitel_AB.docx
+[23:21:49] 
+========================================
+[23:21:49] Generiere Zusatz-Sprache: English
+[23:21:49] ========================================
+[23:22:06]   [English] Netzwerk-Konfiguration — 6 Folien
+[23:22:22]   [English] Sicherheit und Firewalls — 6 Folien
+[23:22:37]   [English] Konfiguration von Routern und Firewalls — 6 Folien
+[23:22:52]   [English] Drahtlose Sicherheit — 6 Folien
+[23:23:06]   [English] Schutz vor Social Engineering — 6 Folien
+[23:27:34] [English] PPTX: IT-260323-2307-de_Alle_Kapitel.pptx
+[23:27:35] [English] DOCX: IT-260323-2307-de_Alle_Kapitel_AB.docx
+[23:27:35] 
+========================================
+[23:27:35] Generiere Zusatz-Sprache: Türkçe
+[23:27:35] ========================================
+[23:27:54]   [Türkçe] Netzwerk-Konfiguration — 6 Folien
+[23:28:11]   [Türkçe] Sicherheit und Firewalls — 6 Folien
+[23:28:25]   [Türkçe] Konfiguration von Routern und Firewalls — 6 Folien
+[23:28:47]   [Türkçe] Drahtlose Sicherheit — 6 Folien
+[23:28:53]   [Türkçe] Schutz vor Social Engineering — 6 Folien
+[23:32:57] [Türkçe] PPTX: IT-260323-2307-de_Alle_Kapitel.pptx
+[23:32:57] [Türkçe] FEHLER: [Errno 13] Permission denied: 'generated_worksheets\\IT-260323-2307-de_Alle_Kapitel_AB.docx'
+[23:32:57] 🔍 QA Agent gestartet (neues Fenster)...
+[23:33:01] 
+────────────────────────────────────────────────────────────
+[23:33:01] 🔍 QA REPORT  —  ⚠️ WARNINGS
+[23:33:01]    9 OK  |  1 Warnungen  |  0 Fehler
+[23:33:01] ────────────────────────────────────────────────────────────
+[23:33:01]   ✅  PPTX 'IT-260323-2307-de_Alle_Kapitel.pptx': 30 Folien ✓
+[23:33:01]   ✅  PPTX Größe: 2.4 MB ✓
+[23:33:01]   ⚠️  Folien mit zu kurzen Notizen (<15 Wörter): [25, 26, 27, 28, 29, 30]
+[23:33:01]   ✅  Alle Folien haben ausreichend Text/Bullets ✓
+[23:33:01]   ✅  Bilder auf 100% der Folien ✓
+[23:33:01]   ✅  22 Links geprüft — alle erreichbar ✓
+[23:33:01]   ✅  DOCX 'IT-260323-2307-de_Alle_Kapitel_AB.docx': 0.05 MB ✓
+[23:33:01]   ✅  DOCX Umfang: 769 Absätze ✓
+[23:33:01]   ✅  Alle 5 Pflicht-Sektionen vorhanden (🎯📖✏️✅📝) ✓
+[23:33:01]   ✅  DOCX Kapitel: 5 Überschriften ✓
+[23:33:01] 
+  📋 1 Probleme — bitte prüfen:
+[23:33:01]      ⚠️ Folien mit zu kurzen Notizen (<15 Wörter): [25, 26, 27, 28, 29, 30]
+[23:33:01] ────────────────────────────────────────────────────────────
+

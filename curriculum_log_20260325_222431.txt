@@ -1,0 +1,108 @@
+[21:57:21] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[21:57:21] OpenRouter: 26 Free-Engines geladen
+[21:57:21] ========================================================
+[21:57:21] 📚 Curriculum Generator  v6.5  |  Build 113  |  2026-03-25
+[21:57:21]    B113: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[21:57:21] ========================================================
+[21:58:30] ✅ 4 Kapitel übernommen.
+[21:58:40] ▶ Start: 'IT-260325-2157-de' | 4 Kapitel | 5 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Mittel (~20 Seiten)
+[21:58:40] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[21:58:40] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[21:58:40] ⚠️  MULTI-KI AKTIV: 22 Engines + Claude Synthese
+[21:58:40]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[21:58:40] ============================================================
+[21:58:40] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 4 Kapitel
+[21:58:40] ============================================================
+[21:58:40] [1/4] Betriebssysteme
+[21:58:40]   Multi-KI: 22 Engines | 3 Batch(es) | Zeitbudget: 25s
+[21:58:42]   Multi-KI: gpt-oss-120b:free Fehler — HTTP 404 — Engine dauerhaft geblockt
+[21:58:42]   Multi-KI: gpt-oss-20b:free Fehler — HTTP 404 — Engine dauerhaft geblockt
+[21:58:42]   Multi-KI: gemma-3-27b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:58:50]   Multi-KI: trinity-mini:free OK (3200 Z.)
+[21:59:05]   Multi-KI: nemotron-3-super-120b- Zeitbudget (25s) ueberschritten — uebersprungen
+[21:59:06]   Multi-KI: step-3.5-flash:free Zeitbudget (25s) ueberschritten — uebersprungen
+[21:59:06]   Multi-KI: nemotron-3-nano-30b-a3 Zeitbudget (25s) ueberschritten — uebersprungen
+[21:59:07]   Multi-KI: glm-4.5-air:free Zeitbudget (25s) ueberschritten — uebersprungen
+[21:59:07]   Multi-KI: Batch 1 fertig in 26.5s
+[21:59:09]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:59:09]   Multi-KI: mistral-small-3.1-24b- Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:59:09]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:59:09]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:59:16]   Multi-KI: nemotron-3-nano-30b-a3 OK (28644 Z.)
+[21:59:18]   Multi-KI: lfm-2.5-1.2b-thinking: OK (1413 Z.)
+[21:59:32]   Multi-KI: trinity-large-preview: Zeitbudget (25s) ueberschritten — uebersprungen
+[21:59:33]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (25s) ueberschritten — uebersprungen
+[21:59:33]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (25s) ueberschritten — uebersprungen
+[21:59:33]   Multi-KI: Batch 2 fertig in 26.0s
+[21:59:35]   Multi-KI: gemma-3-4b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:59:35]   Multi-KI: gemma-3-12b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:59:35]   Multi-KI: gemma-3n-e4b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:59:35]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[21:59:37]   Multi-KI: lfm-2.5-1.2b-instruct: OK (2541 Z.)
+[21:59:59]   Multi-KI: gemma-3n-e2b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[21:59:59]   Multi-KI: Batch 3 fertig in 25.0s
+[21:59:59]   Multi-KI: trinity-mini:free → 6 Folien geparst
+[21:59:59]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[21:59:59]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[21:59:59]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[21:59:59]   Multi-KI: Claude synthetisiert 4 Versionen...
+[22:00:05]   Multi-KI: gemma-3n-e2b-it:free OK (5163 Z.)
+[22:00:23]   Multi-KI: step-3.5-flash:free verworfen (zu kurz/falsche Sprache)
+[22:00:35]   Multi-KI: nemotron-nano-12b-v2-v OK (3163 Z.)
+[22:00:42]   Multi-KI: glm-4.5-air:free Fehler — HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out. (read timeo
+[22:01:08]   Multi-KI: Synthese OK (5 Folien)
+[22:01:08]   ✓ 5 Folien generiert
+[22:01:08] [2/4] Allgemeine Grundlagen
+[22:01:08]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 25s
+[22:01:11]   Multi-KI: lfm-2.5-1.2b-instruct: OK (2135 Z.)
+[22:01:13]   Multi-KI: nemotron-nano-9b-v2:fr OK (3223 Z.)
+[22:01:21]   Multi-KI: lfm-2.5-1.2b-thinking: OK (2333 Z.)
+[22:01:25]   Multi-KI: trinity-mini:free OK (7532 Z.)
+[22:01:25]   Multi-KI: Batch 1 fertig in 16.6s
+[22:01:25]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[22:01:25]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[22:01:25]   Multi-KI: trinity-mini:free → 7 Folien geparst
+[22:01:25]   Multi-KI: Claude synthetisiert 3 Versionen...
+[22:01:29]   Multi-KI: Synthese OK (5 Folien)
+[22:01:29]   ✓ 5 Folien generiert
+[22:01:29] [3/4] Geläufige Betriebssysteme (Windows, Linus, macOS, iOS, Android, etc.)
+[22:01:29]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 25s
+[22:01:32]   Multi-KI: lfm-2.5-1.2b-instruct: OK (1692 Z.)
+[22:01:40]   Multi-KI: trinity-mini:free OK (4427 Z.)
+[22:01:42]   Multi-KI: lfm-2.5-1.2b-thinking: OK (3085 Z.)
+[22:01:42]   Multi-KI: Batch 1 fertig in 12.7s
+[22:01:42]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[22:01:42]   Multi-KI: trinity-mini:free → 7 Folien geparst
+[22:01:42]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[22:01:42]   Multi-KI: Claude synthetisiert 3 Versionen...
+[22:02:02]   Multi-KI: nemotron-3-super-120b- OK (6375 Z.)
+[22:02:19]   Multi-KI: Synthese OK (5 Folien)
+[22:02:19]   ✓ 5 Folien generiert
+[22:02:19] [4/4] Boot-Methoden, Installationstypen, Partitionierungen, etc.
+[22:02:19]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 25s
+[22:02:21]   Multi-KI: lfm-2.5-1.2b-instruct: OK (1133 Z.)
+[22:02:29]   Multi-KI: trinity-mini:free OK (1942 Z.)
+[22:02:30]   Multi-KI: lfm-2.5-1.2b-thinking: OK (1837 Z.)
+[22:02:30]   Multi-KI: Batch 1 fertig in 11.0s
+[22:02:30]   Multi-KI: lfm-2.5-1.2b-instruct:free → 5 Folien geparst
+[22:02:30]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[22:02:30]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[22:02:30]   Multi-KI: Claude synthetisiert 3 Versionen...
+[22:02:53]   Multi-KI: trinity-large-preview: OK (6799 Z.)
+[22:04:38]   Multi-KI: Synthese OK (5 Folien)
+[22:04:38]   ✓ 5 Folien generiert
+[22:04:38] 
+📊 Gesamt: 20 Folien in 4 Kapiteln
+[22:04:38] 
+📊 Erstelle kombinierte Präsentation...
+[22:04:38]   ⚡ Lade 20 Bilder parallel...
+[22:06:47]   ✓ Bilder vorgeladen
+[22:16:03] ✓ PPTX: IT-260325-2157-de_de_Alle_Kapitel.pptx
+[22:16:03] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[22:16:03]   ⚡ Generiere DOCX-Inhalte parallel (3 gleichzeitig)...
+[22:18:29]   📖 Allgemeine Grundlagen
+[22:18:29]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[22:20:39]   📖 Boot-Methoden, Installationstypen, Partitionierung
+[22:20:39]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+

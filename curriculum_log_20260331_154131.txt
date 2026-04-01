@@ -1,0 +1,145 @@
+[15:28:44] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[15:28:44] OpenRouter: 25 Free-Engines geladen
+[15:28:44] ========================================================
+[15:28:44] 📚 Curriculum Generator  v6.5  |  Build 152  |  2026-03-31
+[15:28:44]    B152: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[15:28:44] ========================================================
+[15:28:52] ✅ 3 Kapitel übernommen.
+[15:29:29] ▶ Start: 'IT-260331-1528-de' | 3 Kapitel | 1 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Kurz (~5 Seiten)
+[15:29:29] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[15:29:29] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[15:29:29] 📝 DOCX Sektionen deaktiviert: lernziele, glossar, aufgaben, praxis, loesungen, quellen, notizen
+[15:29:29] Zusatz-Sprachen: Arabisch / Arabic, Koreanisch / Korean
+[15:29:29] ⚠️  MULTI-KI AKTIV: 25 Engines + Claude Synthese
+[15:29:29]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[15:29:29] ============================================================
+[15:29:29] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 3 Kapitel
+[15:29:29] ============================================================
+[15:29:29] [1/3] Grundlagen und Einführung
+[15:29:29]   Multi-KI: 21 Engines | 3 Batch(es) | Zeitbudget: 25s
+[15:29:30]   Multi-KI: gemma-3-27b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:29:31]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:29:31]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:29:31]   Multi-KI: glm-4.5-air:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:29:54]   Multi-KI: nemotron-3-super-120b- Zeitbudget (25s) ueberschritten — uebersprungen
+[15:29:54]   Multi-KI: step-3.5-flash:free Zeitbudget (25s) ueberschritten — uebersprungen
+[15:29:55]   Multi-KI: nemotron-3-nano-30b-a3 Zeitbudget (25s) ueberschritten — uebersprungen
+[15:29:56]   Multi-KI: trinity-mini:free Zeitbudget (25s) ueberschritten — uebersprungen
+[15:29:56]   Multi-KI: Batch 1 fertig in 26.6s
+[15:29:57]   Multi-KI: gemma-3-12b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:29:57]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:29:57]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:30:02]   Multi-KI: lfm-2.5-1.2b-thinking: gesperrt (nur 410 Z. < 1500 Minimum)
+[15:30:10]   Multi-KI: nemotron-3-nano-30b-a3 OK (29938 Z.)
+[15:30:15]   Multi-KI: gemma-3-4b-it:free OK (2845 Z.)
+[15:30:21]   Multi-KI: trinity-large-preview: Zeitbudget (25s) ueberschritten — uebersprungen
+[15:30:22]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (25s) ueberschritten — uebersprungen
+[15:30:22]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (25s) ueberschritten — uebersprungen
+[15:30:22]   Multi-KI: Batch 2 fertig in 26.0s
+[15:30:24]   Multi-KI: gemma-3n-e4b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:30:24]   Multi-KI: qwen3-coder:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:30:24]   Multi-KI: qwen3-next-80b-a3b-ins Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:30:24]   Multi-KI: gemma-3n-e2b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:30:27]   Multi-KI: step-3.5-flash:free OK (1722 Z.)
+[15:30:48]   Multi-KI: qwen3.6-plus-preview:f Zeitbudget (25s) ueberschritten — uebersprungen
+[15:30:48]   Multi-KI: Batch 3 fertig in 25.0s
+[15:30:48]   Multi-KI: nemotron-3-nano-30b-a3b:free → 1 Folien geparst
+[15:30:48]   Multi-KI: gemma-3-4b-it:free → 2 Folien geparst
+[15:30:48]   Multi-KI: step-3.5-flash:free → 1 Folien geparst
+[15:30:48]   Multi-KI: Claude synthetisiert 3 Versionen...
+[15:31:06]   Multi-KI: nemotron-3-super-120b- OK (1605 Z.)
+[15:31:09]   Multi-KI: nemotron-nano-12b-v2-v gesperrt (nur 1219 Z. < 1500 Minimum)
+[15:31:25]   Multi-KI: Synthese OK (1 Folien)
+[15:31:25]   ✓ 1 Folien generiert
+[15:31:25] [2/3] Kernkonzepte
+[15:31:25]   Multi-KI: 1 Engines | 1 Batch(es) | Zeitbudget: 25s
+[15:31:25]   Multi-KI: gemma-3-4b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[15:31:25]   Multi-KI: Batch 1 fertig in 0.8s
+[15:31:25]   Multi-KI: keine gueltige Version — Standard-Generation
+[15:31:33]   ✓ 1 Folien generiert
+[15:31:33] [3/3] Vertiefung
+[15:31:33]   Multi-KI: 0 Engines | 0 Batch(es) | Zeitbudget: 25s
+[15:31:33]   Multi-KI: keine gueltige Version — Standard-Generation
+[15:31:36]   ✓ 1 Folien generiert
+[15:31:36] 
+📊 Gesamt: 3 Folien in 3 Kapiteln
+[15:31:36] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[15:31:36]   ⚡ Generiere DOCX-Inhalte parallel (3 gleichzeitig)...
+[15:31:40]   Multi-KI: trinity-large-preview: OK (6193 Z.)
+[15:32:26]   📖 Kernkonzepte
+[15:32:26]   ✓ OK (1 Aufgaben, 3 Glossar-Einträge)
+[15:32:35]   Multi-KI: qwen3.6-plus-preview:f OK (1587 Z.)
+[15:32:35]   Multi-KI: nemotron-nano-9b-v2:fr Fehler — Leere choices in API-Antwort
+[15:32:45]   📖 Vertiefung
+[15:32:45]   ✓ OK (2 Aufgaben, 3 Glossar-Einträge)
+[15:32:49]   Multi-KI: trinity-mini:free OK (2750 Z.)
+[15:37:03]   📖 Grundlagen und Einführung
+[15:37:03]   ✓ OK (2 Aufgaben, 3 Glossar-Einträge)
+[15:37:04] ✓ DOCX: IT-260331-1528-de_de_Alle_Kapitel_AB.docx
+[15:37:04] 
+============================================================
+[15:37:04] 🎉 FERTIG!
+[15:37:04] ============================================================
+[15:37:04] ─────────────────────────────────────────────────────────────────
+[15:37:04] 📁 OUTPUT-DATEIEN
+[15:37:04]   Dateiname                                               Bytes  Datum
+[15:37:04] ─────────────────────────────────────────────────────────────────
+[15:37:04]   IT-260330-2225-de_ar_Alle_Kapitel.pptx                 427842  2026-03-30 22:41
+[15:37:04]   IT-260330-2225-de_de_Alle_Kapitel.pptx                 427842  2026-03-30 22:32
+[15:37:04]   IT-260330-2225-de_ko_Alle_Kapitel.pptx                 427842  2026-03-30 22:41
+[15:37:04]   IT-260330-2251-de_ar_Alle_Kapitel.pptx                 295669  2026-03-30 22:59
+[15:37:04]   IT-260330-2251-de_de_Alle_Kapitel.pptx                 295669  2026-03-30 22:56
+[15:37:04]   IT-260330-2251-de_ko_Alle_Kapitel.pptx                 295669  2026-03-30 22:59
+[15:37:04]   IT-260331-1350-de_ar_Alle_Kapitel.pptx                 157658  2026-03-31 13:57
+[15:37:04]   IT-260331-1350-de_de_Alle_Kapitel.pptx                 157658  2026-03-31 13:55
+[15:37:04]   IT-260331-1350-de_ko_Alle_Kapitel.pptx                 157658  2026-03-31 13:57
+[15:37:04]   IT-260331-1428-de_ar_Alle_Kapitel.pptx                 215700  2026-03-31 14:38
+[15:37:04]   IT-260331-1428-de_de_Alle_Kapitel.pptx                 215700  2026-03-31 14:32
+[15:37:04]   IT-260331-1428-de_ko_Alle_Kapitel.pptx                 215700  2026-03-31 14:38
+[15:37:04]   IT-260330-1303-de_ar_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[15:37:04]   IT-260330-1303-de_de_Alle_Kapitel_AB.docx               61388  2026-03-30 14:05
+[15:37:04]   IT-260330-1303-de_it_Alle_Kapitel_AB.docx               61800  2026-03-30 14:28
+[15:37:04]   IT-260330-1303-de_در_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[15:37:04]   IT-260330-1303-de_فا_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[15:37:04]   IT-260330-1631-de_de_Alle_Kapitel_AB.docx               55019  2026-03-30 16:54
+[15:37:04]   IT-260330-1631-de_en_Alle_Kapitel_AB.docx               55131  2026-03-30 16:59
+[15:37:05]   IT-260330-1631-de_ko_Alle_Kapitel_AB.docx               55019  2026-03-30 16:59
+[15:37:05]   IT-260330-1801-de_de_Alle_Kapitel_AB.docx               43073  2026-03-30 18:10
+[15:37:05]   IT-260330-1801-de_en_Alle_Kapitel_AB.docx               43096  2026-03-30 18:15
+[15:37:05]   IT-260330-1801-de_ko_Alle_Kapitel_AB.docx               43073  2026-03-30 18:14
+[15:37:05]   IT-260330-1819-de_de_Alle_Kapitel_AB.docx               47636  2026-03-30 18:33
+[15:37:05]   IT-260330-1819-de_en_Alle_Kapitel_AB.docx               47727  2026-03-30 18:39
+[15:37:05]   IT-260330-1819-de_ko_Alle_Kapitel_AB.docx               47636  2026-03-30 18:39
+[15:37:05]   IT-260330-2251-de_de_Alle_Kapitel_AB.docx               41792  2026-03-30 22:58
+[15:37:05]   IT-260330-2307-de_de_Alle_Kapitel_AB.docx               41474  2026-03-30 23:09
+[15:37:05]   IT-260331-1350-de_ar_Alle_Kapitel_AB.docx               42693  2026-03-31 14:01
+[15:37:05]   IT-260331-1350-de_de_Alle_Kapitel_AB.docx               42485  2026-03-31 13:56
+[15:37:05]   IT-260331-1350-de_ko_Alle_Kapitel_AB.docx               42641  2026-03-31 14:01
+[15:37:05]   IT-260331-1428-de_ar_Alle_Kapitel_AB.docx               41559  2026-03-31 14:41
+[15:37:05]   IT-260331-1428-de_de_Alle_Kapitel_AB.docx               41360  2026-03-31 14:37
+[15:37:05]   IT-260331-1428-de_ko_Alle_Kapitel_AB.docx               41521  2026-03-31 14:41
+[15:37:05]   IT-260331-1528-de_de_Alle_Kapitel_AB.docx               41232  2026-03-31 15:37
+[15:37:05] ─────────────────────────────────────────────────────────────────
+[15:37:05]   GESAMT                                                4412423  (35 Dateien)
+[15:37:05] ─────────────────────────────────────────────────────────────────
+[15:37:05] ⚡ Starte 2 Zusatzsprachen parallel (Translate-Modus)...
+[15:38:03]   [Arabisch / Arabic] ✓ 3 Kapitel übersetzt
+[15:38:04]   [Koreanisch / Korean] ✓ 3 Kapitel übersetzt
+[15:41:18] [Koreanisch / Korean] DOCX: IT-260331-1528-de_ko_Alle_Kapitel_AB.docx
+[15:41:18] [Arabisch / Arabic] DOCX: IT-260331-1528-de_ar_Alle_Kapitel_AB.docx
+[15:41:18] 🔍 QA Agent gestartet (neues Fenster)...
+[15:41:20] 
+────────────────────────────────────────────────────────────
+[15:41:20] 🔍 QA REPORT  —  ⚠️ WARNINGS
+[15:41:20]    3 OK  |  1 Warnungen  |  0 Fehler
+[15:41:20] ────────────────────────────────────────────────────────────
+[15:41:20]   ✅  DOCX 'IT-260331-1528-de_de_Alle_Kapitel_AB.docx': 0.04 MB ✓
+[15:41:20]   ✅  DOCX Umfang: 137 Absätze ✓
+[15:41:20]   ⚠️  Möglicherweise fehlende Sektionen: ['🎯', '✏️', '✅']
+[15:41:20]   ✅  DOCX Kapitel: 3 Überschriften ✓
+[15:41:20] 
+  📋 1 Probleme — bitte prüfen:
+[15:41:20]      ⚠️ Möglicherweise fehlende Sektionen: ['🎯', '✏️', '✅']
+[15:41:20] ────────────────────────────────────────────────────────────
+

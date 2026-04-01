@@ -1,0 +1,257 @@
+[09:34:31] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[09:34:31] OpenRouter: 26 Free-Engines geladen
+[09:34:31] ========================================================
+[09:34:31] 📚 Curriculum Generator  v6.5  |  Build 124  |  2026-03-27
+[09:34:31]    B124: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[09:34:31] ========================================================
+[09:34:58] ✅ 4 Kapitel übernommen.
+[09:35:25] ▶ Start: 'IT-260327-0934-de' | 4 Kapitel | 5 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Mittel (~20 Seiten)
+[09:35:25] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[09:35:25] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[09:35:25] 📝 DOCX Sektionen deaktiviert: praxis
+[09:35:25] Zusatz-Sprachen: English, Français
+[09:35:25] ⚠️  MULTI-KI AKTIV: 22 Engines + Claude Synthese
+[09:35:25]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[09:35:25] ============================================================
+[09:35:25] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 4 Kapitel
+[09:35:25] ============================================================
+[09:35:25] [1/4] Betriebssysteme
+[09:35:25]   Multi-KI: 19 Engines | 3 Batch(es) | Zeitbudget: 25s
+[09:35:27]   Multi-KI: gemma-3-27b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[09:35:27]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[09:35:27]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[09:35:29]   Multi-KI: glm-4.5-air:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[09:35:50]   Multi-KI: nemotron-3-super-120b- Zeitbudget (25s) ueberschritten — uebersprungen
+[09:35:50]   Multi-KI: step-3.5-flash:free Zeitbudget (25s) ueberschritten — uebersprungen
+[09:35:51]   Multi-KI: nemotron-3-nano-30b-a3 Zeitbudget (25s) ueberschritten — uebersprungen
+[09:35:51]   Multi-KI: trinity-mini:free Zeitbudget (25s) ueberschritten — uebersprungen
+[09:35:51]   Multi-KI: Batch 1 fertig in 26.6s
+[09:35:54]   Multi-KI: mistral-small-3.1-24b- Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[09:35:54]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[09:35:54]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[09:36:04]   Multi-KI: lfm-2.5-1.2b-thinking: OK (2737 Z.)
+[09:36:17]   Multi-KI: nemotron-3-nano-30b-a3 OK (28182 Z.)
+[09:36:17]   Multi-KI: trinity-large-preview: Zeitbudget (25s) ueberschritten — uebersprungen
+[09:36:18]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (25s) ueberschritten — uebersprungen
+[09:36:18]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (25s) ueberschritten — uebersprungen
+[09:36:19]   Multi-KI: gemma-3-4b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[09:36:19]   Multi-KI: Batch 2 fertig in 26.6s
+[09:36:36]   Multi-KI: gemma-3-4b-it:free OK (6413 Z.)
+[09:36:44]   Multi-KI: step-3.5-flash:free OK (3663 Z.)
+[09:36:44]   Multi-KI: gemma-3-12b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[09:36:45]   Multi-KI: gemma-3n-e2b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[09:36:45]   Multi-KI: gemma-3n-e4b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[09:36:45]   Multi-KI: Batch 3 fertig in 26.1s
+[09:36:45]   Multi-KI: lfm-2.5-1.2b-thinking:free → 6 Folien geparst
+[09:36:45]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[09:36:45]   Multi-KI: gemma-3-4b-it:free → 5 Folien geparst
+[09:36:45]   Multi-KI: step-3.5-flash:free → 5 Folien geparst
+[09:36:45]   Multi-KI: Claude synthetisiert 4 Versionen...
+[09:36:52]   Multi-KI: trinity-mini:free OK (2672 Z.)
+[09:36:56]   Multi-KI: gemma-3n-e2b-it:free OK (5986 Z.)
+[09:37:03]   Multi-KI: gemma-3n-e4b-it:free OK (6233 Z.)
+[09:37:08]   Multi-KI: gemma-3-12b-it:free OK (6621 Z.)
+[09:38:18]   Multi-KI: nemotron-nano-12b-v2-v OK (4921 Z.)
+[09:38:20]   Multi-KI: trinity-large-preview: OK (4619 Z.)
+[09:38:36]   Multi-KI: Synthese OK (5 Folien)
+[09:38:36]   ✓ 5 Folien generiert
+[09:38:36] [2/4] Allgemeine Grundlagen
+[09:38:36]   Multi-KI: 1 Engines | 1 Batch(es) | Zeitbudget: 25s
+[09:38:49]   Multi-KI: lfm-2.5-1.2b-thinking: OK (1994 Z.)
+[09:38:49]   Multi-KI: Batch 1 fertig in 12.7s
+[09:38:49]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[09:38:49]   Multi-KI: 1 Version — Claude prueft Qualitaet
+[09:39:24]   Multi-KI: nemotron-nano-9b-v2:fr OK (3727 Z.)
+[09:41:22]   Multi-KI: Refinement OK (5 Folien)
+[09:41:22]   ✓ 5 Folien generiert
+[09:41:22] [3/4] Geläufige Betriebssysteme (Windows, Linus, macOS, iOS, Android, etc.)
+[09:41:22]   Multi-KI: 1 Engines | 1 Batch(es) | Zeitbudget: 25s
+[09:41:31]   Multi-KI: lfm-2.5-1.2b-thinking: OK (1889 Z.)
+[09:41:31]   Multi-KI: Batch 1 fertig in 9.1s
+[09:41:31]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[09:41:31]   Multi-KI: 1 Version — Claude prueft Qualitaet
+[09:41:48]   Multi-KI: nemotron-3-super-120b- OK (5466 Z.)
+[09:42:11]   Multi-KI: Refinement OK (5 Folien)
+[09:42:11]   ✓ 5 Folien generiert
+[09:42:11] [4/4] Boot-Methoden, Installationstypen, Partitionierungen, etc.
+[09:42:11]   Multi-KI: 1 Engines | 1 Batch(es) | Zeitbudget: 25s
+[09:42:24]   Multi-KI: lfm-2.5-1.2b-thinking: OK (2785 Z.)
+[09:42:24]   Multi-KI: Batch 1 fertig in 13.4s
+[09:42:24]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[09:42:24]   Multi-KI: 1 Version — Claude prueft Qualitaet
+[09:43:12]   Multi-KI: Refinement OK (5 Folien)
+[09:43:12]   ✓ 5 Folien generiert
+[09:43:12] 
+📊 Gesamt: 20 Folien in 4 Kapiteln
+[09:43:12] 
+📊 Erstelle kombinierte Präsentation...
+[09:43:12]   ⚡ Lade 20 Bilder parallel...
+[09:43:39] 🖼  [Pexels] 'CPU RAM' → Score 7/10 ✅  Das Bild zeigt Komponenten eines Computers wie CPU, RAM und Kabel, die für das Thema "Virtueller Speicher und Paging" relevant sind, aber es fehlt eine direkte Visualisierung des virtuellen Speichers oder des Paging-Konzepts.
+[09:43:40] 🖼  [Pexels] 'linux terminal command line bash screen' → Score 9/10 ✅  Das Bild zeigt eine Linux-Terminal- Ausgabe mit einer Kommandozeile, die Befehle und Codezeilen enthält, was sehr gut zum Thema "Prozesse und Threads" passt.
+[09:43:41] 🖼  [Pexels] 'server web browser code internet' → Score 7/10 ✅  Das Bild zeigt einen Screenshot eines Code-Editors mit HTML-Code, der für Webentwicklung relevant ist, aber nicht direkt auf Betriebssysteme eingeht.
+[09:43:41] 🖼  [Pexels] 'Computer Infografik' → Score 7/10 ✅  Das Bild zeigt eine Computer-Infografik mit einem Videobearbeitungs- oder Analyse-Tool, das thematisch relevant für IT ist, aber nicht direkt ein bestimmtes IT-Thema wie Hardware, Software oder ein Terminal darstellt.
+[09:43:41] 🖼  [Pexels] 'operating systems' → Score 8/10 ✅  Das Bild zeigt einen Screenshot einer Kommandozeile mit Verzeichnisauflistung, der thematisch gut zu Betriebssystemen passt und einen direkten IT-Bezug aufweist.
+[09:43:47] 🖼  [Pexels] 'ethernet switch' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[09:43:51] ⚠️  [Pexels] 'Lernziele Infografik' → Score 5/10 ❌  Das Bild zeigt eine allgemeine Infografik mit Diagrammen und Charts, aber keinen spezifischen IT-Bezug, wie Hardware, Software oder Programmierung. — nächste Quelle
+[09:43:56] ⚠️  [Pixabay] 'Lernziele Infografik' → Score 6/10 ❌  Das Bild zeigt eine Person, die auf einem Smartphone herumtippt und Unterlagen mit Grafiken und Diagrammen betrachtet, was auf Lernen und Informationsverarbeitung hindeutet, aber keinen direkten IT-Bezug wie Hardware, Software oder Programmierung erkennbar macht. — nächste Quelle
+[09:43:57] ⚠️  [Pexels] 'Übungs Infografik' → Score 5/10 ❌  Das Bild zeigt ein aufgeschlagenes Buch mit Texten, die keinen erkennbaren IT-Bezug haben, und ist daher zu generisch für eine IT-Schulungsfolie. — nächste Quelle
+[09:43:57] ⚠️  [Pexels] 'Theorie Infografik' → Score 2/10 ❌  Das Bild zeigt eine Sammlung von farbigen Stiften, die keinen erkennbaren Bezug zu IT-Themen haben. — nächste Quelle
+[09:44:02] ⚠️  [Unsplash] 'Lernziele Infografik' → Score 5/10 ❌  Das Bild zeigt eine Infografik mit abstrakten Linien und Pfeilen, die keinen direkten IT-Bezug erkennen lässt, aber aufgrund der Überschrift "Multimodal Model [V2]" und dem Kontext einer IT-Schulungsfolie möglicherweise thematisch relevant sein könnte. — nächste Quelle
+[09:44:03] ⚠️  [Pixabay] 'Übungs Infografik' → Score 5/10 ❌  Das Bild zeigt eine Naturszene mit einem Sonnenuntergang am Wasser und einem Baumstamm, hat aber keinen erkennbaren Bezug zu IT-Themen. — nächste Quelle
+[09:44:03] ⚠️  [Pixabay] 'Theorie Infografik' → Score 2/10 ❌  Das Bild zeigt eine Farbpalette und einen Pinsel, was keinen erkennbaren Bezug zum IT-Thema hat und stattdessen eher in den Kontext von Kunst oder Design passt. — nächste Quelle
+[09:44:08] ⚠️  [Pexels] 'Praxis Infografik' → Score 2/10 ❌  Das Bild zeigt eine Sammlung von alten Gegenständen wie eine Kamera, ein Radio, eine Schachtel und einige Zeitungen mit fremdem Text ohne erkennbaren IT-Bezug, aber keinen Bezug zu Informatik oder IT. — nächste Quelle
+[09:44:08] 🖼  [Pexels] 'operating computer IT technology' → Score 7/10 ✅  Das Bild zeigt eine Person, die an einem Laptop arbeitet, was thematisch relevant für IT ist, aber nicht konkret genug, um das spezifische Thema der Zielvorstellung in einem IT-Kontext zu illustrieren.
+[09:44:10] ⚠️  [Unsplash] 'Theorie Infografik' → Score 5/10 ❌  Das Bild zeigt eine Infografik mit abstrakten Symbolen und Mustern, aber keinen konkreten IT-bezogenen Elementen wie Hardware, Software oder Netzwerkkomponenten, daher ist es nur schwach thematisch relevant für IT. — nächste Quelle
+[09:44:10] 🖼  [Unsplash] 'Übungs Infografik' → Score 7/10 ✅  Das Bild zeigt eine Infografik mit IT-relevanten Begriffen wie Bounce Rate, Page Load und Sessions, jedoch ohne konkrete Darstellung von Hardware, Software oder einem Terminal, weshalb es als gut, aber nicht perfekt bewertet wird.
+[09:44:12] ⚠️  [Pexels] 'Infografik' → Score 5/10 ❌  Das Bild zeigt eine Infografik mit einem Aktienkurs-Diagramm, das keinen direkten Bezug zu IT-Themen wie Hardware, Software oder Programmierung hat, aber immerhin im Kontext von "Kernkompetenzen" in der IT-Schulung verwendet werden könnte, jedoch sehr generisch und nicht spezifisch für IT ist. — nächste Quelle
+[09:44:12] ⚠️  [Fallback] 'Lernziele Infografik' → Score 5/10 ❌  Das Bild zeigt eine Lupe vor einem Computerbildschirm mit Programmcode und Benutzeroberflächen, was einen schwachen, aber erkennbaren Bezug zum IT-Thema hat, jedoch nicht konkret genug ist, um als perfekt oder gut bewertet zu werden. — nächste Quelle
+[09:44:12] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 6/10) für: 'Lernziele Infografik'
+[09:44:17] 🖼  [Unsplash] 'Praxis Infografik' → Score 8/10 ✅  Das Bild zeigt eine Infografik mit verschiedenen Symbolen und Mustern, die auf ein technisches oder wissenschaftliches Thema hindeuten, insbesondere durch die Verwendung von "MULTIMODAL MODEL" und die Darstellung von codierten Informationen, die für IT-Schulungen relevant sein könnten.
+[09:44:20] ⚠️  [Unsplash] 'Infografik' → Score 5/10 ❌  Das Bild zeigt eine Infografik mit einem Diagramm, das Zahlen und Daten anzeigt, aber keinen direkten Bezug zu einem IT-Thema wie Hardware, Software oder Programmierung hat. — nächste Quelle
+[09:44:20] 🖼  [Fallback] 'Theorie Infografik' → Score 7/10 ✅  Das Bild zeigt eine Person, die an der Hardware eines Laptops arbeitet, was thematisch relevant für IT ist, aber nicht explizit eine Infografik oder Theorie darstellt.
+[09:44:30] 🖼  [Fallback] 'Infografik' → Score 7/10 ✅  Das Bild zeigt eine Infografik mit Codezeilen, die auf eine Programmiersprache hinweisen, aber nicht explizit ein bestimmtes IT-Thema wie Hardware oder ein Terminal darstellt.
+[09:44:32] ⚠️  [Pexels] 'Zusammenfassung Infografik' → Score 5/10 ❌  Das Bild zeigt drei Personen vor einer Whiteboard mit einer Grafik, aber es gibt keinen expliziten IT-Bezug erkennbar, die Grafik könnte zu verschiedenen Themen gehören. — nächste Quelle
+[09:44:35] 🖼  [Pexels] 'cloud cloud computing server virtual' → Score 7/10 ✅  Das Bild zeigt die Rückseite eines Servers mit verschiedenen Anschlüssen wie VGA- und Ethernet-Ports, was auf ein IT-Thema hinweist, jedoch nicht explizit Cloud-Computing oder virtuelle Anwendungen darstellt.
+[09:44:37] 🖼  [Pexels] 'Computer computer IT technology' → Score 7/10 ✅  Das Bild zeigt zwei Männer vor einem Computer mit einer komplexen IT-Infrastruktur, jedoch ohne direkten Bezug zu Boot-Methoden, Installationstypen oder Partitionierungen.
+[09:44:39] ⚠️  [Pixabay] 'Zusammenfassung Infografik' → Score 5/10 ❌  Das Bild zeigt eine unspezifische, graue Wand mit einem Loch, das möglicherweise ein Lüftungsschacht oder ein Zugang sein könnte, aber es gibt keinen klaren Bezug zum IT-Thema. — nächste Quelle
+[09:44:43] 🖼  [Pexels] 'Computer computer IT technology' → Score 7/10 ✅  Das Bild zeigt zwei Computerbildschirme mit einer Benutzeroberfläche, die auf IT-Themen hindeutet, aber nicht explizit genug ist, um als perfekt (10) bewertet zu werden, da es keine spezifischen IT-Elemente wie Code, Terminals oder Hardware-Komponenten zeigt.
+[09:44:45] ⚠️  [Unsplash] 'Zusammenfassung Infografik' → Score 5/10 ❌  Das Bild zeigt eine Infografik mit einem Liniendiagramm, das offenbar statistische Daten darstellt, aber keinen direkten Bezug zu einem spezifischen IT-Thema wie Hardware, Software oder Programmierung hat. — nächste Quelle
+[09:44:47] 🖼  [Pexels] 'Computer computer IT technology' → Score 8/10 ✅  Das Bild zeigt eine Computerplatine mit verschiedenen Komponenten und Kabeln, was thematisch gut zum IT-Kontext passt, insbesondere zu Themen wie Hardware und Computertechnologie.
+[09:44:53] 🖼  [Pexels] 'Computer computer IT technology' → Score 8/10 ✅  Das Bild zeigt eine Computerplatine mit verschiedenen Komponenten und Kabeln, was thematisch gut zum IT-Kontext passt, insbesondere zu Themen wie Hardware und Computertechnologie.
+[09:44:53] 🖼  [Fallback] 'Zusammenfassung Infografik' → Score 7/10 ✅  Das Bild zeigt eine Computerplatine mit verschiedenen Komponenten, was einen klaren Bezug zum IT-Thema hat, aber nicht spezifisch auf ein bestimmtes Thema wie Software oder Netzwerk fokussiert ist.
+[09:45:08] ⚠️  [Pexels] 'Computer computer IT technology' → Score 6/10 ❌  Das Bild zeigt eine Gruppe von Schülern in einem Computerraum, aber es gibt keinen konkreten IT-Bezug wie Hardware, Software oder Terminals, sondern nur einen allgemeinen Computereinsatz. — nächste Quelle
+[09:45:15] 🖼  [Unsplash] 'Computer computer IT technology' → Score 7/10 ✅  Das Bild zeigt ein Laptop und verschiedene IT-Geräte wie eine externe Festplatte, ein Tablet und eine Kamera, aber auch ein Kochbuch und einen Stift, was den IT-Bezug teilweise verwischt.
+[09:45:15]   ✓ Bilder vorgeladen
+[09:45:29] 🖼  [Pexels] 'CPU processor chip circuit board closeup' → Score 7/10 ✅  Das Bild zeigt eine Nahaufnahme eines Computer-Motherboards mit verschiedenen Komponenten, darunter ein Prozessorchip, was thematisch relevant für IT und Computerhardware ist, jedoch nicht direkt auf virtuellen Speicher und Paging hinweist.
+[09:45:37] 🖼  [Pexels] 'Ethernet network diagram computer' → Score 7/10 ✅  Das Bild zeigt eine Netzwerk-Komponente mit Ethernet-Kabel und ist daher thematisch relevant für IT, aber es bezieht sich nicht direkt auf Dateisysteme und Organisation.
+[09:45:38] 🖼  [Pexels] 'Linux operating system Linux terminal' → Score 8/10 ✅  Das Bild zeigt einen Ausschnitt eines Computerbildschirms mit Code, der auf einem Linux-System (vermutlich) läuft, was für das Thema "Prozesse und Threads" im IT-Kontext relevant ist, jedoch nicht direkt Prozesse oder Threads visualisiert.
+[09:46:20] 🖼  [Pexels] 'HTTP web browser request server internet' → Score 7/10 ✅  Das Bild zeigt die Rückseite eines Servers mit verschiedenen Anschlüssen wie VGA- und Ethernet-Ports, was thematisch relevant für IT und Netzwerke ist, aber nicht direkt mit dem spezifischen Thema "HTTP web browser request server internet" zusammenhängt.
+[09:46:30] 🖼  [Pexels] 'Verschlüsselungsschnittstellen' → Score 8/10 ✅  Das Bild zeigt einen Ausschnitt von Quellcode mit verschiedenen Programmzeilen, die auf eine IT-Thematik hindeuten, insbesondere auf Verschlüsselung oder Programmierung, und ist daher für eine IT-Schulungsfolie zu Verschlüsselungsschnittstellen gut geeignet.
+[09:46:40] ⚠️  [Pexels] 'Kursmaterialien Whiteboards' → Score 5/10 ❌  Das Bild zeigt ein Whiteboard mit To-Do-Liste und Post-it-Zetteln, aber es gibt keinen erkennbaren Bezug zu einem spezifischen IT-Thema. — nächste Quelle
+[09:46:44] ⚠️  [Pixabay] 'Kursmaterialien Whiteboards' → Score 5/10 ❌  Das Bild zeigt eine Frau, die ein Whiteboard hält, aber es gibt keinen spezifischen IT-Bezug erkennbar, lediglich ein generisches Bild von Kursmaterialien. — nächste Quelle
+[09:46:49] ⚠️  [Unsplash] 'Kursmaterialien Whiteboards' → Score 5/10 ❌  Das Bild zeigt ein paar Blätter Papier, einen Stift und ein Notizbuch, aber keinen erkennbaren IT-Bezug, weshalb es für eine IT-Schulungsfolie nur schwach geeignet ist. — nächste Quelle
+[09:46:57] ⚠️  [Fallback] 'Kursmaterialien Whiteboards' → Score 2/10 ❌  Das Bild zeigt keine erkennbare Verbindung zu Kursmaterialien oder Whiteboards im IT-Kontext, sondern lediglich eine Ansicht von Computerhardware mit verschiedenen Anschlüssen. — nächste Quelle
+[09:46:57] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Kursmaterialien Whiteboards'
+[09:47:07] ⚠️  [Pexels] 'Theoretische Bitstreie' → Score 5/10 ❌  Das Bild zeigt drei Personen in einem Büroumfeld, aber es gibt keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Netzwerk. — nächste Quelle
+[09:47:11] ⚠️  [Pixabay] 'Theoretische Bitstreie' → Score 1/10 ❌  Das Bild zeigt zwei Männer, vermutlich berühmte Persönlichkeiten, ohne erkennbaren IT-Bezug, daher ist es für eine IT-Schulungsfolie nicht geeignet. — nächste Quelle
+[09:47:26] ⚠️  [Fallback] 'Theoretische Bitstreie' → Score 5/10 ❌  Das Bild zeigt einen Screenshot von Quellcode in einem Editor, was einen schwachen, aber erkennbaren Bezug zum IT-Thema hat, jedoch könnte es thematisch spezifischer sein. — nächste Quelle
+[09:47:27] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Theoretische Bitstreie'
+[09:47:55] ⚠️  [Pexels] 'Netzwerkkomponenten' → Score 2/10 ❌  Das Bild zeigt eine Sammlung von Zahnrädern, die keinen erkennbaren Bezug zu Netzwerkkomponenten oder einem spezifischen IT-Thema haben. — nächste Quelle
+[09:48:05] 🖼  [Unsplash] 'Netzwerkkomponenten' → Score 8/10 ✅  Das Bild zeigt eine Visualisierung eines Netzwerks mit verbundenen Knoten, was gut zum Thema "Netzwerkkomponenten" passt und einen klaren IT-Bezug aufweist.
+[09:48:15] ⚠️  [Pexels] 'Datenbankprinzipien' → Score 2/10 ❌  Das Bild zeigt eine Person, die an einem Geldautomaten eine PIN eingibt, und hat keinen erkennbaren Bezug zu Datenbankprinzipien oder einem IT-Thema im Kontext von Computern oder Software. — nächste Quelle
+[09:48:27] ⚠️  [Fallback] 'Datenbankprinzipien' → Score 2/10 ❌  Das Bild zeigt eine Computer-Hardware-Komponente (CPU-Sockel), hat jedoch keinen erkennbaren Bezug zu Datenbankprinzipien. — nächste Quelle
+[09:48:27] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 2/10) für: 'Datenbankprinzipien'
+[09:48:49] ✓ PPTX: IT-260327-0934-de_de_Alle_Kapitel.pptx
+[09:48:49] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[09:48:49]   ⚡ Generiere DOCX-Inhalte parallel (3 gleichzeitig)...
+[09:50:13]   📖 Allgemeine Grundlagen
+[09:50:13]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[09:50:15]   📖 Geläufige Betriebssysteme (Windows, Linus, macOS, 
+[09:50:15]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[09:50:23]   📖 Betriebssysteme
+[09:50:23]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[09:55:40]   📖 Boot-Methoden, Installationstypen, Partitionierung
+[09:55:40]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[09:55:46] ✓ DOCX: IT-260327-0934-de_de_Alle_Kapitel_AB.docx
+[09:55:46] 
+============================================================
+[09:55:46] 🎉 FERTIG!
+[09:55:46] ============================================================
+[09:55:46] ─────────────────────────────────────────────────────────────────
+[09:55:46] 📁 OUTPUT-DATEIEN
+[09:55:46]   Dateiname                                               Bytes  Datum
+[09:55:46] ─────────────────────────────────────────────────────────────────
+[09:55:46]   IT-260318-2059-de_Alle_Kapitel.pptx                  12507514  2026-03-18 21:08
+[09:55:46]   IT-260319-1710-de_Alle_Kapitel.pptx                  21916078  2026-03-19 17:28
+[09:55:46]   IT-260319-1740-de_Alle_Kapitel.pptx                  13396247  2026-03-19 17:54
+[09:55:46]   IT-260323-1943-de_Alle_Kapitel.pptx                   3041937  2026-03-23 19:53
+[09:55:46]   IT-260323-1943-de_Alle_Kapitel_neu.pptx               2523028  2026-03-23 21:11
+[09:55:46]   IT-260323-2201-de_Alle_Kapitel.pptx                    482184  2026-03-23 22:19
+[09:55:46]   IT-260323-2238-de_Alle_Kapitel.pptx                   2749741  2026-03-23 22:50
+[09:55:46]   IT-260323-2307-de_Alle_Kapitel.pptx                   2483594  2026-03-23 23:32
+[09:55:46]   IT-260324-1459-de_de_Alle_Kapitel.pptx                4619681  2026-03-24 22:22
+[09:55:46]   IT-260324-1649-de_de_Alle_Kapitel.pptx                 906321  2026-03-24 16:54
+[09:55:46]   IT-260324-2040-de_de_Alle_Kapitel.pptx                4390871  2026-03-24 20:55
+[09:55:46]   IT-260324-2108-de_de_Alle_Kapitel.pptx                3707917  2026-03-24 21:19
+[09:55:46]   IT-260324-2108-de_fr_Alle_Kapitel.pptx                5377549  2026-03-24 22:04
+[09:55:46]   IT-260324-2215-de_de_Alle_Kapitel.pptx                2726937  2026-03-24 22:30
+[09:55:46]   IT-260325-1135-de_de_Alle_Kapitel.pptx                 770334  2026-03-25 11:45
+[09:55:46]   IT-260325-1135-de_fr_Alle_Kapitel.pptx                1022594  2026-03-25 11:50
+[09:55:46]   IT-260325-1135-de_tr_Alle_Kapitel.pptx                 712919  2026-03-25 11:55
+[09:55:46]   IT-260325-1423-de_de_Alle_Kapitel.pptx                1234240  2026-03-25 14:40
+[09:55:46]   IT-260325-1423-de_tr_Alle_Kapitel.pptx                1220308  2026-03-25 15:02
+[09:55:46]   IT-260325-2107-de_de_Alle_Kapitel.pptx                1150930  2026-03-25 21:18
+[09:55:46]   IT-260325-2107-de_fr_Alle_Kapitel.pptx                1721309  2026-03-25 21:37
+[09:55:46]   IT-260325-2107-de_tr_Alle_Kapitel.pptx                1519691  2026-03-25 21:46
+[09:55:46]   IT-260325-2157-de_de_Alle_Kapitel.pptx                1993934  2026-03-25 22:16
+[09:55:46]   IT-260325-2232-de_de_Alle_Kapitel.pptx                1318488  2026-03-25 22:42
+[09:55:46]   IT-260325-2304-de_de_Alle_Kapitel.pptx                 343171  2026-03-25 23:12
+[09:55:46]   IT-260326-1334-de_de_Alle_Kapitel.pptx                 981734  2026-03-26 13:50
+[09:55:46]   IT-260326-1334-de_tr_Alle_Kapitel.pptx                1133046  2026-03-26 14:01
+[09:55:46]   IT-260326-1426-de_de_Alle_Kapitel.pptx                 701609  2026-03-26 14:34
+[09:55:46]   IT-260326-1456-de_de_Alle_Kapitel.pptx                1135589  2026-03-26 15:08
+[09:55:46]   IT-260327-0934-de_de_Alle_Kapitel.pptx                1398870  2026-03-27 09:48
+[09:55:46]   ~$IT-260324-1459-de_de_Alle_Kapitel.pptx                  165  2026-03-27 07:55
+[09:55:46]   ~$IT-260325-2304-de_de_Alle_Kapitel.pptx                  165  2026-03-25 23:25
+[09:55:46]   IT-260318-1816-de_Alle_Kapitel_AB.docx                  60069  2026-03-18 18:21
+[09:55:47]   IT-260318-2059-de_Alle_Kapitel_AB.docx                  61018  2026-03-18 21:10
+[09:55:47]   IT-260319-1604-de_Alle_Kapitel_AB.docx                  79231  2026-03-19 16:12
+[09:55:47]   IT-260319-1740-de_Alle_Kapitel_AB.docx                  63101  2026-03-19 18:10
+[09:55:47]   IT-260319-1811-en_Alle_Kapitel_AB.docx                  75220  2026-03-19 18:19
+[09:55:47]   IT-260319-1848-tr_Alle_Kapitel_AB.docx                  62545  2026-03-19 18:53
+[09:55:47]   IT-260321-1456-de_Alle_Kapitel_AB.docx                  44291  2026-03-21 15:00
+[09:55:47]   IT-260323-1943-de_Alle_Kapitel_AB.docx                  71097  2026-03-23 19:56
+[09:55:47]   IT-260323-1943-de_Alle_Kapitel_AB_neu.docx              77354  2026-03-23 21:21
+[09:55:47]   IT-260323-2201-de_Alle_Kapitel_AB.docx                  42944  2026-03-23 22:19
+[09:55:47]   IT-260323-2238-de_Alle_Kapitel_AB.docx                  65519  2026-03-23 22:51
+[09:55:47]   IT-260323-2307-de_Alle_Kapitel_AB.docx                  54675  2026-03-23 23:27
+[09:55:47]   IT-260324-1412-de_de_Alle_Kapitel_AB.docx              106159  2026-03-24 14:24
+[09:55:47]   IT-260324-1459-de_de_Alle_Kapitel_AB.docx              107378  2026-03-24 15:19
+[09:55:47]   IT-260324-1649-de_de_Alle_Kapitel_AB.docx               44066  2026-03-24 16:57
+[09:55:47]   IT-260324-2108-de_de_Alle_Kapitel_AB.docx               78962  2026-03-24 21:50
+[09:55:47]   IT-260324-2108-de_fr_Alle_Kapitel_AB.docx               46655  2026-03-24 22:04
+[09:55:47]   IT-260324-2215-de_de_Alle_Kapitel_AB.docx               79182  2026-03-24 22:43
+[09:55:47]   IT-260325-1135-de_de_Alle_Kapitel_AB.docx               43747  2026-03-25 11:46
+[09:55:47]   IT-260325-1135-de_fr_Alle_Kapitel_AB.docx               43253  2026-03-25 11:50
+[09:55:47]   IT-260325-1135-de_tr_Alle_Kapitel_AB.docx               40706  2026-03-25 11:55
+[09:55:47]   IT-260325-1423-de_de_Alle_Kapitel_AB.docx               55661  2026-03-25 14:49
+[09:55:47]   IT-260325-1423-de_tr_Alle_Kapitel_AB.docx               56180  2026-03-25 15:04
+[09:55:47]   IT-260325-2107-de_de_Alle_Kapitel_AB.docx               58865  2026-03-25 21:27
+[09:55:47]   IT-260325-2107-de_fr_Alle_Kapitel_AB.docx               61332  2026-03-25 21:39
+[09:55:47]   IT-260325-2107-de_tr_Alle_Kapitel_AB.docx               56629  2026-03-25 21:54
+[09:55:47]   IT-260325-2232-de_de_Alle_Kapitel_AB.docx               60290  2026-03-25 22:52
+[09:55:47]   IT-260325-2304-de_de_Alle_Kapitel_AB.docx               52370  2026-03-25 23:18
+[09:55:47]   IT-260326-1546-de_de_Alle_Kapitel_AB.docx               63281  2026-03-26 17:53
+[09:55:47]   IT-260326-1546-de_en_Alle_Kapitel_AB.docx               76761  2026-03-26 18:17
+[09:55:47]   IT-260326-1546-de_it_Alle_Kapitel_AB.docx               70495  2026-03-26 18:27
+[09:55:47]   IT-260327-0934-de_de_Alle_Kapitel_AB.docx               60080  2026-03-27 09:55
+[09:55:47]   ~$-260319-1848-tr_Alle_Kapitel_AB.docx                    162  2026-03-20 18:37
+[09:55:47] ─────────────────────────────────────────────────────────────────
+[09:55:47]   GESAMT                                              101207973  (65 Dateien)
+[09:55:47] ─────────────────────────────────────────────────────────────────
+[09:55:47] ⚡ Starte 2 Zusatzsprachen parallel (Translate-Modus)...
+[10:03:05]   [Français] ✓ 4 Kapitel übersetzt
+[10:03:05]   [English] ✓ 4 Kapitel übersetzt
+[10:03:07] [English] PPTX: IT-260327-0934-de_en_Alle_Kapitel.pptx
+[10:03:07] [Français] PPTX: IT-260327-0934-de_fr_Alle_Kapitel.pptx
+[10:10:01] [English] DOCX: IT-260327-0934-de_en_Alle_Kapitel_AB.docx
+[10:10:20] [Français] DOCX: IT-260327-0934-de_fr_Alle_Kapitel_AB.docx
+[10:10:20] 🔍 QA Agent gestartet (neues Fenster)...
+[10:10:28] 
+────────────────────────────────────────────────────────────
+[10:10:28] 🔍 QA REPORT  —  ✅ PASSED
+[10:10:28]    10 OK  |  0 Warnungen  |  0 Fehler
+[10:10:28] ────────────────────────────────────────────────────────────
+[10:10:28]   ✅  PPTX 'IT-260327-0934-de_de_Alle_Kapitel.pptx': 20 Folien ✓
+[10:10:28]   ✅  PPTX Größe: 1.3 MB ✓
+[10:10:28]   ✅  Alle Folien haben ausreichende Sprechernotizen ✓
+[10:10:28]   ✅  Alle Folien haben ausreichend Text/Bullets ✓
+[10:10:28]   ✅  Bilder auf 100% der Folien ✓
+[10:10:28]   ✅  25 Links geprüft — alle erreichbar ✓
+[10:10:28]   ✅  DOCX 'IT-260327-0934-de_de_Alle_Kapitel_AB.docx': 0.06 MB ✓
+[10:10:28]   ✅  DOCX Umfang: 847 Absätze ✓
+[10:10:28]   ✅  Alle 5 Pflicht-Sektionen vorhanden (🎯📖✏️✅📝) ✓
+[10:10:28]   ✅  DOCX Kapitel: 4 Überschriften ✓
+[10:10:28] ────────────────────────────────────────────────────────────
+

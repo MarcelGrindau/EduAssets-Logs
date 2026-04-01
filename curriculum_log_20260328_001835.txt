@@ -1,0 +1,188 @@
+[00:11:32] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[00:11:32] OpenRouter: 26 Free-Engines geladen
+[00:11:32] ========================================================
+[00:11:32] 📚 Curriculum Generator  v6.5  |  Build 134  |  2026-03-28
+[00:11:32]    B134: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[00:11:32] ========================================================
+[00:11:49] ✅ 1 Kapitel übernommen.
+[00:12:02] ▶ Start: 'IT-260328-0011-de' | 1 Kapitel | 12 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Mittel (~20 Seiten)
+[00:12:02] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[00:12:02] ⚠️  MULTI-KI AKTIV: 22 Engines + Claude Synthese
+[00:12:02]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[00:12:02] ============================================================
+[00:12:02] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 1 Kapitel
+[00:12:02] ============================================================
+[00:12:02] [1/1] BLOCK 1 – Beschaffung & Angebotsvergleich
+[00:12:02]   Multi-KI: 19 Engines | 3 Batch(es) | Zeitbudget: 45s
+[00:12:04]   Multi-KI: gemma-3-27b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:12:04]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:12:04]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:12:21]   Multi-KI: trinity-mini:free OK (7911 Z.)
+[00:12:47]   Multi-KI: nemotron-3-super-120b- Zeitbudget (45s) ueberschritten — uebersprungen
+[00:12:48]   Multi-KI: step-3.5-flash:free Zeitbudget (45s) ueberschritten — uebersprungen
+[00:12:48]   Multi-KI: nemotron-3-nano-30b-a3 Zeitbudget (45s) ueberschritten — uebersprungen
+[00:12:49]   Multi-KI: glm-4.5-air:free Zeitbudget (45s) ueberschritten — uebersprungen
+[00:12:49]   Multi-KI: Batch 1 fertig in 46.6s
+[00:12:51]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:12:51]   Multi-KI: mistral-small-3.1-24b- Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:12:51]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:12:56]   Multi-KI: nemotron-3-nano-30b-a3 verworfen (zu kurz/falsche Sprache)
+[00:13:08]   Multi-KI: lfm-2.5-1.2b-thinking: OK (9960 Z.)
+[00:13:15]   Multi-KI: trinity-large-preview: OK (9560 Z.)
+[00:13:16]   Multi-KI: step-3.5-flash:free verworfen (zu kurz/falsche Sprache)
+[00:13:34]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (45s) ueberschritten — uebersprungen
+[00:13:35]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (45s) ueberschritten — uebersprungen
+[00:13:35]   Multi-KI: gemma-3-4b-it:free Zeitbudget (45s) ueberschritten — uebersprungen
+[00:13:35]   Multi-KI: Batch 2 fertig in 46.0s
+[00:13:37]   Multi-KI: gemma-3-12b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:13:51]   Multi-KI: gemma-3-4b-it:free OK (9877 Z.)
+[00:14:18]   Multi-KI: gemma-3n-e2b-it:free OK (7373 Z.)
+[00:14:20]   Multi-KI: gemma-3n-e4b-it:free OK (7224 Z.)
+[00:14:20]   Multi-KI: Batch 3 fertig in 44.0s
+[00:14:20]   Multi-KI: trinity-mini:free → 12 Folien geparst
+[00:14:20]   Multi-KI: lfm-2.5-1.2b-thinking:free → 16 Folien geparst
+[00:14:20]   Multi-KI: trinity-large-preview:free → 12 Folien geparst
+[00:14:20]   Multi-KI: gemma-3-4b-it:free → 10 Folien geparst
+[00:14:20]   Multi-KI: gemma-3n-e2b-it:free → 12 Folien geparst
+[00:14:20]   Multi-KI: gemma-3n-e4b-it:free → 12 Folien geparst
+[00:14:20]   Multi-KI: Claude synthetisiert 6 Versionen...
+[00:14:48]   Multi-KI: nemotron-nano-12b-v2-v verworfen (zu kurz/falsche Sprache)
+[00:14:57]   Multi-KI: nemotron-nano-9b-v2:fr Fehler — Leere choices in API-Antwort
+[00:15:04]   Multi-KI: nemotron-3-super-120b- OK (25843 Z.)
+[00:15:56]   Multi-KI: Synthese OK (12 Folien)
+[00:15:56]   ✓ 12 Folien generiert
+[00:15:56] 
+📊 Gesamt: 12 Folien in 1 Kapiteln
+[00:15:56] 
+📊 Erstelle kombinierte Präsentation...
+[00:15:57]   ⚡ Lade 12 Bilder parallel...
+[00:16:12] 🖼  [Pexels] 'Fallstudie Serverbeschaffung' → Score 7/10 ✅  Das Bild zeigt Personen am Schreibtisch mit Dokumenten und einem Laptop, was thematisch relevant für IT-Beschaffung ist, aber kein direkter IT-Bezug wie Hardware oder Software erkennbar ist.
+[00:16:13] ⚠️  [Pexels] 'Beschaffungsprozess Schritte' → Score 1/10 ❌  Das Bild zeigt eine Stadtlandschaft mit Gebäuden und Straßen, aber keinen erkennbaren IT-Bezug, daher ist es für eine IT-Schulungsfolie zum Thema "Beschaffungsprozess" nicht geeignet. — nächste Quelle
+[00:16:22] ⚠️  [Pixabay] 'Beschaffungsprozess Schritte' → Score 1/10 ❌  Das Bild zeigt eine Treppe und hat keinen erkennbaren Bezug zum Thema "Beschaffungsprozess" oder IT-Kontext. — nächste Quelle
+[00:16:23] ⚠️  [Pexels] 'Formel' → Score 1/10 ❌  Das Bild zeigt ein Formelrennauto, welches keinen erkennbaren Bezug zum IT-Thema oder zur Nutzwertanalyse hat. — nächste Quelle
+[00:16:25] ⚠️  [Pexels] 'Kriterien' → Score 5/10 ❌  Das Bild zeigt Menschen, die durch einen Raum gehen, aber es gibt keinen erkennbaren Bezug zu IT oder Informatik. — nächste Quelle
+[00:16:25] 🖼  [Pexels] 'Beschaffung' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:30] 🖼  [Pixabay] 'Formel' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:32] 🖼  [Pixabay] 'Kriterien' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:33] 🖼  [Pexels] 'learning objectives IT und smart-ziele' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:36] 🖼  [Fallback] 'Beschaffungsprozess Schritte' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:37] 🖼  [Pexels] 'Vertragsarten' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:38] 🖼  [Pexels] 'Fallstudie Softwarelizenzierung' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:54] 🖼  [Pexels] 'IT computer IT technology' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:56] 🖼  [Pexels] 'Wissenscheck' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:56] 🖼  [Pexels] 'IT computer IT technology' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:59] 🖼  [Pexels] 'Beschaffungsprozess' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:16:59]   ✓ Bilder vorgeladen
+[00:17:17] 🖼  [Pexels] 'Matrix computer mathematics diagram' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:17:30]   Multi-KI: glm-4.5-air:free OK (11690 Z.)
+[00:17:40] ⚠️  [Pexels] 'Schritt' → Score 5/10 ❌  Das Bild zeigt eine Person in einem urbanen Umfeld, aber es gibt keinen erkennbaren Bezug zum IT-Thema. — nächste Quelle
+[00:17:46] 🖼  [Pixabay] 'Schritt' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:18:14] 🖼  [Pexels] 'Werkvertrag Dienstvertrag' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:18:21] ✓ PPTX: IT-260328-0011-de_de_Alle_Kapitel.pptx
+[00:18:21] 
+============================================================
+[00:18:21] 🎉 FERTIG!
+[00:18:21] ============================================================
+[00:18:21] ─────────────────────────────────────────────────────────────────
+[00:18:21] 📁 OUTPUT-DATEIEN
+[00:18:21]   Dateiname                                               Bytes  Datum
+[00:18:21] ─────────────────────────────────────────────────────────────────
+[00:18:21]   IT-260318-2059-de_Alle_Kapitel.pptx                  12507514  2026-03-18 21:08
+[00:18:21]   IT-260319-1710-de_Alle_Kapitel.pptx                  21916078  2026-03-19 17:28
+[00:18:21]   IT-260319-1740-de_Alle_Kapitel.pptx                  13396247  2026-03-19 17:54
+[00:18:21]   IT-260323-1943-de_Alle_Kapitel.pptx                   3041937  2026-03-23 19:53
+[00:18:21]   IT-260323-1943-de_Alle_Kapitel_neu.pptx               2523028  2026-03-23 21:11
+[00:18:21]   IT-260323-2201-de_Alle_Kapitel.pptx                    482184  2026-03-23 22:19
+[00:18:21]   IT-260323-2238-de_Alle_Kapitel.pptx                   2749741  2026-03-23 22:50
+[00:18:21]   IT-260323-2307-de_Alle_Kapitel.pptx                   2483594  2026-03-23 23:32
+[00:18:21]   IT-260324-1459-de_de_Alle_Kapitel.pptx                4619681  2026-03-24 22:22
+[00:18:21]   IT-260324-1649-de_de_Alle_Kapitel.pptx                 906321  2026-03-24 16:54
+[00:18:21]   IT-260324-2040-de_de_Alle_Kapitel.pptx                4390871  2026-03-24 20:55
+[00:18:21]   IT-260324-2108-de_de_Alle_Kapitel.pptx                3707917  2026-03-24 21:19
+[00:18:21]   IT-260324-2108-de_fr_Alle_Kapitel.pptx                5377549  2026-03-24 22:04
+[00:18:21]   IT-260324-2215-de_de_Alle_Kapitel.pptx                2726937  2026-03-24 22:30
+[00:18:21]   IT-260325-1135-de_de_Alle_Kapitel.pptx                 770334  2026-03-25 11:45
+[00:18:21]   IT-260325-1135-de_fr_Alle_Kapitel.pptx                1022594  2026-03-25 11:50
+[00:18:21]   IT-260325-1135-de_tr_Alle_Kapitel.pptx                 712919  2026-03-25 11:55
+[00:18:21]   IT-260325-1423-de_de_Alle_Kapitel.pptx                1234240  2026-03-25 14:40
+[00:18:21]   IT-260325-1423-de_tr_Alle_Kapitel.pptx                1220308  2026-03-25 15:02
+[00:18:21]   IT-260325-2107-de_de_Alle_Kapitel.pptx                1150930  2026-03-25 21:18
+[00:18:21]   IT-260325-2107-de_fr_Alle_Kapitel.pptx                1721309  2026-03-25 21:37
+[00:18:21]   IT-260325-2107-de_tr_Alle_Kapitel.pptx                1519691  2026-03-25 21:46
+[00:18:21]   IT-260325-2157-de_de_Alle_Kapitel.pptx                1993934  2026-03-25 22:16
+[00:18:21]   IT-260325-2232-de_de_Alle_Kapitel.pptx                1318488  2026-03-25 22:42
+[00:18:21]   IT-260325-2304-de_de_Alle_Kapitel.pptx                 343171  2026-03-25 23:12
+[00:18:21]   IT-260326-1334-de_de_Alle_Kapitel.pptx                 981734  2026-03-26 13:50
+[00:18:21]   IT-260326-1334-de_tr_Alle_Kapitel.pptx                1133046  2026-03-26 14:01
+[00:18:21]   IT-260326-1426-de_de_Alle_Kapitel.pptx                 701609  2026-03-26 14:34
+[00:18:21]   IT-260326-1456-de_de_Alle_Kapitel.pptx                1135589  2026-03-26 15:08
+[00:18:22]   IT-260327-0934-de_de_Alle_Kapitel.pptx                1398870  2026-03-27 09:48
+[00:18:22]   IT-260327-0934-de_en_Alle_Kapitel.pptx                1398866  2026-03-27 10:03
+[00:18:22]   IT-260327-0934-de_fr_Alle_Kapitel.pptx                1398866  2026-03-27 10:03
+[00:18:22]   IT-260327-1418-de_de_Alle_Kapitel.pptx                1723690  2026-03-27 14:52
+[00:18:22]   IT-260327-1515-de_de_Alle_Kapitel.pptx                1420698  2026-03-27 15:40
+[00:18:22]   IT-260327-1931-de_de_Alle_Kapitel.pptx                2729209  2026-03-27 21:54
+[00:18:22]   IT-260327-2011-de_de_Alle_Kapitel.pptx                1468637  2026-03-27 20:34
+[00:18:22]   IT-260327-2050-de_de_Alle_Kapitel.pptx                1196213  2026-03-27 21:11
+[00:18:22]   IT-260328-0011-de_de_Alle_Kapitel.pptx                 561073  2026-03-28 00:18
+[00:18:22]   ~$IT-260325-2304-de_de_Alle_Kapitel.pptx                  165  2026-03-25 23:25
+[00:18:22]   IT-260318-1816-de_Alle_Kapitel_AB.docx                  60069  2026-03-18 18:21
+[00:18:22]   IT-260318-2059-de_Alle_Kapitel_AB.docx                  61018  2026-03-18 21:10
+[00:18:22]   IT-260319-1604-de_Alle_Kapitel_AB.docx                  79231  2026-03-19 16:12
+[00:18:22]   IT-260319-1740-de_Alle_Kapitel_AB.docx                  63101  2026-03-19 18:10
+[00:18:22]   IT-260319-1811-en_Alle_Kapitel_AB.docx                  75220  2026-03-19 18:19
+[00:18:22]   IT-260319-1848-tr_Alle_Kapitel_AB.docx                  62545  2026-03-19 18:53
+[00:18:22]   IT-260321-1456-de_Alle_Kapitel_AB.docx                  44291  2026-03-21 15:00
+[00:18:22]   IT-260323-1943-de_Alle_Kapitel_AB.docx                  71097  2026-03-23 19:56
+[00:18:22]   IT-260323-1943-de_Alle_Kapitel_AB_neu.docx              77354  2026-03-23 21:21
+[00:18:22]   IT-260323-2201-de_Alle_Kapitel_AB.docx                  42944  2026-03-23 22:19
+[00:18:22]   IT-260323-2238-de_Alle_Kapitel_AB.docx                  65519  2026-03-23 22:51
+[00:18:22]   IT-260323-2307-de_Alle_Kapitel_AB.docx                  54675  2026-03-23 23:27
+[00:18:22]   IT-260324-1412-de_de_Alle_Kapitel_AB.docx              106159  2026-03-24 14:24
+[00:18:22]   IT-260324-1459-de_de_Alle_Kapitel_AB.docx              107378  2026-03-24 15:19
+[00:18:22]   IT-260324-1649-de_de_Alle_Kapitel_AB.docx               44066  2026-03-24 16:57
+[00:18:22]   IT-260324-2108-de_de_Alle_Kapitel_AB.docx               78962  2026-03-24 21:50
+[00:18:22]   IT-260324-2108-de_fr_Alle_Kapitel_AB.docx               46655  2026-03-24 22:04
+[00:18:22]   IT-260324-2215-de_de_Alle_Kapitel_AB.docx               79182  2026-03-24 22:43
+[00:18:22]   IT-260325-1135-de_de_Alle_Kapitel_AB.docx               43747  2026-03-25 11:46
+[00:18:22]   IT-260325-1135-de_fr_Alle_Kapitel_AB.docx               43253  2026-03-25 11:50
+[00:18:22]   IT-260325-1135-de_tr_Alle_Kapitel_AB.docx               40706  2026-03-25 11:55
+[00:18:22]   IT-260325-1423-de_de_Alle_Kapitel_AB.docx               55661  2026-03-25 14:49
+[00:18:22]   IT-260325-1423-de_tr_Alle_Kapitel_AB.docx               56180  2026-03-25 15:04
+[00:18:22]   IT-260325-2107-de_de_Alle_Kapitel_AB.docx               58865  2026-03-25 21:27
+[00:18:22]   IT-260325-2107-de_fr_Alle_Kapitel_AB.docx               61332  2026-03-25 21:39
+[00:18:22]   IT-260325-2107-de_tr_Alle_Kapitel_AB.docx               56629  2026-03-25 21:54
+[00:18:22]   IT-260325-2232-de_de_Alle_Kapitel_AB.docx               60290  2026-03-25 22:52
+[00:18:22]   IT-260325-2304-de_de_Alle_Kapitel_AB.docx               52370  2026-03-25 23:18
+[00:18:22]   IT-260326-1546-de_de_Alle_Kapitel_AB.docx               63281  2026-03-26 17:53
+[00:18:22]   IT-260326-1546-de_en_Alle_Kapitel_AB.docx               76761  2026-03-26 18:17
+[00:18:22]   IT-260326-1546-de_it_Alle_Kapitel_AB.docx               70495  2026-03-26 18:27
+[00:18:22]   IT-260327-0934-de_de_Alle_Kapitel_AB.docx               60080  2026-03-27 09:55
+[00:18:22]   IT-260327-0934-de_en_Alle_Kapitel_AB.docx               60205  2026-03-27 10:10
+[00:18:22]   IT-260327-0934-de_fr_Alle_Kapitel_AB.docx               60503  2026-03-27 10:10
+[00:18:22]   IT-260327-1515-de_de_Alle_Kapitel_AB.docx               61445  2026-03-27 15:46
+[00:18:22]   IT-260327-1931-de_de_Alle_Kapitel_AB.docx               61997  2026-03-27 19:55
+[00:18:22]   IT-260327-2011-de_de_Alle_Kapitel_AB.docx               55427  2026-03-27 20:36
+[00:18:22]   IT-260327-2337-de_de_Alle_Kapitel_AB.docx               43999  2026-03-27 23:50
+[00:18:22]   ~$-260319-1848-tr_Alle_Kapitel_AB.docx                    162  2026-03-20 18:37
+[00:18:22] ─────────────────────────────────────────────────────────────────
+[00:18:22]   GESAMT                                              113448636  (78 Dateien)
+[00:18:22] ─────────────────────────────────────────────────────────────────
+[00:18:22] 🔍 QA Agent gestartet (neues Fenster)...
+[00:18:24] 
+────────────────────────────────────────────────────────────
+[00:18:24] 🔍 QA REPORT  —  ⚠️ WARNINGS
+[00:18:24]    6 OK  |  1 Warnungen  |  0 Fehler
+[00:18:24] ────────────────────────────────────────────────────────────
+[00:18:24]   ✅  PPTX 'IT-260328-0011-de_de_Alle_Kapitel.pptx': 12 Folien ✓
+[00:18:24]   ✅  PPTX Größe: 0.5 MB ✓
+[00:18:24]   ✅  Alle Folien haben ausreichende Sprechernotizen ✓
+[00:18:24]   ✅  Alle Folien haben ausreichend Text/Bullets ✓
+[00:18:24]   ✅  Bilder auf 100% der Folien ✓
+[00:18:24]   ✅  7 Links geprüft — alle erreichbar ✓
+[00:18:24]   ⚠️  Kein DOCX erzeugt (optional)
+[00:18:24] 
+  📋 1 Probleme — bitte prüfen:
+[00:18:24]      ⚠️ Kein DOCX erzeugt (optional)
+[00:18:24] ────────────────────────────────────────────────────────────
+

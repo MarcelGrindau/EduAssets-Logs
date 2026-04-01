@@ -1,0 +1,323 @@
+[15:46:50] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[15:46:50] OpenRouter: 26 Free-Engines geladen
+[15:46:50] ========================================================
+[15:46:50] 📚 Curriculum Generator  v6.5  |  Build 122  |  2026-03-26
+[15:46:50]    B122: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[15:46:50] ========================================================
+[17:17:50] ✅ 4 Kapitel übernommen.
+[17:19:33] ✅ 6 Kapitel übernommen.
+[17:21:36] ▶ Start: 'IT-260326-1546-de' | 6 Kapitel | 5 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Mittel (~20 Seiten)
+[17:21:36] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[17:21:36] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[17:21:36] Zusatz-Sprachen: English, Italiano
+[17:21:36] ⚠️  MULTI-KI AKTIV: 22 Engines + Claude Synthese
+[17:21:36]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[17:21:36] ============================================================
+[17:21:36] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 6 Kapitel
+[17:21:36] ============================================================
+[17:21:36] [1/6] Nutzwertanalyse Tabelle,
+[17:21:36]   Multi-KI: 19 Engines | 3 Batch(es) | Zeitbudget: 45s
+[17:21:38]   Multi-KI: gemma-3-27b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[17:21:38]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[17:21:38]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[17:21:46]   Multi-KI: trinity-mini:free OK (3680 Z.)
+[17:22:17]   Multi-KI: nemotron-3-nano-30b-a3 OK (4824 Z.)
+[17:22:21]   Multi-KI: nemotron-3-super-120b- Zeitbudget (45s) ueberschritten — uebersprungen
+[17:22:22]   Multi-KI: step-3.5-flash:free Zeitbudget (45s) ueberschritten — uebersprungen
+[17:22:22]   Multi-KI: glm-4.5-air:free Zeitbudget (45s) ueberschritten — uebersprungen
+[17:22:22]   Multi-KI: Batch 1 fertig in 46.0s
+[17:22:24]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[17:22:24]   Multi-KI: mistral-small-3.1-24b- Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[17:22:24]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[17:22:24]   Multi-KI: gemma-3-4b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[17:22:32]   Multi-KI: lfm-2.5-1.2b-thinking: OK (3058 Z.)
+[17:22:53]   Multi-KI: step-3.5-flash:free OK (25901 Z.)
+[17:23:08]   Multi-KI: trinity-large-preview: Zeitbudget (45s) ueberschritten — uebersprungen
+[17:23:08]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (45s) ueberschritten — uebersprungen
+[17:23:09]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (45s) ueberschritten — uebersprungen
+[17:23:09]   Multi-KI: Batch 2 fertig in 46.0s
+[17:23:48]   Multi-KI: gemma-3n-e4b-it:free OK (5061 Z.)
+[17:23:53]   Multi-KI: nemotron-nano-12b-v2-v OK (3483 Z.)
+[17:23:54]   Multi-KI: gemma-3n-e2b-it:free OK (6464 Z.)
+[17:23:54]   Multi-KI: gemma-3-12b-it:free Zeitbudget (45s) ueberschritten — uebersprungen
+[17:23:54]   Multi-KI: Batch 3 fertig in 45.0s
+[17:23:54]   Multi-KI: trinity-mini:free → 6 Folien geparst
+[17:23:54]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:23:54]   Multi-KI: lfm-2.5-1.2b-thinking:free → 6 Folien geparst
+[17:23:54]   Multi-KI: step-3.5-flash:free → 5 Folien geparst
+[17:23:54]   Multi-KI: gemma-3n-e4b-it:free → 5 Folien geparst
+[17:23:54]   Multi-KI: nemotron-nano-12b-v2-vl:free → 5 Folien geparst
+[17:23:54]   Multi-KI: gemma-3n-e2b-it:free → 5 Folien geparst
+[17:23:54]   Multi-KI: Claude synthetisiert 7 Versionen...
+[17:24:03]   Multi-KI: gemma-3-12b-it:free OK (6768 Z.)
+[17:24:10]   Multi-KI: glm-4.5-air:free OK (5168 Z.)
+[17:24:12]   Multi-KI: trinity-large-preview: OK (4205 Z.)
+[17:25:02]   Multi-KI: Synthese OK (5 Folien)
+[17:25:02]   ✓ 5 Folien generiert
+[17:25:02] [2/6] Break - Even/Kostenvergleich
+[17:25:02]   Multi-KI: 5 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:25:15]   Multi-KI: lfm-2.5-1.2b-thinking: OK (3485 Z.)
+[17:25:15]   Multi-KI: trinity-mini:free OK (6115 Z.)
+[17:25:37]   Multi-KI: nemotron-3-nano-30b-a3 OK (28893 Z.)
+[17:25:47]   Multi-KI: gemma-3n-e2b-it:free Zeitbudget (45s) ueberschritten — uebersprungen
+[17:25:48]   Multi-KI: gemma-3n-e4b-it:free Zeitbudget (45s) ueberschritten — uebersprungen
+[17:25:48]   Multi-KI: Batch 1 fertig in 45.5s
+[17:25:48]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[17:25:48]   Multi-KI: trinity-mini:free → 7 Folien geparst
+[17:25:48]   ✗ FEHLER: 'str' object has no attribute 'get'
+[17:25:48] [3/6] Fallstudien
+[17:25:48]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:25:52]   Multi-KI: gemma-3n-e4b-it:free OK (5951 Z.)
+[17:25:57]   Multi-KI: nemotron-3-super-120b- OK (6652 Z.)
+[17:25:58]   Multi-KI: trinity-mini:free OK (3077 Z.)
+[17:25:58]   Multi-KI: lfm-2.5-1.2b-thinking: OK (3614 Z.)
+[17:26:02]   Multi-KI: gemma-3n-e2b-it:free OK (7812 Z.)
+[17:26:15]   Multi-KI: nemotron-3-nano-30b-a3 OK (3596 Z.)
+[17:26:15]   Multi-KI: Batch 1 fertig in 26.7s
+[17:26:15]   Multi-KI: trinity-mini:free → 6 Folien geparst
+[17:26:15]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[17:26:15]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:26:15]   Multi-KI: Claude synthetisiert 3 Versionen...
+[17:27:03]   Multi-KI: Synthese OK (5 Folien)
+[17:27:03]   ✓ 5 Folien generiert
+[17:27:03] [4/6] Typische Fehler und Lösungen
+[17:27:03]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:27:12]   Multi-KI: lfm-2.5-1.2b-thinking: gesperrt (nur 1171 Z. < 1500 Minimum)
+[17:27:13]   Multi-KI: nemotron-nano-9b-v2:fr OK (3779 Z.)
+[17:27:15]   Multi-KI: trinity-mini:free OK (5380 Z.)
+[17:27:41]   Multi-KI: nemotron-3-nano-30b-a3 verworfen (zu kurz/falsche Sprache)
+[17:27:41]   Multi-KI: Batch 1 fertig in 37.6s
+[17:27:41]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:27:41]   Multi-KI: 1 Version — Claude prueft Qualitaet
+[17:32:08]   Multi-KI: Refinement OK (5 Folien)
+[17:32:08]   ✓ 5 Folien generiert
+[17:32:08] [5/6] network components
+[17:32:08]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:32:18]   Multi-KI: trinity-mini:free OK (4513 Z.)
+[17:32:33]   Multi-KI: nemotron-3-nano-30b-a3 OK (3760 Z.)
+[17:32:33]   Multi-KI: Batch 1 fertig in 24.4s
+[17:32:33]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:32:33]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:32:33]   Multi-KI: Claude synthetisiert 2 Versionen...
+[17:33:13]   Multi-KI: Synthese OK (5 Folien)
+[17:33:13]   ✓ 5 Folien generiert
+[17:33:13] [6/6] SSD und HDD
+[17:33:13]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:33:24]   Multi-KI: trinity-mini:free OK (3463 Z.)
+[17:33:50]   Multi-KI: nemotron-3-nano-30b-a3 OK (4768 Z.)
+[17:33:50]   Multi-KI: Batch 1 fertig in 36.8s
+[17:33:50]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:33:50]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:33:50]   Multi-KI: Claude synthetisiert 2 Versionen...
+[17:34:17]   Multi-KI: Synthese OK (5 Folien)
+[17:34:17]   ✓ 5 Folien generiert
+[17:34:17] 
+📊 Gesamt: 25 Folien in 5 Kapiteln
+[17:34:17] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[17:34:17]   ⚡ Generiere DOCX-Inhalte parallel (3 gleichzeitig)...
+[17:36:15]   📖 Nutzwertanalyse Tabelle,
+[17:36:15]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[17:39:25]   📖 network components
+[17:39:25]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[17:43:51]   📖 SSD und HDD
+[17:43:51]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[17:49:47]   📖 Fallstudien
+[17:49:47]   ⚠ Kein enriched content — nutze Folien-Notes
+[17:53:31]   📖 Typische Fehler und Lösungen
+[17:53:31]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[17:53:34] ✓ DOCX: IT-260326-1546-de_de_Alle_Kapitel_AB.docx
+[17:53:34] 
+============================================================
+[17:53:34] 🎉 FERTIG!
+[17:53:34] ============================================================
+[17:53:34] ─────────────────────────────────────────────────────────────────
+[17:53:34] 📁 OUTPUT-DATEIEN
+[17:53:34]   Dateiname                                               Bytes  Datum
+[17:53:34] ─────────────────────────────────────────────────────────────────
+[17:53:34]   IT-260318-2059-de_Alle_Kapitel.pptx                  12507514  2026-03-18 21:08
+[17:53:34]   IT-260319-1710-de_Alle_Kapitel.pptx                  21916078  2026-03-19 17:28
+[17:53:34]   IT-260319-1740-de_Alle_Kapitel.pptx                  13396247  2026-03-19 17:54
+[17:53:34]   IT-260323-1943-de_Alle_Kapitel.pptx                   3041937  2026-03-23 19:53
+[17:53:34]   IT-260323-1943-de_Alle_Kapitel_neu.pptx               2523028  2026-03-23 21:11
+[17:53:34]   IT-260323-2201-de_Alle_Kapitel.pptx                    482184  2026-03-23 22:19
+[17:53:34]   IT-260323-2238-de_Alle_Kapitel.pptx                   2749741  2026-03-23 22:50
+[17:53:34]   IT-260323-2307-de_Alle_Kapitel.pptx                   2483594  2026-03-23 23:32
+[17:53:34]   IT-260324-1459-de_de_Alle_Kapitel.pptx                4619681  2026-03-24 22:22
+[17:53:34]   IT-260324-1649-de_de_Alle_Kapitel.pptx                 906321  2026-03-24 16:54
+[17:53:34]   IT-260324-2040-de_de_Alle_Kapitel.pptx                4390871  2026-03-24 20:55
+[17:53:34]   IT-260324-2108-de_de_Alle_Kapitel.pptx                3707917  2026-03-24 21:19
+[17:53:34]   IT-260324-2108-de_fr_Alle_Kapitel.pptx                5377549  2026-03-24 22:04
+[17:53:34]   IT-260324-2215-de_de_Alle_Kapitel.pptx                2726937  2026-03-24 22:30
+[17:53:34]   IT-260325-1135-de_de_Alle_Kapitel.pptx                 770334  2026-03-25 11:45
+[17:53:34]   IT-260325-1135-de_fr_Alle_Kapitel.pptx                1022594  2026-03-25 11:50
+[17:53:34]   IT-260325-1135-de_tr_Alle_Kapitel.pptx                 712919  2026-03-25 11:55
+[17:53:34]   IT-260325-1423-de_de_Alle_Kapitel.pptx                1234240  2026-03-25 14:40
+[17:53:34]   IT-260325-1423-de_tr_Alle_Kapitel.pptx                1220308  2026-03-25 15:02
+[17:53:34]   IT-260325-2107-de_de_Alle_Kapitel.pptx                1150930  2026-03-25 21:18
+[17:53:34]   IT-260325-2107-de_fr_Alle_Kapitel.pptx                1721309  2026-03-25 21:37
+[17:53:34]   IT-260325-2107-de_tr_Alle_Kapitel.pptx                1519691  2026-03-25 21:46
+[17:53:34]   IT-260325-2157-de_de_Alle_Kapitel.pptx                1993934  2026-03-25 22:16
+[17:53:34]   IT-260325-2232-de_de_Alle_Kapitel.pptx                1318488  2026-03-25 22:42
+[17:53:34]   IT-260325-2304-de_de_Alle_Kapitel.pptx                 343171  2026-03-25 23:12
+[17:53:34]   IT-260326-1334-de_de_Alle_Kapitel.pptx                 981734  2026-03-26 13:50
+[17:53:34]   IT-260326-1334-de_tr_Alle_Kapitel.pptx                1133046  2026-03-26 14:01
+[17:53:34]   IT-260326-1426-de_de_Alle_Kapitel.pptx                 701609  2026-03-26 14:34
+[17:53:34]   IT-260326-1456-de_de_Alle_Kapitel.pptx                1135589  2026-03-26 15:08
+[17:53:34]   ~$IT-260325-2304-de_de_Alle_Kapitel.pptx                  165  2026-03-25 23:25
+[17:53:34]   IT-260318-1816-de_Alle_Kapitel_AB.docx                  60069  2026-03-18 18:21
+[17:53:34]   IT-260318-2059-de_Alle_Kapitel_AB.docx                  61018  2026-03-18 21:10
+[17:53:34]   IT-260319-1604-de_Alle_Kapitel_AB.docx                  79231  2026-03-19 16:12
+[17:53:34]   IT-260319-1740-de_Alle_Kapitel_AB.docx                  63101  2026-03-19 18:10
+[17:53:34]   IT-260319-1811-en_Alle_Kapitel_AB.docx                  75220  2026-03-19 18:19
+[17:53:34]   IT-260319-1848-tr_Alle_Kapitel_AB.docx                  62545  2026-03-19 18:53
+[17:53:34]   IT-260321-1456-de_Alle_Kapitel_AB.docx                  44291  2026-03-21 15:00
+[17:53:34]   IT-260323-1943-de_Alle_Kapitel_AB.docx                  71097  2026-03-23 19:56
+[17:53:34]   IT-260323-1943-de_Alle_Kapitel_AB_neu.docx              77354  2026-03-23 21:21
+[17:53:34]   IT-260323-2201-de_Alle_Kapitel_AB.docx                  42944  2026-03-23 22:19
+[17:53:34]   IT-260323-2238-de_Alle_Kapitel_AB.docx                  65519  2026-03-23 22:51
+[17:53:34]   IT-260323-2307-de_Alle_Kapitel_AB.docx                  54675  2026-03-23 23:27
+[17:53:34]   IT-260324-1412-de_de_Alle_Kapitel_AB.docx              106159  2026-03-24 14:24
+[17:53:34]   IT-260324-1459-de_de_Alle_Kapitel_AB.docx              107378  2026-03-24 15:19
+[17:53:34]   IT-260324-1649-de_de_Alle_Kapitel_AB.docx               44066  2026-03-24 16:57
+[17:53:34]   IT-260324-2108-de_de_Alle_Kapitel_AB.docx               78962  2026-03-24 21:50
+[17:53:34]   IT-260324-2108-de_fr_Alle_Kapitel_AB.docx               46655  2026-03-24 22:04
+[17:53:34]   IT-260324-2215-de_de_Alle_Kapitel_AB.docx               79182  2026-03-24 22:43
+[17:53:34]   IT-260325-1135-de_de_Alle_Kapitel_AB.docx               43747  2026-03-25 11:46
+[17:53:34]   IT-260325-1135-de_fr_Alle_Kapitel_AB.docx               43253  2026-03-25 11:50
+[17:53:34]   IT-260325-1135-de_tr_Alle_Kapitel_AB.docx               40706  2026-03-25 11:55
+[17:53:34]   IT-260325-1423-de_de_Alle_Kapitel_AB.docx               55661  2026-03-25 14:49
+[17:53:34]   IT-260325-1423-de_tr_Alle_Kapitel_AB.docx               56180  2026-03-25 15:04
+[17:53:34]   IT-260325-2107-de_de_Alle_Kapitel_AB.docx               58865  2026-03-25 21:27
+[17:53:34]   IT-260325-2107-de_fr_Alle_Kapitel_AB.docx               61332  2026-03-25 21:39
+[17:53:34]   IT-260325-2107-de_tr_Alle_Kapitel_AB.docx               56629  2026-03-25 21:54
+[17:53:34]   IT-260325-2232-de_de_Alle_Kapitel_AB.docx               60290  2026-03-25 22:52
+[17:53:34]   IT-260325-2304-de_de_Alle_Kapitel_AB.docx               52370  2026-03-25 23:18
+[17:53:34]   IT-260326-1546-de_de_Alle_Kapitel_AB.docx               63281  2026-03-26 17:53
+[17:53:34]   ~$-260319-1848-tr_Alle_Kapitel_AB.docx                    162  2026-03-20 18:37
+[17:53:34] ─────────────────────────────────────────────────────────────────
+[17:53:34]   GESAMT                                               99601602  (60 Dateien)
+[17:53:34] ─────────────────────────────────────────────────────────────────
+[17:53:34] ⚡ Starte 2 Zusatzsprachen parallel...
+[17:53:34]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:53:34]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:53:43]   Multi-KI: trinity-mini:free OK (3664 Z.)
+[17:53:47]   Multi-KI: trinity-mini:free OK (4923 Z.)
+[17:54:01]   Multi-KI: nemotron-3-nano-30b-a3 OK (29118 Z.)
+[17:54:01]   Multi-KI: Batch 1 fertig in 27.0s
+[17:54:01]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:54:01]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:54:01]   Multi-KI: Claude synthetisiert 2 Versionen...
+[17:54:14]   Multi-KI: nemotron-3-nano-30b-a3 OK (2857 Z.)
+[17:54:14]   Multi-KI: Batch 1 fertig in 40.0s
+[17:54:14]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:54:14]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:54:14]   Multi-KI: Claude synthetisiert 2 Versionen...
+[17:54:34]   Multi-KI: Synthese OK (5 Folien)
+[17:54:34]   [Italiano] Nutzwertanalyse Tabelle, — 5 Folien
+[17:54:34]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:54:37]   Multi-KI: Synthese OK (5 Folien)
+[17:54:37]   [English] Nutzwertanalyse Tabelle, — 5 Folien
+[17:54:37]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:54:46]   Multi-KI: trinity-mini:free OK (3661 Z.)
+[17:54:48]   Multi-KI: trinity-mini:free OK (4278 Z.)
+[17:55:11]   Multi-KI: nemotron-3-nano-30b-a3 verworfen (zu kurz/falsche Sprache)
+[17:55:11]   Multi-KI: Batch 1 fertig in 34.3s
+[17:55:11]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:55:11]   Multi-KI: 1 Version — Claude prueft Qualitaet
+[17:55:16]   Multi-KI: Refinement OK (5 Folien)
+[17:55:16]   [English] Break - Even/Kostenvergleich — 5 Folien
+[17:55:16]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:55:18]   Multi-KI: nemotron-3-nano-30b-a3 OK (3969 Z.)
+[17:55:18]   Multi-KI: Batch 1 fertig in 43.9s
+[17:55:18]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:55:18]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:55:18]   Multi-KI: Claude synthetisiert 2 Versionen...
+[17:55:25]   Multi-KI: trinity-mini:free OK (3557 Z.)
+[17:55:47]   Multi-KI: nemotron-3-nano-30b-a3 verworfen (zu kurz/falsche Sprache)
+[17:55:47]   Multi-KI: Batch 1 fertig in 30.8s
+[17:55:47]   Multi-KI: trinity-mini:free → 6 Folien geparst
+[17:55:47]   Multi-KI: 1 Version — Claude prueft Qualitaet
+[17:56:44]   Multi-KI: Refinement OK (5 Folien)
+[17:56:44]   [English] Fallstudien — 5 Folien
+[17:56:44]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:56:57]   Multi-KI: trinity-mini:free OK (3811 Z.)
+[17:57:25]   Multi-KI: nemotron-3-nano-30b-a3 OK (27411 Z.)
+[17:57:25]   Multi-KI: Batch 1 fertig in 40.3s
+[17:57:25]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:57:25]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:57:25]   Multi-KI: Claude synthetisiert 2 Versionen...
+[17:57:27]   Multi-KI: Synthese OK (5 Folien)
+[17:57:27]   [Italiano] Break - Even/Kostenvergleich — 5 Folien
+[17:57:27]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:57:38]   Multi-KI: trinity-mini:free OK (4919 Z.)
+[17:58:03]   Multi-KI: nemotron-3-nano-30b-a3 OK (24637 Z.)
+[17:58:03]   Multi-KI: Batch 1 fertig in 36.3s
+[17:58:03]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:58:03]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:58:03]   Multi-KI: Claude synthetisiert 2 Versionen...
+[17:58:04]   Multi-KI: Synthese OK (5 Folien)
+[17:58:04]   [English] Typische Fehler und Lösungen — 5 Folien
+[17:58:04]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:58:20]   Multi-KI: trinity-mini:free OK (2931 Z.)
+[17:58:35]   Multi-KI: Synthese OK (5 Folien)
+[17:58:35]   [Italiano] Fallstudien — 5 Folien
+[17:58:35]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:58:39]   Multi-KI: nemotron-3-nano-30b-a3 OK (31201 Z.)
+[17:58:39]   Multi-KI: Batch 1 fertig in 35.4s
+[17:58:39]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:58:39]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:58:39]   Multi-KI: Claude synthetisiert 2 Versionen...
+[17:58:44]   Multi-KI: trinity-mini:free OK (3133 Z.)
+[17:59:02]   Multi-KI: nemotron-3-nano-30b-a3 OK (3789 Z.)
+[17:59:02]   Multi-KI: Batch 1 fertig in 27.6s
+[17:59:02]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[17:59:02]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[17:59:02]   Multi-KI: Claude synthetisiert 2 Versionen...
+[17:59:47]   Multi-KI: Synthese OK (5 Folien)
+[17:59:47]   [Italiano] Typische Fehler und Lösungen — 5 Folien
+[17:59:47]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[17:59:55]   Multi-KI: trinity-mini:free OK (3340 Z.)
+[18:00:03]   Multi-KI: Synthese OK (5 Folien)
+[18:00:03]   [English] network components — 5 Folien
+[18:00:03]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[18:00:14]   Multi-KI: trinity-mini:free OK (4063 Z.)
+[18:00:18]   Multi-KI: nemotron-3-nano-30b-a3 OK (4264 Z.)
+[18:00:18]   Multi-KI: Batch 1 fertig in 31.4s
+[18:00:18]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[18:00:18]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[18:00:18]   Multi-KI: Claude synthetisiert 2 Versionen...
+[18:00:37]   Multi-KI: nemotron-3-nano-30b-a3 OK (29929 Z.)
+[18:00:37]   Multi-KI: Batch 1 fertig in 34.7s
+[18:00:37]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[18:00:37]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[18:00:37]   Multi-KI: Claude synthetisiert 2 Versionen...
+[18:02:33]   Multi-KI: Synthese OK (5 Folien)
+[18:02:33]   [English] SSD und HDD — 5 Folien
+[18:03:10]   Multi-KI: Synthese OK (5 Folien)
+[18:03:10]   [Italiano] network components — 5 Folien
+[18:03:10]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 45s
+[18:03:21]   Multi-KI: trinity-mini:free OK (3406 Z.)
+[18:03:45]   Multi-KI: nemotron-3-nano-30b-a3 OK (29395 Z.)
+[18:03:45]   Multi-KI: Batch 1 fertig in 35.2s
+[18:03:45]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[18:03:45]   Multi-KI: nemotron-3-nano-30b-a3b:free → 5 Folien geparst
+[18:03:45]   Multi-KI: Claude synthetisiert 2 Versionen...
+[18:04:12]   Multi-KI: Synthese OK (5 Folien)
+[18:04:12]   [Italiano] SSD und HDD — 5 Folien
+[18:06:21]   [English] ✓ Sprachkorrektur via TranslationAgent
+[18:07:21]   [Italiano] ✓ Sprachkorrektur via TranslationAgent
+[18:17:02] [English] DOCX: IT-260326-1546-de_en_Alle_Kapitel_AB.docx
+[18:27:27] [Italiano] DOCX: IT-260326-1546-de_it_Alle_Kapitel_AB.docx
+[18:27:27] 🔍 QA Agent gestartet (neues Fenster)...
+[18:27:31] 
+────────────────────────────────────────────────────────────
+[18:27:31] 🔍 QA REPORT  —  ✅ PASSED
+[18:27:31]    4 OK  |  0 Warnungen  |  0 Fehler
+[18:27:31] ────────────────────────────────────────────────────────────
+[18:27:31]   ✅  DOCX 'IT-260326-1546-de_de_Alle_Kapitel_AB.docx': 0.06 MB ✓
+[18:27:31]   ✅  DOCX Umfang: 975 Absätze ✓
+[18:27:31]   ✅  Alle 5 Pflicht-Sektionen vorhanden (🎯📖✏️✅📝) ✓
+[18:27:31]   ✅  DOCX Kapitel: 5 Überschriften ✓
+[18:27:31] ────────────────────────────────────────────────────────────
+

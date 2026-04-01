@@ -1,0 +1,105 @@
+[21:08:05] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[21:08:05] OpenRouter: 26 Free-Engines geladen
+[21:08:05] ========================================================
+[21:08:05] 📚 Curriculum Generator  v6.5  |  Build 102  |  2026-03-24
+[21:08:05]    B102: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[21:08:05] ========================================================
+[21:09:14] ✅ 10 Kapitel übernommen.
+[21:09:19] ▶ Start: 'IT-260324-2108-de' | 10 Kapitel | 5 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Mittel (~20 Seiten)
+[21:09:19] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[21:09:19] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[21:09:19] 📝 DOCX Sektionen deaktiviert: praxis
+[21:09:19] Zusatz-Sprachen: Français
+[21:09:19] 🤖 KI: openrouter/meta-llama/llama-3.3-70b-instruct
+[21:09:19] ============================================================
+[21:09:19] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 10 Kapitel
+[21:09:19] ============================================================
+[21:09:19] [1/10] Virtualisierung und Cloud-Computing
+[21:09:47]   ✓ 5 Folien generiert
+[21:09:47] [2/10] Cloud-Modelle: IaaS, PaaS, SaaS
+[21:09:57]   ✓ 5 Folien generiert
+[21:09:57] [3/10] Mobile Geräte und Betriebssysteme
+[21:10:01]   ✓ 5 Folien generiert
+[21:10:02] [4/10] Gerätekonfiguration, Sicherheit, Updates
+[21:10:20]   ✓ 5 Folien generiert
+[21:10:20] [5/10] MDM, Unternehmenssynchronisierung
+[21:10:41]   ✓ 5 Folien generiert
+[21:10:41] [6/10] Verbindungsmethoden (USB,USB-C, Lightning, NFC, Bluetooth, Hotspot) Zubehör
+[21:11:21]   ✓ 5 Folien generiert
+[21:11:21] [7/10] Netzwerkverbindungen für Mobilgeräte konfigurieren
+[21:11:38]   ✓ 5 Folien generiert
+[21:11:38] [8/10] Prüfungsvorbereitung CompTIA A+ 1201
+[21:12:05]   ✓ 5 Folien generiert
+[21:12:05] [9/10] Strategien für Multiple-Choice- und Performance-Based-Questions
+[21:12:18]   ✓ 5 Folien generiert
+[21:12:18] [10/10] Einführung CISCO Packet Tracer
+[21:12:37]   ✓ 5 Folien generiert
+[21:12:37] 
+📊 Gesamt: 50 Folien in 10 Kapiteln
+[21:12:37] 
+📊 Erstelle kombinierte Präsentation...
+[21:19:03] ✓ PPTX: IT-260324-2108-de_de_Alle_Kapitel.pptx
+[21:19:03] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[21:19:03]   📖 Generiere Einleitung + Glossar + Aufgaben: Virtualisierung und Cloud-Computing
+[21:21:18]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:21:18]   📖 Generiere Einleitung + Glossar + Aufgaben: Cloud-Modelle: IaaS, PaaS, SaaS
+[21:22:58]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:22:58]   📖 Generiere Einleitung + Glossar + Aufgaben: Mobile Geräte und Betriebssysteme
+[21:24:41]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:24:41]   📖 Generiere Einleitung + Glossar + Aufgaben: Gerätekonfiguration, Sicherheit, Updates
+[21:27:17]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:27:17]   📖 Generiere Einleitung + Glossar + Aufgaben: MDM, Unternehmenssynchronisierung
+[21:30:45]   ✓ Inhalte OK (1 Aufgaben, 2 Glossar-Einträge)
+[21:30:45]   📖 Generiere Einleitung + Glossar + Aufgaben: Verbindungsmethoden (USB,USB-C, Lightning, NFC, Bl
+[21:32:56]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:32:56]   📖 Generiere Einleitung + Glossar + Aufgaben: Netzwerkverbindungen für Mobilgeräte konfigurieren
+[21:41:41]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:41:41]   📖 Generiere Einleitung + Glossar + Aufgaben: Prüfungsvorbereitung CompTIA A+ 1201
+[21:43:55]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[21:43:55]   📖 Generiere Einleitung + Glossar + Aufgaben: Strategien für Multiple-Choice- und Performance-Ba
+[21:48:58]   ✓ Inhalte OK (1 Aufgaben, 2 Glossar-Einträge)
+[21:48:58]   📖 Generiere Einleitung + Glossar + Aufgaben: Einführung CISCO Packet Tracer
+[21:50:33]   ✓ Inhalte OK (1 Aufgaben, 2 Glossar-Einträge)
+[21:50:37] ✓ DOCX: IT-260324-2108-de_de_Alle_Kapitel_AB.docx
+[21:50:37] 
+============================================================
+[21:50:37] 🎉 FERTIG!
+[21:50:37] ============================================================
+[21:50:37] 
+========================================
+[21:50:37] Generiere Zusatz-Sprache: Français
+[21:50:37] ========================================
+[21:51:11]   [Français] Virtualisierung und Cloud-Computing — 5 Folien
+[21:51:35]   [Français] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[21:52:05]   [Français] Mobile Geräte und Betriebssysteme — 5 Folien
+[21:52:29]   [Français] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[21:52:58]   [Français] MDM, Unternehmenssynchronisierung — 5 Folien
+[21:53:30]   [Français] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[21:54:40]   [Français] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[21:56:20]   [Français] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[21:56:46]   [Français] Strategien für Multiple-Choice- und Perf — 5 Folien
+[21:57:08]   [Français] Einführung CISCO Packet Tracer — 5 Folien
+[22:04:16] [Français] PPTX: IT-260324-2108-de_fr_Alle_Kapitel.pptx
+[22:04:19] [Français] DOCX: IT-260324-2108-de_fr_Alle_Kapitel_AB.docx
+[22:04:19] 🔍 QA Agent gestartet (neues Fenster)...
+[22:04:27] 
+────────────────────────────────────────────────────────────
+[22:04:27] 🔍 QA REPORT  —  ⚠️ WARNINGS
+[22:04:27]    9 OK  |  1 Warnungen  |  0 Fehler
+[22:04:27] ────────────────────────────────────────────────────────────
+[22:04:27]   ✅  PPTX 'IT-260324-2108-de_de_Alle_Kapitel.pptx': 50 Folien ✓
+[22:04:27]   ✅  PPTX Größe: 3.5 MB ✓
+[22:04:27]   ⚠️  Folien mit zu kurzen Notizen (<15 Wörter): [11, 12, 13, 14, 15, 31, 32, 33]...
+[22:04:27]   ✅  Alle Folien haben ausreichend Text/Bullets ✓
+[22:04:27]   ✅  Bilder auf 100% der Folien ✓
+[22:04:27]   ✅  36 Links geprüft — alle erreichbar ✓
+[22:04:27]   ✅  DOCX 'IT-260324-2108-de_de_Alle_Kapitel_AB.docx': 0.08 MB ✓
+[22:04:27]   ✅  DOCX Umfang: 1636 Absätze ✓
+[22:04:27]   ✅  Alle 5 Pflicht-Sektionen vorhanden (🎯📖✏️✅📝) ✓
+[22:04:27]   ✅  DOCX Kapitel: 10 Überschriften ✓
+[22:04:27] 
+  📋 1 Probleme — bitte prüfen:
+[22:04:27]      ⚠️ Folien mit zu kurzen Notizen (<15 Wörter): [11, 12, 13, 14, 15, 31, 32, 33]...
+[22:04:27] ────────────────────────────────────────────────────────────
+

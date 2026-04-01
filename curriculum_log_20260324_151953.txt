@@ -1,0 +1,83 @@
+[14:59:27] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[14:59:27] OpenRouter: 26 Free-Engines geladen
+[14:59:28] ========================================================
+[14:59:28] 📚 Curriculum Generator  v6.5  |  Build 81  |  2026-03-21
+[14:59:28]    B078-081: Design-Upgrade — Arial, Kursbalken, Glossar-Tabelle, Aufgaben-Box, Quiz-Blöcke
+[14:59:28] ========================================================
+[15:00:08] ✅ 10 Kapitel übernommen.
+[15:01:03] ▶ Start: 'IT-260324-1459-de' | 10 Kapitel | 5 Folien | sonar-pro | Modus: combined | DOCX: Mittel (~20 Seiten)
+[15:01:03] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[15:01:03] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[15:01:03] ============================================================
+[15:01:03] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 10 Kapitel
+[15:01:04] ============================================================
+[15:01:04] [1/10] Virtualisierung und Cloud-Computing
+[15:01:24]   ✓ 5 Folien generiert
+[15:01:24] [2/10] Cloud-Modelle: IaaS, PaaS, SaaS
+[15:01:44]   ✓ 5 Folien generiert
+[15:01:44] [3/10] Mobile Geräte und Betriebssysteme
+[15:02:04]   ✓ 5 Folien generiert
+[15:02:04] [4/10] Gerätekonfiguration, Sicherheit, Updates
+[15:02:25]   ✓ 5 Folien generiert
+[15:02:25] [5/10] MDM, Unternehmenssynchronisierung
+[15:02:47]   ✓ 5 Folien generiert
+[15:02:47] [6/10] Verbindungsmethoden (USB,USB-C, Lightning, NFC, Bluetooth, Hotspot) Zubehör
+[15:03:05]   ✓ 5 Folien generiert
+[15:03:05] [7/10] Netzwerkverbindungen für Mobilgeräte konfigurieren
+[15:03:25]   ✓ 5 Folien generiert
+[15:03:25] [8/10] Prüfungsvorbereitung CompTIA A+ 1201
+[15:03:44]   ✓ 5 Folien generiert
+[15:03:44] [9/10] Strategien für Multiple-Choice- und Performance-Based-Questions
+[15:04:03]   ✓ 5 Folien generiert
+[15:04:03] [10/10] Einführung CISCO Packet Tracer
+[15:04:26]   ✓ 5 Folien generiert
+[15:04:26] 
+📊 Gesamt: 50 Folien in 10 Kapiteln
+[15:04:26] 
+📊 Erstelle kombinierte Präsentation...
+[15:12:47] ✓ PPTX: IT-260324-1459-de_de_Alle_Kapitel.pptx
+[15:12:47] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[15:12:47]   📖 Generiere Einleitung + Glossar + Aufgaben: Virtualisierung und Cloud-Computing
+[15:14:31]   ⚠ Kein enriched content — nutze Folien-Notes
+[15:14:31]   📖 Generiere Einleitung + Glossar + Aufgaben: Cloud-Modelle: IaaS, PaaS, SaaS
+[15:15:46]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[15:15:46]   📖 Generiere Einleitung + Glossar + Aufgaben: Mobile Geräte und Betriebssysteme
+[15:16:20]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[15:16:20]   📖 Generiere Einleitung + Glossar + Aufgaben: Gerätekonfiguration, Sicherheit, Updates
+[15:17:11]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[15:17:11]   📖 Generiere Einleitung + Glossar + Aufgaben: MDM, Unternehmenssynchronisierung
+[15:17:33]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[15:17:33]   📖 Generiere Einleitung + Glossar + Aufgaben: Verbindungsmethoden (USB,USB-C, Lightning, NFC, Bl
+[15:17:55]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[15:17:55]   📖 Generiere Einleitung + Glossar + Aufgaben: Netzwerkverbindungen für Mobilgeräte konfigurieren
+[15:18:16]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[15:18:16]   📖 Generiere Einleitung + Glossar + Aufgaben: Prüfungsvorbereitung CompTIA A+ 1201
+[15:18:39]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[15:18:39]   📖 Generiere Einleitung + Glossar + Aufgaben: Strategien für Multiple-Choice- und Performance-Ba
+[15:19:04]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[15:19:04]   📖 Generiere Einleitung + Glossar + Aufgaben: Einführung CISCO Packet Tracer
+[15:19:30]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[15:19:38] ✓ DOCX: IT-260324-1459-de_de_Alle_Kapitel_AB.docx
+[15:19:38] 
+============================================================
+[15:19:38] 🎉 FERTIG!
+[15:19:38] ============================================================
+[15:19:38] 🔍 QA Agent gestartet (neues Fenster)...
+[15:19:46] 
+────────────────────────────────────────────────────────────
+[15:19:46] 🔍 QA REPORT  —  ✅ PASSED
+[15:19:46]    10 OK  |  0 Warnungen  |  0 Fehler
+[15:19:46] ────────────────────────────────────────────────────────────
+[15:19:46]   ✅  PPTX 'IT-260324-1459-de_de_Alle_Kapitel.pptx': 50 Folien ✓
+[15:19:46]   ✅  PPTX Größe: 4.4 MB ✓
+[15:19:46]   ✅  Alle Folien haben ausreichende Sprechernotizen ✓
+[15:19:46]   ✅  Alle Folien haben ausreichend Text/Bullets ✓
+[15:19:46]   ✅  Bilder auf 100% der Folien ✓
+[15:19:46]   ✅  47 Links geprüft — alle erreichbar ✓
+[15:19:46]   ✅  DOCX 'IT-260324-1459-de_de_Alle_Kapitel_AB.docx': 0.10 MB ✓
+[15:19:46]   ✅  DOCX Umfang: 2074 Absätze ✓
+[15:19:46]   ✅  Alle 5 Pflicht-Sektionen vorhanden (🎯📖✏️✅📝) ✓
+[15:19:46]   ✅  DOCX Kapitel: 10 Überschriften ✓
+[15:19:46] ────────────────────────────────────────────────────────────
+

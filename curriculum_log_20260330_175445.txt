@@ -1,0 +1,154 @@
+[16:31:27] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[16:31:27] OpenRouter: 24 Free-Engines geladen
+[16:31:27] ========================================================
+[16:31:27] 📚 Curriculum Generator  v6.5  |  Build 143  |  2026-03-30
+[16:31:27]    B143: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[16:31:27] ========================================================
+[16:31:41] ✅ 3 Kapitel übernommen.
+[16:32:34] ▶ Start: 'IT-260330-1631-de' | 3 Kapitel | 3 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Mittel (~20 Seiten)
+[16:32:34] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[16:32:34] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[16:32:34] Zusatz-Sprachen: Englisch / English, Koreanisch / Korean
+[16:32:34] ⚠️  MULTI-KI AKTIV: 21 Engines + Claude Synthese
+[16:32:34]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[16:32:34] ============================================================
+[16:32:34] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 3 Kapitel
+[16:32:34] ============================================================
+[16:32:34] [1/3] Grundlagen und Einführung
+[16:32:34]   Multi-KI: 18 Engines | 3 Batch(es) | Zeitbudget: 25s
+[16:32:36]   Multi-KI: gemma-3-27b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[16:32:36]   Multi-KI: step-3.5-flash:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[16:32:36]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[16:32:36]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[16:32:59]   Multi-KI: nemotron-3-super-120b- Zeitbudget (25s) ueberschritten — uebersprungen
+[16:32:59]   Multi-KI: nemotron-3-nano-30b-a3 Zeitbudget (25s) ueberschritten — uebersprungen
+[16:33:00]   Multi-KI: trinity-mini:free Zeitbudget (25s) ueberschritten — uebersprungen
+[16:33:00]   Multi-KI: glm-4.5-air:free Zeitbudget (25s) ueberschritten — uebersprungen
+[16:33:00]   Multi-KI: Batch 1 fertig in 26.5s
+[16:33:03]   Multi-KI: gemma-3-4b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[16:33:03]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[16:33:03]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[16:33:08]   Multi-KI: lfm-2.5-1.2b-thinking: gesperrt (nur 1091 Z. < 1500 Minimum)
+[16:33:10]   Multi-KI: trinity-large-preview: OK (2507 Z.)
+[16:33:23]   Multi-KI: nemotron-3-nano-30b-a3 OK (31193 Z.)
+[16:33:26]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (25s) ueberschritten — uebersprungen
+[16:33:26]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (25s) ueberschritten — uebersprungen
+[16:33:27]   Multi-KI: gemma-3-12b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[16:33:27]   Multi-KI: Batch 2 fertig in 26.0s
+[16:33:28]   Multi-KI: gemma-3n-e4b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[16:33:33]   Multi-KI: gemma-3-12b-it:free OK (3911 Z.)
+[16:33:49]   Multi-KI: nemotron-nano-12b-v2-v OK (1717 Z.)
+[16:33:52]   Multi-KI: gemma-3n-e2b-it:free OK (3632 Z.)
+[16:33:52]   Multi-KI: Batch 3 fertig in 24.5s
+[16:33:52]   Multi-KI: trinity-large-preview:free → 3 Folien geparst
+[16:33:52]   Multi-KI: nemotron-3-nano-30b-a3b:free → 3 Folien geparst
+[16:33:52]   Multi-KI: gemma-3-12b-it:free → 3 Folien geparst
+[16:33:52]   Multi-KI: nemotron-nano-12b-v2-vl:free → 3 Folien geparst
+[16:33:52]   Multi-KI: gemma-3n-e2b-it:free → 3 Folien geparst
+[16:33:52]   Multi-KI: Claude synthetisiert 5 Versionen...
+[16:34:41]   Multi-KI: trinity-mini:free Fehler — Leere choices in API-Antwort
+[16:34:41]   Multi-KI: glm-4.5-air:free OK (2941 Z.)
+[16:35:10]   Multi-KI: nemotron-nano-9b-v2:fr Fehler — Leere choices in API-Antwort
+[16:36:23]   Multi-KI: nemotron-3-super-120b- OK (5966 Z.)
+[16:36:54]   Multi-KI: Synthese OK (3 Folien)
+[16:36:54]   ✓ 3 Folien generiert
+[16:36:54] [2/3] Kernkonzepte
+[16:36:54]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 25s
+[16:36:55]   Multi-KI: gemma-3n-e2b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[16:37:19]   Multi-KI: trinity-large-preview: Zeitbudget (25s) ueberschritten — uebersprungen
+[16:37:19]   Multi-KI: Batch 1 fertig in 25.0s
+[16:37:19]   Multi-KI: keine gueltige Version — Standard-Generation
+[16:38:19]   Multi-KI: trinity-large-preview: OK (3460 Z.)
+[16:39:17]   ✓ 3 Folien generiert
+[16:39:17] [3/3] Vertiefung
+[16:39:17]   Multi-KI: 0 Engines | 0 Batch(es) | Zeitbudget: 25s
+[16:39:17]   Multi-KI: keine gueltige Version — Standard-Generation
+[16:39:50]   ✓ 3 Folien generiert
+[16:39:50] 
+📊 Gesamt: 9 Folien in 3 Kapiteln
+[16:39:50] 
+📊 Erstelle kombinierte Präsentation...
+[16:39:50]   ⚡ Lade 9 Bilder parallel...
+[16:40:06] 🖼  [Pexels] 'vintage computer mainframe tape drives 1' → Score 9/10 ✅  Das Bild zeigt einen alten Computer mit einer Konsole und einem Keyboard, was sehr gut zum Thema "Die Entwicklung der IT" passt und einen direkten Bezug zu Hardware und Informatik herstellt.
+[16:40:15] ⚠️  [Pexels] 'office desk calculator cost analysis' → Score 6/10 ❌  Das Bild zeigt einen Schreibtisch mit einem Taschenrechner, einem Budget-Blatt und Markern, was auf eine allgemeine Büroatmosphäre hinweist, aber keinen direkten Bezug zu einem spezifischen IT-Thema hat. — nächste Quelle
+[16:40:16] 🖼  [Pexels] 'server LED' → Score 8/10 ✅  Das Bild zeigt eine Person vor einem Server mit LED-Leuchten, was eine gute thematische Relevanz für IT-Hardware und -Infrastruktur aufweist, jedoch durch die Person mit der Maske einen leicht ungewöhnlichen und nicht direkt auf IT-Hauptprinzipien hinweisenden Kontext hat.
+[16:40:16] 🖼  [Pexels] 'ethernet switch' → Score 9/10 ✅  Das Bild zeigt einen Ethernet-Switch mit verschiedenen Anschlüssen, was direkt mit dem Thema "Kernkonzepte der IT" und Netzwerktechnologie in einem IT-Kontext relevant ist.
+[16:40:16] 🖼  [Pexels] 'server web browser code internet' → Score 9/10 ✅  Das Bild zeigt Programmcode, der offensichtlich im Kontext von Webentwicklung und Serverkonfiguration verwendet wird, was für eine Einführung in die IT sehr relevant ist.
+[16:40:16] 🖼  [Pexels] 'business contract signing desk handshake' → Score 7/10 ✅  Das Bild zeigt eine Vertragsunterzeichnung mit einem Handshake über einem Dokument auf einem Schreibtisch, was im Kontext von IT-Verträgen oder -Kaufverträgen relevant sein kann, aber kein direktes IT-Thema wie Hardware oder Software zeigt.
+[16:40:21] 🖼  [Pixabay] 'office desk calculator cost analysis' → Score 7/10 ✅  Das Bild zeigt ein Tablet mit einer Dashboard-Ansicht und daneben liegen Ausdrucke von Diagrammen und Grafiken, was auf eine Analyse oder Auswertung von IT-Daten hinweist, aber keine expliziten IT-Komponenten wie Hardware oder Software zeigt.
+[16:40:26] 🖼  [Pexels] 'CPU processor chip circuit board closeup' → Score 9/10 ✅  Das Bild zeigt eine Nahaufnahme eines CPU-Prozessors auf einer Hauptplatine, was direkt mit der Hardware-Thematik im IT-Kontext zusammenhängt.
+[16:40:27] 🖼  [Pexels] 'server web browser code internet' → Score 9/10 ✅  Das Bild zeigt eine detaillierte Ansicht von Quellcode auf einem Computerbildschirm, was direkt mit dem Thema "Vertiefung in IT" zusammenhängt und einen klaren Bezug zu Softwareentwicklung und Programmierung hat.
+[16:40:34] 🖼  [Pexels] 'Linux operating system Linux terminal' → Score 9/10 ✅  Das Bild zeigt einen Screenshot eines Linux-Terminals mit einer Ping-Statistik, was sehr gut zum IT-Thema passt und speziell auf die Verwendung der Kommandozeile (Shell) im Kontext eines Linux-Betriebssystems hinweist.
+[16:40:34]   ✓ Bilder vorgeladen
+[16:40:57] 🖼  [Pexels] 'handshake computer IT technology' → Score 7/10 ✅  Das Bild zeigt eine Handshake-Situation über einem Laptop, was auf eine Zusammenarbeit oder Vereinbarung im IT-Kontext hindeutet, aber der IT-Bezug ist nicht sehr konkret.
+[16:40:57] 🖼  [Pexels] 'Ethernet network diagram computer' → Score 8/10 ✅  Das Bild zeigt eine Vielzahl von Ethernet-Kabeln, die an einem Netzwerk-Switch oder einer Netzwerkkarte angeschlossen sind, was direkt mit dem Thema "Kernkonzepte der IT" und Netzwerktechnologie in einem Informatik-Kontext zusammenhängt.
+[16:40:58] 🖼  [Pexels] 'Computer computer IT technology' → Score 7/10 ✅  Das Bild zeigt eine Gruppe von Schülern, die vor Computern sitzen, was auf eine IT-Schulung oder einen Informatik-Unterricht hindeutet, aber keine spezifischen IT-Komponenten oder -Themen erkennbar sind.
+[16:40:59] 🖼  [Pexels] 'Office computer IT technology' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[16:41:22] 🖼  [Pexels] 'Abakus' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[16:41:38] 🖼  [Pexels] 'ENIAC computer technology' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[16:41:55] 🖼  [Pexels] 'Mikroprozessor' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[16:42:11] 🖼  [Pexels] 'TCP IP network protocol data transmissio' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[16:42:39] 🖼  [Pexels] 'theory computer IT technology' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[16:42:47] 🖼  [Pexels] 'Fallstudie Analyse Proj' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[16:42:55] 🖼  [Pexels] 'Fehlervermeidung Best Practices' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[16:42:55] ✓ PPTX: IT-260330-1631-de_de_Alle_Kapitel.pptx
+[16:42:55] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[16:42:55]   ⚡ Generiere DOCX-Inhalte parallel (3 gleichzeitig)...
+[16:45:06]   📖 Vertiefung
+[16:45:06]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[16:53:39]   📖 Kernkonzepte
+[16:53:39]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[16:54:06]   📖 Grundlagen und Einführung
+[16:54:06]   ✓ OK (3 Aufgaben, 5 Glossar-Einträge)
+[16:54:08] ✓ DOCX: IT-260330-1631-de_de_Alle_Kapitel_AB.docx
+[16:54:08] 
+============================================================
+[16:54:08] 🎉 FERTIG!
+[16:54:08] ============================================================
+[16:54:08] ─────────────────────────────────────────────────────────────────
+[16:54:08] 📁 OUTPUT-DATEIEN
+[16:54:08]   Dateiname                                               Bytes  Datum
+[16:54:08] ─────────────────────────────────────────────────────────────────
+[16:54:08]   01_Betriebssysteme.pptx                                801180  2026-03-30 13:48
+[16:54:08]   02_Installation_von_Windows.pptx                       310934  2026-03-30 13:51
+[16:54:08]   03_Softwareinstallation_und_Treiber-Management.pptx     418466  2026-03-30 13:55
+[16:54:08]   IT-260330-1303-de_ar_Alle_Kapitel.pptx                1254689  2026-03-30 14:24
+[16:54:08]   IT-260330-1303-de_it_Alle_Kapitel.pptx                1244115  2026-03-30 14:24
+[16:54:08]   IT-260330-1303-de_در_Alle_Kapitel.pptx                1213291  2026-03-30 14:28
+[16:54:09]   IT-260330-1303-de_فا_Alle_Kapitel.pptx                1254682  2026-03-30 14:24
+[16:54:09]   IT-260330-1631-de_de_Alle_Kapitel.pptx                 469109  2026-03-30 16:42
+[16:54:09]   IT-260330-1303-de_ar_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[16:54:09]   IT-260330-1303-de_de_Alle_Kapitel_AB.docx               61388  2026-03-30 14:05
+[16:54:09]   IT-260330-1303-de_it_Alle_Kapitel_AB.docx               61800  2026-03-30 14:28
+[16:54:09]   IT-260330-1303-de_در_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[16:54:09]   IT-260330-1303-de_فا_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[16:54:09]   IT-260330-1631-de_de_Alle_Kapitel_AB.docx               55019  2026-03-30 16:54
+[16:54:09] ─────────────────────────────────────────────────────────────────
+[16:54:09]   GESAMT                                                7329134  (14 Dateien)
+[16:54:09] ─────────────────────────────────────────────────────────────────
+[16:54:09] ⚡ Starte 2 Zusatzsprachen parallel (Translate-Modus)...
+[16:56:58]   [Koreanisch / Korean] ✓ 3 Kapitel übersetzt
+[16:56:58]   [Englisch / English] ✓ 3 Kapitel übersetzt
+[16:56:58] [Koreanisch / Korean] PPTX: IT-260330-1631-de_ko_Alle_Kapitel.pptx
+[16:56:59] [Englisch / English] PPTX: IT-260330-1631-de_en_Alle_Kapitel.pptx
+[16:59:24] [Englisch / English] DOCX: IT-260330-1631-de_en_Alle_Kapitel_AB.docx
+[16:59:25] [Koreanisch / Korean] DOCX: IT-260330-1631-de_ko_Alle_Kapitel_AB.docx
+[16:59:25] 🔍 QA Agent gestartet (neues Fenster)...
+[16:59:29] 
+────────────────────────────────────────────────────────────
+[16:59:29] 🔍 QA REPORT  —  ✅ PASSED
+[16:59:29]    10 OK  |  0 Warnungen  |  0 Fehler
+[16:59:29] ────────────────────────────────────────────────────────────
+[16:59:29]   ✅  PPTX 'IT-260330-1631-de_de_Alle_Kapitel.pptx': 9 Folien ✓
+[16:59:29]   ✅  PPTX Größe: 0.4 MB ✓
+[16:59:29]   ✅  Alle Folien haben ausreichende Sprechernotizen ✓
+[16:59:29]   ✅  Alle Folien haben ausreichend Text/Bullets ✓
+[16:59:29]   ✅  Bilder auf 100% der Folien ✓
+[16:59:29]   ✅  9 Links geprüft — alle erreichbar ✓
+[16:59:29]   ✅  DOCX 'IT-260330-1631-de_de_Alle_Kapitel_AB.docx': 0.05 MB ✓
+[16:59:29]   ✅  DOCX Umfang: 583 Absätze ✓
+[16:59:29]   ✅  Alle 5 Pflicht-Sektionen vorhanden (🎯📖✏️✅📝) ✓
+[16:59:29]   ✅  DOCX Kapitel: 3 Überschriften ✓
+[16:59:29] ────────────────────────────────────────────────────────────
+

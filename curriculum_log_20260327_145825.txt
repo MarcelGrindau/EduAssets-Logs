@@ -1,0 +1,367 @@
+[14:18:32] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[14:18:33] OpenRouter: 26 Free-Engines geladen
+[14:18:33] ========================================================
+[14:18:33] 📚 Curriculum Generator  v6.5  |  Build 127  |  2026-03-27
+[14:18:33]    B127: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[14:18:33] ========================================================
+[14:18:42] ✅ 4 Kapitel übernommen.
+[14:18:57] ✅ 4 Kapitel übernommen.
+[14:19:10] ▶ Start: 'IT-260327-1418-de' | 4 Kapitel | 9 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Kurz (~5 Seiten)
+[14:19:10] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[14:19:10] ⚠️  MULTI-KI AKTIV: 26 Engines + Claude Synthese
+[14:19:10]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[14:19:10] ============================================================
+[14:19:10] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 4 Kapitel
+[14:19:10] ============================================================
+[14:19:10] [1/4] BLOCK 1 – Beschaffung & Angebotsvergleich
+[14:19:10]   Multi-KI: 22 Engines | 3 Batch(es) | Zeitbudget: 60s
+[14:19:11]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:19:11]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:19:13]   Multi-KI: glm-4.5-air:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:19:57]   Multi-KI: nemotron-3-nano-30b-a3 verworfen (zu kurz/falsche Sprache)
+[14:20:04]   Multi-KI: step-3.5-flash:free OK (12928 Z.)
+[14:20:10]   Multi-KI: nemotron-3-super-120b- Zeitbudget (60s) ueberschritten — uebersprungen
+[14:20:10]   Multi-KI: trinity-mini:free Zeitbudget (60s) ueberschritten — uebersprungen
+[14:20:11]   Multi-KI: gemma-3-27b-it:free Zeitbudget (60s) ueberschritten — uebersprungen
+[14:20:11]   Multi-KI: Batch 1 fertig in 61.0s
+[14:20:13]   Multi-KI: mistral-small-3.1-24b- Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:20:13]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:20:13]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:20:26]   Multi-KI: gemma-3-27b-it:free OK (8442 Z.)
+[14:20:39]   Multi-KI: lfm-2.5-1.2b-thinking: OK (31550 Z.)
+[14:20:58]   Multi-KI: trinity-mini:free OK (5039 Z.)
+[14:21:11]   Multi-KI: trinity-large-preview: Zeitbudget (60s) ueberschritten — uebersprungen
+[14:21:12]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (60s) ueberschritten — uebersprungen
+[14:21:12]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (60s) ueberschritten — uebersprungen
+[14:21:13]   Multi-KI: gemma-3-4b-it:free Zeitbudget (60s) ueberschritten — uebersprungen
+[14:21:13]   Multi-KI: Batch 2 fertig in 61.5s
+[14:21:15]   Multi-KI: qwen3-4b:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:21:15]   Multi-KI: qwen3-next-80b-a3b-ins Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:21:16]   Multi-KI: qwen3-coder:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:21:29]   Multi-KI: nemotron-nano-12b-v2-v OK (7070 Z.)
+[14:21:46]   Multi-KI: gemma-3-4b-it:free OK (9406 Z.)
+[14:22:13]   Multi-KI: gemma-3-12b-it:free Zeitbudget (60s) ueberschritten — uebersprungen
+[14:22:14]   Multi-KI: gemma-3n-e2b-it:free Zeitbudget (60s) ueberschritten — uebersprungen
+[14:22:14]   Multi-KI: gemma-3n-e4b-it:free Zeitbudget (60s) ueberschritten — uebersprungen
+[14:22:14]   Multi-KI: Batch 3 fertig in 61.0s
+[14:22:14]   Multi-KI: step-3.5-flash:free → 9 Folien geparst
+[14:22:14]   Multi-KI: gemma-3-27b-it:free → 9 Folien geparst
+[14:22:14]   Multi-KI: lfm-2.5-1.2b-thinking:free → 9 Folien geparst
+[14:22:14]   Multi-KI: trinity-mini:free → 9 Folien geparst
+[14:22:14]   Multi-KI: nemotron-nano-12b-v2-vl:free → 9 Folien geparst
+[14:22:14]   Multi-KI: gemma-3-4b-it:free → 9 Folien geparst
+[14:22:14]   Multi-KI: Claude synthetisiert 6 Versionen...
+[14:22:20]   Multi-KI: gemma-3n-e4b-it:free OK (7433 Z.)
+[14:22:20]   Multi-KI: trinity-large-preview: OK (7391 Z.)
+[14:22:22]   Multi-KI: gemma-3n-e2b-it:free OK (7603 Z.)
+[14:22:43]   Multi-KI: gemma-3-12b-it:free OK (9244 Z.)
+[14:23:31]   Multi-KI: nemotron-3-super-120b- verworfen (zu kurz/falsche Sprache)
+[14:25:58]   Multi-KI: Synthese OK (9 Folien)
+[14:25:58]   ✓ 9 Folien generiert
+[14:25:58] [2/4] BLOCK 2 – Vertragsarten & Lizenzmodelle
+[14:25:58]   Multi-KI: 3 Engines | 1 Batch(es) | Zeitbudget: 60s
+[14:25:59]   Multi-KI: step-3.5-flash:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[14:26:09]   Multi-KI: lfm-2.5-1.2b-thinking: verworfen (zu kurz/falsche Sprache)
+[14:26:09]   Multi-KI: nemotron-nano-9b-v2:fr OK (6517 Z.)
+[14:26:41]   Multi-KI: nemotron-3-nano-30b-a3 verworfen (zu kurz/falsche Sprache)
+[14:26:41]   Multi-KI: Batch 1 fertig in 43.3s
+[14:26:41]   Multi-KI: keine gueltige Version — Standard-Generation
+[14:27:57]   ✓ 9 Folien generiert
+[14:27:57] [3/4] BLOCK 3 – Kalkulation & Preisgestaltung
+[14:27:57]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 60s
+[14:28:16]   Multi-KI: lfm-2.5-1.2b-thinking: OK (10847 Z.)
+[14:28:38]   Multi-KI: nemotron-3-nano-30b-a3 verworfen (zu kurz/falsche Sprache)
+[14:28:38]   Multi-KI: Batch 1 fertig in 41.6s
+[14:28:38]   Multi-KI: lfm-2.5-1.2b-thinking:free → 9 Folien geparst
+[14:28:38]   Multi-KI: 1 Version — Claude prueft Qualitaet
+[14:29:42]   Multi-KI: Refinement OK (9 Folien)
+[14:29:42]   ✓ 9 Folien generiert
+[14:29:42] [4/4] BLOCK 4 – Fallstudien & Praxis
+[14:29:42]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 60s
+[14:29:56]   Multi-KI: lfm-2.5-1.2b-thinking: OK (6099 Z.)
+[14:30:23]   Multi-KI: nemotron-3-nano-30b-a3 verworfen (zu kurz/falsche Sprache)
+[14:30:23]   Multi-KI: Batch 1 fertig in 41.1s
+[14:30:23]   Multi-KI: lfm-2.5-1.2b-thinking:free → 11 Folien geparst
+[14:30:23]   Multi-KI: 1 Version — Claude prueft Qualitaet
+[14:31:16]   Multi-KI: Refinement OK (9 Folien)
+[14:31:16]   ✓ 9 Folien generiert
+[14:31:16] 
+📊 Gesamt: 36 Folien in 4 Kapiteln
+[14:31:16] 
+📊 Erstelle kombinierte Präsentation...
+[14:31:16]   ⚡ Lade 36 Bilder parallel...
+[14:31:30] ⚠️  [Pexels] 'procurement process flowchart diagram bu' → Score 6/10 ❌  Das Bild zeigt eine Frau, die an eine Whiteboard schreibt, aber es gibt keinen expliziten IT-Bezug wie Hardware, Software oder spezifische IT-Konzepte, jedoch ist der Kontext mit einem Whiteboard und einem möglichen Prozessdiagramm für IT-Beschaffungsprozesse schwach relevant. — nächste Quelle
+[14:31:31] ⚠️  [Pexels] 'tco calculation infographic' → Score 6/10 ❌  Das Bild zeigt eine Person, die einen Taschenrechner benutzt, was ein generisches Bild für finanzielle Berechnungen ist, aber nicht explizit auf IT-Themen wie Hardware, Software oder Netzwerk hinweist, jedoch im Kontext von "Total Cost of Ownership" schwach relevant sein könnte. — nächste Quelle
+[14:31:37] ⚠️  [Pixabay] 'procurement process flowchart diagram bu' → Score 6/10 ❌  Das Bild zeigt eine Frau vor einer Whiteboard mit einem Flussdiagramm, das für einen Geschäftsprozess oder eine Analyse verwendet werden könnte, aber es gibt keinen expliziten IT-Bezug. — nächste Quelle
+[14:31:39] ⚠️  [Pixabay] 'tco calculation infographic' → Score 6/10 ❌  Das Bild zeigt eine Infografik zur TCO-Berechnung (Total Cost of Ownership) mit einem Taschenrechner, aber keine spezifischen IT-Elemente wie Hardware, Software oder ein Terminal. — nächste Quelle
+[14:31:43] ⚠️  [Unsplash] 'procurement process flowchart diagram bu' → Score 5/10 ❌  Das Bild zeigt ein Flussdiagramm, das für den IT-Beschaffungsprozess relevant sein könnte, aber es gibt keinen expliziten IT-Bezug wie Hardware, Software oder Terminals, daher ist es zu generisch. — nächste Quelle
+[14:31:44] 🖼  [Pexels] 'server hardware' → Score 9/10 ✅  Das Bild zeigt die Rückseite eines Servers mit verschiedenen Anschlüssen wie VGA- und Ethernet-Ports, was sehr gut zum Thema "Server-Hardware-Anschaffung" passt.
+[14:31:48] 🖼  [Pexels] 'server web browser code internet' → Score 8/10 ✅  Das Bild zeigt einen Screenshot von Quellcode in einer Entwicklungsumgebung, was eine hohe Relevanz zum Thema IT-Beschaffung strategisch gestalten im Kontext von Softwareentwicklung und Programmierung hat.
+[14:31:53] ⚠️  [Fallback] 'procurement process flowchart diagram bu' → Score 5/10 ❌  Das Bild zeigt ein Flussdiagramm zum Beschaffungsprozess, das zwar thematisch relevant für Business-Analyse ist, aber keinen direkten IT-Bezug aufweist. — nächste Quelle
+[14:31:53] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 6/10) für: 'procurement process flowchart diagram bu'
+[14:31:56] 🖼  [Unsplash] 'tco calculation infographic' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:31:57] ⚠️  [Pexels] 'decision matrix scoring table excel spre' → Score 6/10 ❌  Das Bild zeigt eine Person, die ein Dokument mit einer Tabelle oder einem Diagramm in der Hand hält, aber es gibt keinen expliziten IT-Bezug wie Hardware, Software oder ein Terminal. — nächste Quelle
+[14:31:57] 🖼  [Pexels] 'software' → Score 7/10 ✅  Das Bild zeigt eine Person, die an einem Laptop arbeitet, was thematisch relevant für IT ist, aber nicht explizit ein bestimmtes IT-Thema wie Software, Hardware oder ein Terminal darstellt.
+[14:32:05] ⚠️  [Pixabay] 'decision matrix scoring table excel spre' → Score 5/10 ❌  Das Bild zeigt eine Gruppe von Menschen in Business-Outfits, die von einer Hand angewiesen werden, und hat keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Terminal. — nächste Quelle
+[14:32:10] ⚠️  [Pexels] 'KPI' → Score 5/10 ❌  Das Bild zeigt einen Mann, der an einer Tafel mit einem Diagramm steht, aber es gibt keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Programmierung, der Titel "Lieferantenrisiken systematisch bewerten" und der Bildsuchbegriff "KPI" weisen jedoch auf ein Thema hin, das in einem IT-Kontext — nächste Quelle
+[14:32:13] ⚠️  [Unsplash] 'decision matrix scoring table excel spre' → Score 5/10 ❌  Das Bild zeigt Scrabble-Steine, die für eine Entscheidungsfindung mit Gewichtung verwendet werden könnten, aber keinen direkten IT-Bezug haben. — nächste Quelle
+[14:32:16] ⚠️  [Pixabay] 'KPI' → Score 5/10 ❌  Das Bild zeigt ein Laptop mit einer Grafik, die ein Infinity-Symbol mit Zahnrädern und Pfeilen enthält, aber es gibt keinen direkten Bezug zu Lieferantenrisiken oder KPIs im IT-Kontext. — nächste Quelle
+[14:32:18] 🖼  [Pexels] 'Key computer technology' → Score 8/10 ✅  Das Bild zeigt eine Nahaufnahme einer Computertastatur mit beleuchteten Tasten, insbesondere dem Windows-Logo, was eindeutig im IT-Kontext angesiedelt ist und somit gut für eine IT-Schulungsfolie geeignet ist.
+[14:32:19] 🖼  [Pexels] 'Linux operating system Linux terminal' → Score 8/10 ✅  Das Bild zeigt einen Linux-Terminalbildschirm, der für IT-Themen relevant ist, aber nicht direkt auf das Thema "Beschaffung und Angebotsvergleich" eingeht.
+[14:32:23] ⚠️  [Unsplash] 'KPI' → Score 5/10 ❌  Das Bild zeigt einen Mann vor einer Whiteboard mit handschriftlichen Notizen, aber es gibt keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Programmierung, jedoch könnte der Begriff "KPI" (Key Performance Indicator) in einem IT-Kontext verwendet werden, aber der Kontext ist zu generisch. — nächste Quelle
+[14:32:25] ⚠️  [Fallback] 'decision matrix scoring table excel spre' → Score 5/10 ❌  Das Bild zeigt ein Netzwerk-Switch mit grünen Kabeln, hat jedoch keinen direkten Bezug zum Thema "Systematische Entscheidungsfindung mit Gewichtung" oder einer Entscheidungsmatrix. — nächste Quelle
+[14:32:25] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 6/10) für: 'decision matrix scoring table excel spre'
+[14:32:27] 🖼  [Pexels] 'Office computer IT technology' → Score 7/10 ✅  Das Bild zeigt eine Person vor einem Computer mit einem Monitor und einem Headset, was auf einen IT-Kontext hindeutet, aber nicht explizit genug ist, um das Thema "Vertragsarten und Lizenzmodelle" direkt zu unterstützen.
+[14:32:33] ⚠️  [Fallback] 'KPI' → Score 5/10 ❌  Das Bild zeigt Codezeilen auf einem Bildschirm, was auf Programmierung hinweist, aber der Begriff "KPI" (Key Performance Indicator) nicht direkt visualisiert wird. — nächste Quelle
+[14:32:33] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'KPI'
+[14:32:38] 🖼  [Pexels] 'learning objectives business education g' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:32:40] ⚠️  [Pexels] 'Kalkulation Preisgestaltung' → Score 5/10 ❌  Das Bild zeigt drei Personen vor einer Tafel mit einer Grafik, aber es gibt keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Programmierung. — nächste Quelle
+[14:32:44] 🖼  [Pexels] 'Office computer IT technology' → Score 7/10 ✅  Das Bild zeigt eine Person an einem Computerarbeitsplatz, was thematisch relevant für IT ist, aber nicht konkret auf das Thema "Leasingvertrag – Finanzierung und Nutzung" von IT-Systemen eingeht.
+[14:32:45] ⚠️  [Pexels] 'Office computer IT technology' → Score 6/10 ❌  Das Bild zeigt eine Person vor einem Computer, aber der Kontext ist nicht spezifisch genug für IT-Themen wie Hardware, Software oder Programmierung, sondern wirkt eher generisch als Bürosituation. — nächste Quelle
+[14:32:47] ⚠️  [Pixabay] 'Kalkulation Preisgestaltung' → Score 2/10 ❌  Das Bild zeigt einen Taschenrechner, der zwar für Kalkulationen verwendet werden kann, aber keinen direkten Bezug zu IT-Themen wie Hardware, Software oder Netzwerk hat. — nächste Quelle
+[14:32:52] 🖼  [Pixabay] 'Office computer IT technology' → Score 7/10 ✅  Das Bild zeigt eine Büroumgebung mit einem Computer, einer Tastatur, einer Maus und einem Notizbuch, was thematisch relevant für IT ist, aber nicht explizit IT-spezifische Elemente wie Terminals, Netzwerke oder Software zeigt.
+[14:32:52] 🖼  [Pexels] 'Office computer IT technology' → Score 7/10 ✅  Das Bild zeigt einen alten Computer, der thematisch relevant für IT ist, aber nicht direkt auf den Kernunterschied zwischen Werkvertrag und Dienstvertrag hinweist.
+[14:32:52] ⚠️  [Pexels] 'Kalkulationsmethoden' → Score 5/10 ❌  Das Bild zeigt ein Headset und ein Dokument mit einem Diagramm, aber es gibt keinen direkten Bezug zu Kalkulationsmethoden oder -tools im IT-Kontext. — nächste Quelle
+[14:32:59] ⚠️  [Pexels] 'Unternehmen Kalkulation' → Score 5/10 ❌  Das Bild zeigt einen Text in deutscher Sprache, aber ohne erkennbaren IT-Bezug, weshalb es schwach thematisch relevant für IT ist. — nächste Quelle
+[14:33:00] ⚠️  [Unsplash] 'Kalkulationsmethoden' → Score 5/10 ❌  Das Bild zeigt ein Blatt mit mathematischen Gleichungen, einen Taschenrechnerersatz (eine Uhr), einen Stift und ein Radiergummi, aber keinen direkten Bezug zu IT-Themen wie Hardware, Software oder einem Terminal. — nächste Quelle
+[14:33:01] ⚠️  [Fallback] 'Kalkulation Preisgestaltung' → Score 5/10 ❌  Das Bild zeigt ein dunkles Display mit grünen und roten Texten und Symbolen, die möglicherweise für einen IT-Kontext relevant sein könnten, aber kein direkter Bezug zur Kalkulation und Preisgestaltung im IT-Kontext ist erkennbar. — nächste Quelle
+[14:33:01] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Kalkulation Preisgestaltung'
+[14:33:05] ⚠️  [Pixabay] 'Unternehmen Kalkulation' → Score 5/10 ❌  Das Bild zeigt einen Taschenrechner, der für Kalkulationen in einem Unternehmen verwendet werden könnte, aber keinen spezifischen IT-Bezug aufweist. — nächste Quelle
+[14:33:10] 🖼  [Pexels] 'IT computer IT technology' → Score 7/10 ✅  Das Bild zeigt eine Person vor einem Computer mit einem Monitor und einem Headset, was auf eine IT-relevante Aktivität wie Programmierung, Audiobearbeitung oder ähnliches hindeutet, aber der Kontext ist nicht explizit genug, um eine direkte Verbindung zu den Lernzielen und Kompetenzen im IT-Bereich herzustellen.
+[14:33:11] ⚠️  [Fallback] 'Kalkulationsmethoden' → Score 5/10 ❌  Das Bild zeigt eine Reihe von Servern mit leuchtenden Lichtern und Kabeln, was einen gewissen IT-Bezug hat, aber nicht direkt mit Kalkulationsmethoden oder -tools in Verbindung gebracht werden kann. — nächste Quelle
+[14:33:11] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Kalkulationsmethoden'
+[14:33:11] ⚠️  [Unsplash] 'Unternehmen Kalkulation' → Score 5/10 ❌  Das Bild zeigt einen Taschenrechner, der für Kalkulationen verwendet werden kann, aber es hat keinen direkten IT-Bezug und ist daher zu generisch für das Thema "Praxisbeispiel: Kalkulation und Preisgestaltung in einem IT-Unternehmen". — nächste Quelle
+[14:33:18] ⚠️  [Pexels] 'Unternehmen Preisgestaltung' → Score 5/10 ❌  Das Bild zeigt ein Straßenschild mit deutschen Texten, aber keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Netzwerk. — nächste Quelle
+[14:33:19] ⚠️  [Pexels] 'Preisstrategien' → Score 5/10 ❌  Das Bild zeigt eine Frau, die an einem Fenster mit Post-it-Notizen steht, aber es gibt keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Programmierung. — nächste Quelle
+[14:33:21] ⚠️  [Fallback] 'Unternehmen Kalkulation' → Score 5/10 ❌  Das Bild zeigt ein Laptop mit Code auf dem Bildschirm, einen Kaffeebecher und ein Notizbuch auf einem Tisch vor einer Ziegelwand, aber es gibt keinen direkten Bezug zur Kalkulation und Preisgestaltung in einem IT-Unternehmen. — nächste Quelle
+[14:33:22] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Unternehmen Kalkulation'
+[14:33:26] ⚠️  [Pixabay] 'Unternehmen Preisgestaltung' → Score 5/10 ❌  Das Bild zeigt einen Mann in einem Anzug vor einem Fenster und hat keinen offensichtlichen Bezug zu IT-Themen wie Hardware, Software oder Netzwerk. — nächste Quelle
+[14:33:32] 🖼  [Pexels] 'in computer IT technology' → Score 8/10 ✅  Das Bild zeigt eine Computerplatine mit verschiedenen IT-Komponenten, wie einem Prozessor und Speicherchips, und ist daher gut für eine IT-Schulungsfolie geeignet.
+[14:33:35] ⚠️  [Pexels] 'Netzwerkarchitektur Diagramm' → Score 5/10 ❌  Das Bild zeigt ein Gebäude mit einem Grundriss, der keine offensichtliche Verbindung zu IT-Themen wie Hardware, Software oder Netzwerken aufweist. — nächste Quelle
+[14:33:39] ⚠️  [Pexels] 'summary overview und ausblick' → Score 5/10 ❌  Das Bild zeigt eine Stadtlandschaft mit Hochhäusern, aber keinen erkennbaren IT-Bezug wie Hardware, Software oder Netzwerkkomponenten. — nächste Quelle
+[14:33:40] ⚠️  [Fallback] 'Preisstrategien' → Score 1/10 ❌  Das Bild zeigt keine IT-Hardware oder -Software, sondern eine physische Ansicht von Computernetwerk-Komponenten, jedoch ist der Titel "Preisstrategien und -management" und der Suchbegriff "Preisstrategien" nicht auf IT bezogen und das Bild zeigt auch keine für Preisstrategien relevante Inhalte. — nächste Quelle
+[14:33:40] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Preisstrategien'
+[14:33:44] 🖼  [Pexels] 'cloud cloud computing server virtual' → Score 8/10 ✅  Das Bild zeigt eine Frau in einem Serverraum, was thematisch gut zu Cloud-Infrastruktur passt, jedoch fehlt ein direkter Bezug zu Cloud-Computing wie virtuelle Maschinen oder Container.
+[14:33:44] ⚠️  [Fallback] 'Unternehmen Preisgestaltung' → Score 5/10 ❌  Das Bild zeigt einen Screenshot eines Dateisystems mit Verzeichnissen und Dateien, jedoch keinen direkten Bezug zur Preisgestaltung in einem IT-Unternehmen. — nächste Quelle
+[14:33:44] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Unternehmen Preisgestaltung'
+[14:33:46] ⚠️  [Pixabay] 'summary overview und ausblick' → Score 5/10 ❌  Das Bild zeigt eine Stadtlandschaft mit Gebäuden und Dächern, aber keinen erkennbaren IT-Bezug wie Hardware, Software oder Terminals. — nächste Quelle
+[14:33:53] 🖼  [Pixabay] 'Netzwerkarchitektur Diagramm' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:34:02] ⚠️  [Fallback] 'summary overview und ausblick' → Score 2/10 ❌  Das Bild zeigt eine Festplatte, aber der Titel "Zusammenfassung und Ausblick" und der Bildsuchbegriff "summary overview und ausblick" haben keinen direkten Bezug zur Hardware, daher ist das Bild nicht gut geeignet. — nächste Quelle
+[14:34:02] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'summary overview und ausblick'
+[14:34:07] 🖼  [Pexels] 'database database server SQL' → Score 8/10 ✅  Das Bild zeigt einen Serverraum mit zahlreichen Servern und Kabeln, was thematisch gut zu Datenbankstrukturierung und SQL-Servern passt, jedoch keine spezifischen Datenbank- oder SQL-Elemente explizit zeigt.
+[14:34:13] 🖼  [Pexels] 'security cybersecurity lock encryption' → Score 7/10 ✅  Das Bild zeigt ein Sicherheitssymbol und den Begriff "Security", was thematisch relevant für IT-Sicherheit ist, aber kein konkretes IT-Element wie Hardware oder Software darstellt.
+[14:34:14] ⚠️  [Pexels] 'Agile Team' → Score 6/10 ❌  Das Bild zeigt ein Team bei einer Besprechung, aber es gibt keinen direkten IT-Bezug erkennbar, jedoch könnte der Kontext durch die Nutzung eines Laptops noch in Richtung IT interpretiert werden. — nächste Quelle
+[14:34:15] 🖼  [Pexels] 'data computer IT technology' → Score 9/10 ✅  Das Bild zeigt eine interne Festplatte mit sichtbaren Komponenten wie der Scheibe und dem Schreib-/Lesekopf, was sehr gut zum Thema "Darstellung von Daten" im IT-Kontext passt.
+[14:34:18] 🖼  [Pexels] 'Green computer IT technology' → Score 7/10 ✅  Das Bild zeigt einen älteren Computer, der aufgrund seiner Effizienz und Umweltfreundlichkeit im Kontext von "Green IT" thematisch relevant ist, jedoch keine direkten Bezug zu modernen Green-IT-Konzepten herstellt.
+[14:34:19] ⚠️  [Pixabay] 'Agile Team' → Score 2/10 ❌  Das Bild zeigt eine Naturszene mit Holzbalken und Seilen, aber keinen erkennbaren Bezug zu IT oder agilen Methoden. — nächste Quelle
+[14:34:23] 🖼  [Unsplash] 'Agile Team' → Score 7/10 ✅  Das Bild zeigt ein Team in einer Besprechung, was thematisch relevant für agile Methoden in der IT ist, aber keinen direkten IT-Bezug durch Hardware oder Software erkennbar macht.
+[14:34:23]   ✓ Bilder vorgeladen
+[14:34:46] 🖼  [Pexels] 'TCO computer IT technology' → Score 8/10 ✅  Das Bild zeigt einen Laptop-Bildschirm mit Code, was eine gute thematische Relevanz für IT und Technologie aufweist, jedoch nicht direkt mit dem spezifischen Thema "Total Cost of Ownership" zusammenhängt.
+[14:34:46] 🖼  [Pexels] 'software software development code scree' → Score 9/10 ✅  Das Bild zeigt einen Ausschnitt aus einem Code-Editor mit Programmcode, der aufgrund der farbigen Darstellung von Schlüsselwörtern und Befehlen eindeutig im Kontext der Softwareentwicklung steht.
+[14:34:46] ⚠️  [Pexels] 'process operating system Linux terminal' → Score 2/10 ❌  Das Bild zeigt eine Person in einem nicht-IT-spezifischen Umfeld, ohne erkennbaren Bezug zu Computern, Software oder Terminals. — nächste Quelle
+[14:34:50] ⚠️  [Pixabay] 'process operating system Linux terminal' → Score 6/10 ❌  Das Bild zeigt eine Person mit einem futuristischen, technologiebezogenen Overlay, aber ohne direkten Bezug zu einem spezifischen IT-Thema wie Linux, Terminal oder einem Prozess, jedoch ist der Kontext aufgrund der visuellen Elemente noch schwach mit IT in Verbindung zu bringen. — nächste Quelle
+[14:34:54] 🖼  [Unsplash] 'process operating system Linux terminal' → Score 8/10 ✅  Das Bild zeigt eine Person, die an zwei Laptops mit einem Linux-System (anhand des Terminals im Hintergrund erkennbar) arbeitet, was den IT-Kontext gut trifft, jedoch nicht direkt die Phasen des IT-Beschaffungsprozesses darstellt.
+[14:34:56] 🖼  [Pexels] 'Matrix computer mathematics diagram' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:35:16] ⚠️  [Pexels] 'Bedarfsermittlung' → Score 5/10 ❌  Das Bild zeigt einen Tisch mit einem Blatt Papier und einem Stift, aber keinen erkennbaren IT-Bezug. — nächste Quelle
+[14:35:26] ⚠️  [Fallback] 'Bedarfsermittlung' → Score 1/10 ❌  Das Bild zeigt einen Computerchip, aber der Titel "Bedarfsermittlung" hat keinen erkennbaren Bezug zum gezeigten IT-Thema, zudem ist der Begriff "Bedarfsermittlung" ein betriebswirtschaftlicher Terminus. — nächste Quelle
+[14:35:26] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Bedarfsermittlung'
+[14:35:43] ⚠️  [Pexels] 'Marktforschung' → Score 2/10 ❌  Das Bild zeigt zwei grüne Pillen unter einer Lupe auf gelbem Hintergrund, was nicht im Kontext von IT oder Marktforschung steht, sondern eher im Bereich Gesundheit oder Medizin angesiedelt ist. — nächste Quelle
+[14:35:56] 🖼  [Pixabay] 'Marktforschung' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:36:13] ⚠️  [Pexels] 'Ausschreibung' → Score 5/10 ❌  Das Bild zeigt eine Lupe auf einem Dokument mit deutschem Text, der jedoch keinen erkennbaren IT-Bezug hat, sondern eher auf eine Stellen- oder Auftrags-Ausschreibung hindeutet. — nächste Quelle
+[14:36:16] ⚠️  [Pixabay] 'Ausschreibung' → Score 5/10 ❌  Das Bild zeigt eine winterliche Szene mit einem kleinen, roten, animierten Charakter und einer Holzhütte, aber es gibt keinen erkennbaren Bezug zum IT-Thema. — nächste Quelle
+[14:36:26] ⚠️  [Fallback] 'Ausschreibung' → Score 5/10 ❌  Das Bild zeigt eine unübersichtliche Ansammlung von Computerhardware, jedoch ohne klaren Bezug zu einer Ausschreibung im IT-Kontext. — nächste Quelle
+[14:36:26] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Ausschreibung'
+[14:36:41] ⚠️  [Pexels] 'Angebotsbewertung' → Score 5/10 ❌  Das Bild zeigt drei Personen vor einem Whiteboard, aber es gibt keinen erkennbaren IT-Bezug, wie Hardware, Software oder ein spezifisches IT-Thema, das direkt mit der Angebotsbewertung im IT-Kontext zusammenhängt. — nächste Quelle
+[14:36:51] 🖼  [Fallback] 'Angebotsbewertung' → Score 8/10 ✅  Das Bild zeigt eine detailreiche Ansicht von Netzwerk-Hardware mit zahlreichen Kabeln und Netzwerkanschlüssen, was gut zum Thema IT passt, jedoch keinen direkten Bezug zur Angebotsbewertung hat.
+[14:37:16] ⚠️  [Pexels] 'Formel' → Score 5/10 ❌  Das Bild zeigt eine Person, die mathematische Formeln an eine Tafel schreibt, was zwar thematisch für IT relevant sein könnte, aber keinen direkten IT-Bezug wie Hardware, Software oder Programmierung erkennen lässt. — nächste Quelle
+[14:37:20] ⚠️  [Pixabay] 'Formel' → Score 1/10 ❌  Das Bild zeigt ein Formel-1-Rennen, welches thematisch nicht mit IT-Inhalten zusammenhängt und stattdessen Sport und Fahrzeuge darstellt. — nächste Quelle
+[14:37:30] ⚠️  [Unsplash] 'Formel' → Score 1/10 ❌  Das Bild zeigt einen Mercedes-AMG-Motor, der keinerlei Bezug zu IT-Inhalten wie Hardware, Software, Terminal oder Netzwerk hat. — nächste Quelle
+[14:37:38] ⚠️  [Fallback] 'Formel' → Score 5/10 ❌  Das Bild zeigt Code-Ausschnitte auf einem Bildschirm, was auf Programmierung hinweist, aber der Titel "Formel" und der Bildinhalt haben keinen direkten IT-Bezug, der explizit auf eine Formel hinweist. — nächste Quelle
+[14:37:38] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Formel'
+[14:37:46] ⚠️  [Pexels] 'Kriterienauswahl' → Score 5/10 ❌  Das Bild zeigt eine Computermaus, die auf eine "Settings"-Option zeigt, was einen schwachen IT-Bezug aufweist, aber zu generisch ist, um als perfekt oder gut bewertet zu werden. — nächste Quelle
+[14:37:56] 🖼  [Fallback] 'Kriterienauswahl' → Score 8/10 ✅  Das Bild zeigt eine Nahaufnahme von Codezeilen auf einem Bildschirm, die für eine IT-Schulungsfolie zum Thema "Kriterienauswahl" relevant sind, da es sich offensichtlich um Programmcode handelt.
+[14:38:12] ⚠️  [Pexels] 'Gewichtung' → Score 2/10 ❌  Das Bild zeigt eine trockene, rissige Oberfläche, die keinerlei Bezug zu IT-Themen wie Hardware, Software oder Netzwerk hat und stattdessen an natürliche Formationen erinnert. — nächste Quelle
+[14:38:25] ⚠️  [Pixabay] 'Gewichtung' → Score 5/10 ❌  Das Bild zeigt eine Person, die auf einer Waage Gemüse abwiegt, und hat keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Netzwerk. — nächste Quelle
+[14:38:35] ⚠️  [Fallback] 'Gewichtung' → Score 1/10 ❌  Das Bild zeigt eine Computermotherboard und ist daher für das Thema "Gewichtung" im IT-Kontext nicht relevant. — nächste Quelle
+[14:38:35] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Gewichtung'
+[14:38:53] ⚠️  [Pexels] 'Erfüllungsgrad' → Score 1/10 ❌  Das Bild zeigt Geldscheine, was keinen erkennbaren Bezug zum IT-Thema "Erfüllungsgrad" hat und stattdessen mit Finanzen assoziiert wird. — nächste Quelle
+[14:39:03] ⚠️  [Fallback] 'Erfüllungsgrad' → Score 5/10 ❌  Das Bild zeigt eine Reihe von Kabeln und Steckverbindungen, die in einem IT-Kontext verwendet werden könnten, aber der Begriff "Erfüllungsgrad" hat keinen offensichtlichen Bezug zum Bildinhalt. — nächste Quelle
+[14:39:03] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Erfüllungsgrad'
+[14:39:25] ⚠️  [Pexels] 'Finanzielle Stabilität' → Score 1/10 ❌  Das Bild zeigt ein Gebäude mit einem undeutlichen Text auf einem Banner, aber es gibt keinen erkennbaren Bezug zu IT oder finanzieller Stabilität im Kontext von Informatik oder Technologie. — nächste Quelle
+[14:39:29] ⚠️  [Pixabay] 'Finanzielle Stabilität' → Score 2/10 ❌  Das Bild zeigt eine Steinschichtung auf einem Sandstrand, was keinen erkennbaren Bezug zum IT-Thema "Finanzielle Stabilität" oder Informatik hat. — nächste Quelle
+[14:39:34] ⚠️  [Unsplash] 'Finanzielle Stabilität' → Score 5/10 ❌  Das Bild zeigt ein Finanzchart mit einer Aktienkursentwicklung, hat aber keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Programmierung. — nächste Quelle
+[14:39:41] ⚠️  [Fallback] 'Finanzielle Stabilität' → Score 5/10 ❌  Das Bild zeigt ein Laptop mit dem Begriff "CYBER SECURITY" auf dem Bildschirm, was zwar im IT-Kontext relevant ist, aber nicht direkt mit finanzieller Stabilität zusammenhängt. — nächste Quelle
+[14:39:41] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Finanzielle Stabilität'
+[14:39:49] ⚠️  [Pexels] 'Qualitätszertifikate' → Score 5/10 ❌  Das Bild zeigt eine Hand mit einer Lupe und einem Lineal über einem technischen Zeichnungsplan, was auf eine Tätigkeit im Bereich Architektur oder Ingenieurwesen hindeutet, aber keinen direkten IT-Bezug erkennen lässt. — nächste Quelle
+[14:40:01] ⚠️  [Fallback] 'Qualitätszertifikate' → Score 2/10 ❌  Das Bild zeigt einen Containerumschlagplatz, hat aber keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder Netzwerk. — nächste Quelle
+[14:40:01] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Qualitätszertifikate'
+[14:40:18] ⚠️  [Pexels] 'Referenzprojekte' → Score 5/10 ❌  Das Bild zeigt einen deutschen Text ohne IT-Bezug, der sich nicht auf ein bestimmtes IT-Thema bezieht. — nächste Quelle
+[14:40:23] ⚠️  [Unsplash] 'Referenzprojekte' → Score 5/10 ❌  Das Bild zeigt die Wörter "PROJECT" und "UPDATE" auf Holzblöcken, was im Kontext von IT-Schulungen relevant sein könnte, aber zu generisch ist und keinen direkten IT-Bezug wie Hardware, Software oder Terminals erkennen lässt. — nächste Quelle
+[14:40:30] 🖼  [Fallback] 'Referenzprojekte' → Score 7/10 ✅  Das Bild zeigt einen Ausschnitt aus einem Computerbildschirm mit Code, der anscheinend aus einem Ruby-on-Rails-Projekt stammt, was für eine IT-Schulungsfolie zum Thema Referenzprojekte relevant ist.
+[14:40:44] ⚠️  [Pexels] 'Lieferfähigkeit' → Score 1/10 ❌  Das Bild zeigt einen deutschen Text ohne IT-Bezug und einige geometrische Formen, aber keine erkennbare Verbindung zu IT-Themen. — nächste Quelle
+[14:40:55] 🖼  [Fallback] 'Lieferfähigkeit' → Score 8/10 ✅  Das Bild zeigt eine detailreiche Ansicht von Netzwerk-Hardware mit zahlreichen Kabeln und Netzwerkanschlüssen, was gut zum Thema "Lieferfähigkeit" im IT-Kontext passt, insbesondere im Hinblick auf Netzwerk- und Serverinfrastruktur.
+[14:41:10] ⚠️  [Pexels] 'Kaufvertrag Eigentumsübergang Rüc' → Score 5/10 ❌  Das Bild zeigt eine Person, die einen Vertrag unterschreibt, aber es gibt keinen erkennbaren Bezug zu einem IT-Thema. — nächste Quelle
+[14:41:14] ⚠️  [Pixabay] 'Kaufvertrag Eigentumsübergang Rüc' → Score 1/10 ❌  Das Bild zeigt ein rotes, unregelmäßiges Muster, das keinerlei Bezug zu IT-Themen wie Hardware, Software oder Netzwerk erkennen lässt und stattdessen an natürliche Strukturen oder organische Materialien erinnert. — nächste Quelle
+[14:41:23] ⚠️  [Fallback] 'Kaufvertrag Eigentumsübergang Rüc' → Score 1/10 ❌  Das Bild zeigt eine Computer-Hardware-Komponente mit goldenen Kontakten, ist aber für den Titel "Kaufvertrag Eigentumsübergang Rück" nicht relevant und hat keinen Bezug zum Thema. — nächste Quelle
+[14:41:23] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Kaufvertrag Eigentumsübergang Rüc'
+[14:41:39] ⚠️  [Pexels] 'Mietvertrag Überlassung' → Score 5/10 ❌  Das Bild zeigt zwei Personen an einem Schreibtisch, aber es gibt keinen erkennbaren IT-Bezug wie Hardware, Software oder ein Terminal. — nächste Quelle
+[14:41:53] 🖼  [Pixabay] 'Mietvertrag Überlassung' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:42:07] ⚠️  [Pexels] 'Kaufpreis Einmalige Zahlung' → Score 1/10 ❌  Das Bild zeigt einen Straßenpfosten mit einem Aufkleber, der einen deutschen Text ohne IT-Bezug enthält. — nächste Quelle
+[14:42:21] 🖼  [Pixabay] 'Kaufpreis Einmalige Zahlung' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:42:39] ⚠️  [Pexels] 'Miete Laufende Zahlung' → Score 1/10 ❌  Das Bild zeigt ein Smartphone mit einem Megafon und dem Begriff "Interest", aber keinerlei Bezug zu IT, Miete oder laufender Zahlung, daher ist es für den Kontext einer IT-Schulungsfolie nicht geeignet. — nächste Quelle
+[14:42:42] ⚠️  [Pixabay] 'Miete Laufende Zahlung' → Score 5/10 ❌  Das Bild zeigt eine Kreditkarte, die für eine laufende Zahlung verwendet werden könnte, aber es hat keinen direkten Bezug zum IT-Thema wie Hardware, Software oder Netzwerk. — nächste Quelle
+[14:42:52] ⚠️  [Fallback] 'Miete Laufende Zahlung' → Score 1/10 ❌  Das Bild zeigt eine Ansicht von Computerhardware, vermutlich Serverhardware, und hat daher keinen Bezug zum Thema "Miete Laufende Zahlung". — nächste Quelle
+[14:42:52] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Miete Laufende Zahlung'
+[14:43:08] ⚠️  [Pexels] 'Werkvertrag Erstellung Werks' → Score 5/10 ❌  Das Bild zeigt eine Person, die ein Dokument unterschreibt, was im Kontext von IT-Verträgen relevant sein könnte, aber keinen direkten IT-Bezug wie Hardware, Software oder Programmierung erkennen lässt. — nächste Quelle
+[14:43:12] ⚠️  [Pixabay] 'Werkvertrag Erstellung Werks' → Score 1/10 ❌  Das Bild zeigt Uhren, die keinen erkennbaren Bezug zum Thema "Werkvertrag Erstellung Werks" im IT-Kontext haben. — nächste Quelle
+[14:43:20] ⚠️  [Fallback] 'Werkvertrag Erstellung Werks' → Score 5/10 ❌  Das Bild zeigt Code auf einem Bildschirm, was auf Programmierung hinweist, aber der Titel "Werkvertrag Erstellung Werks" und der Bildinhalt haben nur einen schwachen Bezug zum IT-Thema, da es zu generisch und nicht explizit auf ein IT-Konzept ausgerichtet ist. — nächste Quelle
+[14:43:20] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Werkvertrag Erstellung Werks'
+[14:43:28] ⚠️  [Pexels] 'Dienstvertrag Erbringung Dienstle' → Score 1/10 ❌  Das Bild zeigt eine Reihe von Büchern mit dem Titel "Gotteslob", was eindeutig auf ein religiöses Buch und nicht auf ein IT-Thema hinweist. — nächste Quelle
+[14:43:39] ⚠️  [Fallback] 'Dienstvertrag Erbringung Dienstle' → Score 5/10 ❌  Das Bild zeigt einen Computermonitor mit einer Benutzeroberfläche, die an eine Bedienoberfläche für ein Computersystem erinnert, aber zu wenig konkrete IT-Elemente enthält, um als stark thematisch relevant zu gelten. — nächste Quelle
+[14:43:39] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Dienstvertrag Erbringung Dienstle'
+[14:43:50] ⚠️  [Pexels] 'Werkvertrag Höheres Risiko' → Score 5/10 ❌  Das Bild zeigt eine Person, die mit Papieren und einem Stift arbeitet, aber es gibt keinen erkennbaren Bezug zu IT-Themen wie Hardware, Software oder einem Terminal. — nächste Quelle
+[14:43:54] ⚠️  [Pixabay] 'Werkvertrag Höheres Risiko' → Score 1/10 ❌  Das Bild zeigt eine Person, die von einem hohen Gebäude aus in die Stadt blickt, aber es gibt keinen erkennbaren Bezug zum Thema "Werkvertrag Höheres Risiko" im IT-Kontext. — nächste Quelle
+[14:43:59] ⚠️  [Unsplash] 'Werkvertrag Höheres Risiko' → Score 5/10 ❌  Das Bild zeigt zwei Personen, die an einem Gebäude mit Seilen gesichert sind, aber es gibt keinen erkennbaren Bezug zum IT-Thema oder zum Konzept eines Werkvertrags mit höherem Risiko. — nächste Quelle
+[14:44:06] ⚠️  [Fallback] 'Werkvertrag Höheres Risiko' → Score 5/10 ❌  Das Bild zeigt eine unübersichtliche Ansammlung von Computerhardware, jedoch ohne klaren Bezug zum Thema "Werkvertrag Höheres Risiko" und könnte allenfalls als generische Darstellung von IT-Infrastruktur dienen. — nächste Quelle
+[14:44:06] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Werkvertrag Höheres Risiko'
+[14:44:23] ⚠️  [Pexels] 'Dienstvertrag Geringeres Risiko' → Score 5/10 ❌  Das Bild zeigt einen Vertrag, ein Mobiltelefon, ein Notebook und eine Tasse Kaffee, aber keinen direkten IT-Bezug außer dem Notebook, der jedoch nicht im Vordergrund steht. — nächste Quelle
+[14:44:27] ⚠️  [Pixabay] 'Dienstvertrag Geringeres Risiko' → Score 2/10 ❌  Das Bild zeigt eine Person, die mit einem Jenga-Spiel beschäftigt ist, was keinen erkennbaren Bezug zum Thema "Dienstvertrag Geringeres Risiko" im IT-Kontext hat. — nächste Quelle
+[14:44:36] ⚠️  [Fallback] 'Dienstvertrag Geringeres Risiko' → Score 1/10 ❌  Das Bild zeigt einen Code auf einem Laptop-Bildschirm, jedoch ist der Code nicht auf ein geringes Risiko im Kontext eines Dienstvertrags ausgerichtet, daher ist es für den Titel "Dienstvertrag Geringeres Risiko" nicht passend. — nächste Quelle
+[14:44:36] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Dienstvertrag Geringeres Risiko'
+[14:44:54] 🖼  [Pexels] 'Proprietär Geschlossene Lizenz' → Score 7/10 ✅  Das Bild zeigt ein "Closed"-Schild, das im Kontext von proprietären und geschlossenen Lizenzen in der IT thematisch relevant ist, jedoch nicht direkt auf ein IT-Thema wie Hardware, Software oder ein Terminal hinweist.
+[14:45:20] 🖼  [Pexels] 'open computer IT technology' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:45:36] 🖼  [Pexels] 'support network diagram computer' → Score 9/10 ✅  Das Bild zeigt eine detailreiche Ansicht von Netzwerkverbindungen und Kabeln in einem IT-System, was perfekt zum Thema "support network diagram computer" passt.
+[14:46:05] ⚠️  [Pexels] 'Kalkulations' → Score 1/10 ❌  Das Bild zeigt ein paar Karten mit vulgären Ausdrücken und hat keinen erkennbaren Bezug zu IT oder Kalkulation. — nächste Quelle
+[14:46:11] ⚠️  [Unsplash] 'Kalkulations' → Score 1/10 ❌  Das Bild zeigt einen Mann und eine Person vor einer Tafel mit fremdem Text ohne erkennbaren IT-Bezug. — nächste Quelle
+[14:46:21] ⚠️  [Fallback] 'Kalkulations' → Score 2/10 ❌  Das Bild zeigt ein Kabelmanagement in einem Serverraum, hat aber keinen erkennbaren Bezug zum Thema "Kalkulations". — nächste Quelle
+[14:46:21] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 2/10) für: 'Kalkulations'
+[14:46:37] ⚠️  [Pexels] 'Vor Nachteile Kal' → Score 1/10 ❌  Das Bild zeigt eine Uhr aus Glas mit Sand, die in Gras liegt, und hat keinen erkennbaren Bezug zu IT oder Informatik. — nächste Quelle
+[14:46:41] ⚠️  [Pixabay] 'Vor Nachteile Kal' → Score 5/10 ❌  Das Bild zeigt eine Stadtlandschaft mit Gebäuden und Dächern, aber keinen erkennbaren IT-Bezug wie Hardware, Software oder Terminals. — nächste Quelle
+[14:46:54] 🖼  [Unsplash] 'Vor Nachteile Kal' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:47:05] ⚠️  [Pexels] 'Anwendung Kalkulationstools' → Score 2/10 ❌  Das Bild zeigt ein kaputtes, altes Holzgestell auf einem Holzboden mit Fensterschatten, hat aber keinen erkennbaren Bezug zu IT, Kalkulationstools oder Anwendungen. — nächste Quelle
+[14:47:09] ⚠️  [Pixabay] 'Anwendung Kalkulationstools' → Score 1/10 ❌  Das Bild zeigt ein Smartphone mit WhatsApp, einem Messaging-Dienst, aber nicht mit einem Kalkulationstool oder einer Tabellenkalkulation, daher ist es für das Thema "Anwendung Kalkulationstools" nicht geeignet. — nächste Quelle
+[14:47:17] 🖼  [Fallback] 'Anwendung Kalkulationstools' → Score 7/10 ✅  Das Bild zeigt eine Screenshot einer Kommandozeile mit einem Ping-Befehl und einer Eingabeaufforderung, was auf eine Netzwerk- oder Systemadministrationstätigkeit hinweist, aber nicht direkt auf ein Kalkulationstool.
+[14:47:28] ⚠️  [Pexels] 'Preisstrateg' → Score 5/10 ❌  Das Bild zeigt eine Person an einem Tisch mit einem Laptop und Unterlagen, aber es gibt keinen direkten IT-Bezug zum Thema "Preisstrateg", es könnte sich auch um ein beliebiges anderes Thema handeln. — nächste Quelle
+[14:47:38] ⚠️  [Fallback] 'Preisstrateg' → Score 1/10 ❌  Das Bild zeigt eine Festplatte, hat aber keinen erkennbaren Bezug zum Thema "Preisstrateg". — nächste Quelle
+[14:47:38] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Preisstrateg'
+[14:47:53] ⚠️  [Pexels] 'Vor Nachteile Pre' → Score 1/10 ❌  Das Bild zeigt einen russischen Text ohne erkennbaren IT-Bezug. — nächste Quelle
+[14:47:57] ⚠️  [Pixabay] 'Vor Nachteile Pre' → Score 1/10 ❌  Das Bild zeigt eine Gruppe von Kühen auf einer Wiese, hat also keinen erkennbaren Bezug zum IT-Thema. — nächste Quelle
+[14:48:05] 🖼  [Fallback] 'Vor Nachteile Pre' → Score 8/10 ✅  Das Bild zeigt einen Computerchip mit goldenen Pins, der thematisch gut zum IT-Kontext passt, insbesondere für eine Schulungsfolie über Hardware oder Computerkomponenten.
+[14:48:31] 🖼  [Pexels] 'PRA computer IT technology' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:48:46] ⚠️  [Pexels] 'Anwendung Kalkula' → Score 1/10 ❌  Das Bild zeigt eine Person, die eine Zeitung verbrennt, und hat keinen erkennbaren Bezug zu IT oder dem Thema "Anwendung Kalkula". — nächste Quelle
+[14:48:56] 🖼  [Pixabay] 'Anwendung Kalkula' → Score 8/10 ✅  Das Bild zeigt einen Arbeitsplatz mit einem Rechner, einem Notizbuch mit technischen Zeichnungen, einem Taschenrechner und einem Blatt Papier mit dem Titel "BUSINESS", was auf eine Tabellenkalkulation oder ein Kalkulationsprogramm hindeutet, jedoch ohne expliziten Bezug zu einer bestimmten Anwendung namens "Kalkula".
+[14:49:05] ⚠️  [Pexels] 'Anwendung Kalkulation Preisgesta' → Score 5/10 ❌  Das Bild zeigt eine Schreibmaschine mit dem Wort "Grammar" und hat keinen offensichtlichen Bezug zu IT, Kalkulation oder Preisgestaltung, jedoch könnte es in einem weiteren Kontext mit Textverarbeitung assoziiert werden. — nächste Quelle
+[14:49:08] 🖼  [Pixabay] 'Anwendung Kalkulation Preisgesta' → Score 9/10 ✅  Das Bild zeigt einen Ausschnitt von Quellcode auf einem Bildschirm, was sehr gut zum IT-Thema passt, insbesondere wenn es um Schulungen oder Präsentationen zu Programmierung oder Softwareentwicklung geht.
+[14:49:30] 🖼  [Pexels] 'SQL database query code terminal' → Score 10/10 ✅  Das Bild zeigt eindeutig Code in einem Terminal, der sich auf SQL-Datenbankabfragen bezieht, und erfüllt somit perfekt die Anforderungen des Titels "SQL database query code terminal".
+[14:49:46] 🖼  [Pexels] 'Indexierung Optimierung' → Score 7/10 ✅  Das Bild zeigt eine Person, die an einem Laptop arbeitet und Notizen macht, was thematisch relevant für IT ist, aber nicht konkret auf Indexierungsoptimierung hinweist.
+[14:50:02] 🖼  [Pexels] 'CONSTRAINTS computer IT technology' → Score 7/10 ✅  Das Bild zeigt eine Computer-Innenansicht mit einer Grafikkarte und einem Lüfter, was thematisch relevant für IT ist, aber nicht explizit ein bestimmtes IT-Thema wie Programmierung, Netzwerk oder Terminal darstellt.
+[14:50:18] 🖼  [Pexels] 'schema computer IT technology' → Score 7/10 ✅  Das Bild zeigt eine ältere Computergeneration mit Monitor und Keyboard, was thematisch relevant für IT ist, aber nicht besonders detailliert oder spezifisch auf ein bestimmtes IT-Thema wie Hardware, Software oder Netzwerk eingeht.
+[14:50:39] 🖼  [Pexels] 'encryption cybersecurity lock encryption' → Score 8/10 ✅  Das Bild zeigt wahrscheinlich ein Schloss oder ein anderes Sicherheitssymbol, das thematisch gut zum IT-Thema "encryption" und "cybersecurity" passt, aber keine spezifische Hardware oder Software darstellt.
+[14:50:48] ⚠️  [Pexels] 'Angriffsvektoren Schutzmaßnahmen' → Score 1/10 ❌  Das Bild zeigt einen deutschen Text ohne IT-Bezug, der nicht mit dem Thema "Angriffsvektoren Schutzmaßnahmen" im IT-Kontext zusammenhängt. — nächste Quelle
+[14:51:02] 🖼  [Pixabay] 'Angriffsvektoren Schutzmaßnahmen' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:51:11] ⚠️  [Pexels] 'Zertifizierungen Compliance' → Score 1/10 ❌  Das Bild zeigt ein Türschild mit dem deutschen Wort "Geschlossen", welches keinen erkennbaren Bezug zum IT-Thema oder den Begriffen Zertifizierungen und Compliance in einem IT-Kontext hat. — nächste Quelle
+[14:51:15] 🖼  [Pixabay] 'Zertifizierungen Compliance' → Score 7/10 ✅  Das Bild zeigt eine Person mit einem Schloss und den Buchstaben DSGVO, was auf Datenschutz und Compliance im IT-Kontext hinweist, aber nicht direkt ein IT-Thema wie Hardware oder Software darstellt.
+[14:51:31] ⚠️  [Pexels] 'Incident Response Managemen' → Score 2/10 ❌  Das Bild zeigt eine brennende Mülltonne in einer Gasse mit Graffiti an den Wänden und Personen, die sich entfernen, aber es hat keinen erkennbaren Bezug zum Thema "Incident Response Management" im IT-Kontext. — nächste Quelle
+[14:51:35] ⚠️  [Pixabay] 'Incident Response Managemen' → Score 1/10 ❌  Das Bild zeigt ein Autounfall mit zwei Fahrzeugen, hat aber keinen erkennbaren Bezug zum Thema "Incident Response Management" im IT-Kontext. — nächste Quelle
+[14:51:39] ⚠️  [Unsplash] 'Incident Response Managemen' → Score 1/10 ❌  Das Bild zeigt einen Polizisten, aber keinen IT-relevanten Kontext, daher ist es für eine IT-Schulungsfolie nicht geeignet. — nächste Quelle
+[14:51:56] 🖼  [Fallback] 'Incident Response Managemen' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[14:52:10] ✓ PPTX: IT-260327-1418-de_de_Alle_Kapitel.pptx
+[14:52:10] 
+============================================================
+[14:52:10] 🎉 FERTIG!
+[14:52:10] ============================================================
+[14:52:10] ─────────────────────────────────────────────────────────────────
+[14:52:10] 📁 OUTPUT-DATEIEN
+[14:52:10]   Dateiname                                               Bytes  Datum
+[14:52:10] ─────────────────────────────────────────────────────────────────
+[14:52:10]   IT-260318-2059-de_Alle_Kapitel.pptx                  12507514  2026-03-18 21:08
+[14:52:10]   IT-260319-1710-de_Alle_Kapitel.pptx                  21916078  2026-03-19 17:28
+[14:52:10]   IT-260319-1740-de_Alle_Kapitel.pptx                  13396247  2026-03-19 17:54
+[14:52:10]   IT-260323-1943-de_Alle_Kapitel.pptx                   3041937  2026-03-23 19:53
+[14:52:10]   IT-260323-1943-de_Alle_Kapitel_neu.pptx               2523028  2026-03-23 21:11
+[14:52:10]   IT-260323-2201-de_Alle_Kapitel.pptx                    482184  2026-03-23 22:19
+[14:52:10]   IT-260323-2238-de_Alle_Kapitel.pptx                   2749741  2026-03-23 22:50
+[14:52:10]   IT-260323-2307-de_Alle_Kapitel.pptx                   2483594  2026-03-23 23:32
+[14:52:10]   IT-260324-1459-de_de_Alle_Kapitel.pptx                4619681  2026-03-24 22:22
+[14:52:10]   IT-260324-1649-de_de_Alle_Kapitel.pptx                 906321  2026-03-24 16:54
+[14:52:10]   IT-260324-2040-de_de_Alle_Kapitel.pptx                4390871  2026-03-24 20:55
+[14:52:10]   IT-260324-2108-de_de_Alle_Kapitel.pptx                3707917  2026-03-24 21:19
+[14:52:10]   IT-260324-2108-de_fr_Alle_Kapitel.pptx                5377549  2026-03-24 22:04
+[14:52:10]   IT-260324-2215-de_de_Alle_Kapitel.pptx                2726937  2026-03-24 22:30
+[14:52:10]   IT-260325-1135-de_de_Alle_Kapitel.pptx                 770334  2026-03-25 11:45
+[14:52:10]   IT-260325-1135-de_fr_Alle_Kapitel.pptx                1022594  2026-03-25 11:50
+[14:52:10]   IT-260325-1135-de_tr_Alle_Kapitel.pptx                 712919  2026-03-25 11:55
+[14:52:10]   IT-260325-1423-de_de_Alle_Kapitel.pptx                1234240  2026-03-25 14:40
+[14:52:10]   IT-260325-1423-de_tr_Alle_Kapitel.pptx                1220308  2026-03-25 15:02
+[14:52:10]   IT-260325-2107-de_de_Alle_Kapitel.pptx                1150930  2026-03-25 21:18
+[14:52:10]   IT-260325-2107-de_fr_Alle_Kapitel.pptx                1721309  2026-03-25 21:37
+[14:52:10]   IT-260325-2107-de_tr_Alle_Kapitel.pptx                1519691  2026-03-25 21:46
+[14:52:10]   IT-260325-2157-de_de_Alle_Kapitel.pptx                1993934  2026-03-25 22:16
+[14:52:10]   IT-260325-2232-de_de_Alle_Kapitel.pptx                1318488  2026-03-25 22:42
+[14:52:10]   IT-260325-2304-de_de_Alle_Kapitel.pptx                 343171  2026-03-25 23:12
+[14:52:10]   IT-260326-1334-de_de_Alle_Kapitel.pptx                 981734  2026-03-26 13:50
+[14:52:10]   IT-260326-1334-de_tr_Alle_Kapitel.pptx                1133046  2026-03-26 14:01
+[14:52:10]   IT-260326-1426-de_de_Alle_Kapitel.pptx                 701609  2026-03-26 14:34
+[14:52:10]   IT-260326-1456-de_de_Alle_Kapitel.pptx                1135589  2026-03-26 15:08
+[14:52:10]   IT-260327-0934-de_de_Alle_Kapitel.pptx                1398870  2026-03-27 09:48
+[14:52:10]   IT-260327-0934-de_en_Alle_Kapitel.pptx                1398866  2026-03-27 10:03
+[14:52:10]   IT-260327-0934-de_fr_Alle_Kapitel.pptx                1398866  2026-03-27 10:03
+[14:52:10]   IT-260327-1418-de_de_Alle_Kapitel.pptx                1723690  2026-03-27 14:52
+[14:52:10]   ~$IT-260324-1459-de_de_Alle_Kapitel.pptx                  165  2026-03-27 12:14
+[14:52:10]   ~$IT-260325-2304-de_de_Alle_Kapitel.pptx                  165  2026-03-25 23:25
+[14:52:10]   IT-260318-1816-de_Alle_Kapitel_AB.docx                  60069  2026-03-18 18:21
+[14:52:10]   IT-260318-2059-de_Alle_Kapitel_AB.docx                  61018  2026-03-18 21:10
+[14:52:10]   IT-260319-1604-de_Alle_Kapitel_AB.docx                  79231  2026-03-19 16:12
+[14:52:10]   IT-260319-1740-de_Alle_Kapitel_AB.docx                  63101  2026-03-19 18:10
+[14:52:10]   IT-260319-1811-en_Alle_Kapitel_AB.docx                  75220  2026-03-19 18:19
+[14:52:10]   IT-260319-1848-tr_Alle_Kapitel_AB.docx                  62545  2026-03-19 18:53
+[14:52:10]   IT-260321-1456-de_Alle_Kapitel_AB.docx                  44291  2026-03-21 15:00
+[14:52:10]   IT-260323-1943-de_Alle_Kapitel_AB.docx                  71097  2026-03-23 19:56
+[14:52:10]   IT-260323-1943-de_Alle_Kapitel_AB_neu.docx              77354  2026-03-23 21:21
+[14:52:10]   IT-260323-2201-de_Alle_Kapitel_AB.docx                  42944  2026-03-23 22:19
+[14:52:10]   IT-260323-2238-de_Alle_Kapitel_AB.docx                  65519  2026-03-23 22:51
+[14:52:10]   IT-260323-2307-de_Alle_Kapitel_AB.docx                  54675  2026-03-23 23:27
+[14:52:10]   IT-260324-1412-de_de_Alle_Kapitel_AB.docx              106159  2026-03-24 14:24
+[14:52:10]   IT-260324-1459-de_de_Alle_Kapitel_AB.docx              107378  2026-03-24 15:19
+[14:52:10]   IT-260324-1649-de_de_Alle_Kapitel_AB.docx               44066  2026-03-24 16:57
+[14:52:10]   IT-260324-2108-de_de_Alle_Kapitel_AB.docx               78962  2026-03-24 21:50
+[14:52:10]   IT-260324-2108-de_fr_Alle_Kapitel_AB.docx               46655  2026-03-24 22:04
+[14:52:10]   IT-260324-2215-de_de_Alle_Kapitel_AB.docx               79182  2026-03-24 22:43
+[14:52:10]   IT-260325-1135-de_de_Alle_Kapitel_AB.docx               43747  2026-03-25 11:46
+[14:52:10]   IT-260325-1135-de_fr_Alle_Kapitel_AB.docx               43253  2026-03-25 11:50
+[14:52:10]   IT-260325-1135-de_tr_Alle_Kapitel_AB.docx               40706  2026-03-25 11:55
+[14:52:10]   IT-260325-1423-de_de_Alle_Kapitel_AB.docx               55661  2026-03-25 14:49
+[14:52:10]   IT-260325-1423-de_tr_Alle_Kapitel_AB.docx               56180  2026-03-25 15:04
+[14:52:10]   IT-260325-2107-de_de_Alle_Kapitel_AB.docx               58865  2026-03-25 21:27
+[14:52:10]   IT-260325-2107-de_fr_Alle_Kapitel_AB.docx               61332  2026-03-25 21:39
+[14:52:10]   IT-260325-2107-de_tr_Alle_Kapitel_AB.docx               56629  2026-03-25 21:54
+[14:52:10]   IT-260325-2232-de_de_Alle_Kapitel_AB.docx               60290  2026-03-25 22:52
+[14:52:10]   IT-260325-2304-de_de_Alle_Kapitel_AB.docx               52370  2026-03-25 23:18
+[14:52:10]   IT-260326-1546-de_de_Alle_Kapitel_AB.docx               63281  2026-03-26 17:53
+[14:52:10]   IT-260326-1546-de_en_Alle_Kapitel_AB.docx               76761  2026-03-26 18:17
+[14:52:10]   IT-260326-1546-de_it_Alle_Kapitel_AB.docx               70495  2026-03-26 18:27
+[14:52:10]   IT-260327-0934-de_de_Alle_Kapitel_AB.docx               60080  2026-03-27 09:55
+[14:52:10]   IT-260327-0934-de_en_Alle_Kapitel_AB.docx               60205  2026-03-27 10:10
+[14:52:10]   IT-260327-0934-de_fr_Alle_Kapitel_AB.docx               60503  2026-03-27 10:10
+[14:52:10]   ~$-260319-1848-tr_Alle_Kapitel_AB.docx                    162  2026-03-20 18:37
+[14:52:10] ─────────────────────────────────────────────────────────────────
+[14:52:10]   GESAMT                                              105850103  (70 Dateien)
+[14:52:10] ─────────────────────────────────────────────────────────────────
+[14:52:10] 🔍 QA Agent gestartet (neues Fenster)...
+[14:52:14] 
+────────────────────────────────────────────────────────────
+[14:52:14] 🔍 QA REPORT  —  ⚠️ WARNINGS
+[14:52:14]    6 OK  |  1 Warnungen  |  0 Fehler
+[14:52:14] ────────────────────────────────────────────────────────────
+[14:52:14]   ✅  PPTX 'IT-260327-1418-de_de_Alle_Kapitel.pptx': 36 Folien ✓
+[14:52:14]   ✅  PPTX Größe: 1.6 MB ✓
+[14:52:14]   ✅  Alle Folien haben ausreichende Sprechernotizen ✓
+[14:52:14]   ✅  Alle Folien haben ausreichend Text/Bullets ✓
+[14:52:14]   ✅  Bilder auf 100% der Folien ✓
+[14:52:14]   ✅  52 Links geprüft — alle erreichbar ✓
+[14:52:14]   ⚠️  Kein DOCX erzeugt (optional)
+[14:52:14] 
+  📋 1 Probleme — bitte prüfen:
+[14:52:14]      ⚠️ Kein DOCX erzeugt (optional)
+[14:52:14] ────────────────────────────────────────────────────────────
+

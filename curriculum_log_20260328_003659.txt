@@ -1,0 +1,193 @@
+[00:31:34] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[00:31:34] OpenRouter: 26 Free-Engines geladen
+[00:31:35] ========================================================
+[00:31:35] 📚 Curriculum Generator  v6.5  |  Build 135  |  2026-03-28
+[00:31:35]    B135: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[00:31:35] ========================================================
+[00:32:14] ✅ 1 Kapitel übernommen.
+[00:32:26] ▶ Start: 'IT-260328-0031-de' | 1 Kapitel | 5 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Mittel (~20 Seiten)
+[00:32:26] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[00:32:26] ⚠️  MULTI-KI AKTIV: 22 Engines + Claude Synthese
+[00:32:26]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[00:32:26] ============================================================
+[00:32:26] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 1 Kapitel
+[00:32:26] ============================================================
+[00:32:27] [1/1] BLOCK 1 – Beschaffung & Angebotsvergleich
+[00:32:27]   Multi-KI: 19 Engines | 3 Batch(es) | Zeitbudget: 25s
+[00:32:28]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:32:28]   Multi-KI: gemma-3-27b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:32:28]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:32:45]   Multi-KI: trinity-mini:free OK (4085 Z.)
+[00:32:52]   Multi-KI: nemotron-3-super-120b- Zeitbudget (25s) ueberschritten — uebersprungen
+[00:32:52]   Multi-KI: step-3.5-flash:free Zeitbudget (25s) ueberschritten — uebersprungen
+[00:32:53]   Multi-KI: nemotron-3-nano-30b-a3 Zeitbudget (25s) ueberschritten — uebersprungen
+[00:32:53]   Multi-KI: glm-4.5-air:free Zeitbudget (25s) ueberschritten — uebersprungen
+[00:32:53]   Multi-KI: Batch 1 fertig in 26.6s
+[00:32:55]   Multi-KI: mistral-small-3.1-24b- Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:32:55]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:32:55]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:33:05]   Multi-KI: lfm-2.5-1.2b-thinking: OK (2154 Z.)
+[00:33:06]   Multi-KI: nemotron-3-nano-30b-a3 verworfen (zu kurz/falsche Sprache)
+[00:33:19]   Multi-KI: trinity-large-preview: Zeitbudget (25s) ueberschritten — uebersprungen
+[00:33:19]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (25s) ueberschritten — uebersprungen
+[00:33:20]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (25s) ueberschritten — uebersprungen
+[00:33:20]   Multi-KI: gemma-3-4b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[00:33:20]   Multi-KI: Batch 2 fertig in 26.6s
+[00:33:22]   Multi-KI: gemma-3-12b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[00:33:33]   Multi-KI: gemma-3-4b-it:free OK (6797 Z.)
+[00:33:42]   Multi-KI: nemotron-nano-12b-v2-v OK (5780 Z.)
+[00:33:46]   Multi-KI: gemma-3n-e2b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[00:33:46]   Multi-KI: gemma-3n-e4b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[00:33:46]   Multi-KI: Batch 3 fertig in 25.5s
+[00:33:46]   Multi-KI: trinity-mini:free → 5 Folien geparst
+[00:33:46]   Multi-KI: lfm-2.5-1.2b-thinking:free → 5 Folien geparst
+[00:33:46]   Multi-KI: gemma-3-4b-it:free → 5 Folien geparst
+[00:33:46]   Multi-KI: nemotron-nano-12b-v2-vl:free → 7 Folien geparst
+[00:33:46]   Multi-KI: Claude synthetisiert 4 Versionen...
+[00:33:50]   Multi-KI: step-3.5-flash:free verworfen (zu kurz/falsche Sprache)
+[00:34:00]   Multi-KI: gemma-3n-e4b-it:free OK (6483 Z.)
+[00:34:02]   Multi-KI: gemma-3n-e2b-it:free OK (7846 Z.)
+[00:34:18]   Multi-KI: Synthese OK (5 Folien)
+[00:34:18]   ✓ 5 Folien generiert
+[00:34:18] 
+📊 Gesamt: 5 Folien in 1 Kapiteln
+[00:34:18] 
+📊 Erstelle kombinierte Präsentation...
+[00:34:18]   ⚡ Lade 5 Bilder parallel...
+[00:34:42] ⚠️  [Pexels] 'Beschaffung' → Score 1/10 ❌  Das Bild zeigt ein Gebäude mit einem Fleischerladen-Schild, hat aber keinen erkennbaren Bezug zu IT, Beschaffung oder Angebotsvergleich. — nächste Quelle
+[00:34:43] ⚠️  [Pexels] 'Beschaffungsprozess' → Score 1/10 ❌  Das Bild zeigt ein Gebäude mit klassischen Säulen, aber ohne erkennbaren IT-Bezug. — nächste Quelle
+[00:34:43] 🖼  [Pexels] 'price comparison offer documents busines' → Score 7/10 ✅  Das Bild zeigt eine Person am Schreibtisch mit Dokumenten, was thematisch relevant für einen Angebotsvergleich im IT-Kontext ist, jedoch keinen direkten IT-Bezug wie Hardware oder Software aufweist.
+[00:34:43] 🖼  [Pexels] 'Erfolgreiche Beschaffung' → Score 7/10 ✅  Das Bild zeigt eine Büroumgebung mit einem Computer und Dokumenten, was thematisch relevant für eine erfolgreiche Beschaffung im IT-Kontext ist, jedoch keinen direkten Bezug zu spezifischen IT-Themen wie Hardware oder Software aufweist.
+[00:34:43] ⚠️  [Pexels] 'decision matrix scoring criteria IT sele' → Score 5/10 ❌  Das Bild zeigt eine Person, die eine Farbmuster-Tafel in der Hand hält, was zu generisch ist und keinen direkten IT-Bezug erkennbar macht, jedoch könnte es in einem sehr weit gefassten Kontext mit Design oder Oberflächen von IT-Geräten in Verbindung gebracht werden. — nächste Quelle
+[00:34:49] 🖼  [Pixabay] 'Beschaffung' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:34:49] 🖼  [Pixabay] 'decision matrix scoring criteria IT sele' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:34:52]   Multi-KI: trinity-large-preview: OK (8523 Z.)
+[00:34:55] 🖼  [Fallback] 'Beschaffungsprozess' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:34:55]   ✓ Bilder vorgeladen
+[00:35:02]   Multi-KI: nemotron-nano-9b-v2:fr Fehler — Leere choices in API-Antwort
+[00:35:12] 🖼  [Pexels] 'Matrix computer mathematics diagram' → Score 7/10 ✅  Vision-API nicht verfügbar — ohne Prüfung akzeptiert
+[00:35:22] ✗ PPTX FEHLER: cannot access local variable 'svg_path_w' where it is not associated with a value
+[00:35:22] Traceback (most recent call last):
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\gui.py", line 1952, in _worker
+    pptx_file = builder.build_combined(
+        course, chapters, all_chapters_slides,
+        CONFIG['folders']['output'],
+        lang, imgagent, pal, tmpl, src_agent
+    )
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\builders\pptx_builder.py", line 680, in build_combined
+    dispatch_new_layout(slide, sd, coursename, chaptertitle,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        chapternum, totalchapters, pal,
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        svg_path=svg_path2, language=language)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\builders\slide_design.py", line 1127, in dispatch_new_layout
+    SlideDesign.layout_card_grid(slide, sd, chapter_title, pal, svg_path)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\builders\slide_design.py", line 910, in layout_card_grid
+    avail_w  = 16 - svg_path_w if svg_path else 15.2
+                    ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'svg_path_w' where it is not associated with a value
+
+[00:35:22] 
+============================================================
+[00:35:22] 🎉 FERTIG!
+[00:35:22] ============================================================
+[00:35:22] ─────────────────────────────────────────────────────────────────
+[00:35:22] 📁 OUTPUT-DATEIEN
+[00:35:22]   Dateiname                                               Bytes  Datum
+[00:35:22] ─────────────────────────────────────────────────────────────────
+[00:35:22]   IT-260318-2059-de_Alle_Kapitel.pptx                  12507514  2026-03-18 21:08
+[00:35:22]   IT-260319-1710-de_Alle_Kapitel.pptx                  21916078  2026-03-19 17:28
+[00:35:22]   IT-260319-1740-de_Alle_Kapitel.pptx                  13396247  2026-03-19 17:54
+[00:35:22]   IT-260323-1943-de_Alle_Kapitel.pptx                   3041937  2026-03-23 19:53
+[00:35:22]   IT-260323-1943-de_Alle_Kapitel_neu.pptx               2523028  2026-03-23 21:11
+[00:35:22]   IT-260323-2201-de_Alle_Kapitel.pptx                    482184  2026-03-23 22:19
+[00:35:22]   IT-260323-2238-de_Alle_Kapitel.pptx                   2749741  2026-03-23 22:50
+[00:35:22]   IT-260323-2307-de_Alle_Kapitel.pptx                   2483594  2026-03-23 23:32
+[00:35:22]   IT-260324-1459-de_de_Alle_Kapitel.pptx                4619681  2026-03-24 22:22
+[00:35:22]   IT-260324-1649-de_de_Alle_Kapitel.pptx                 906321  2026-03-24 16:54
+[00:35:22]   IT-260324-2040-de_de_Alle_Kapitel.pptx                4390871  2026-03-24 20:55
+[00:35:22]   IT-260324-2108-de_de_Alle_Kapitel.pptx                3707917  2026-03-24 21:19
+[00:35:22]   IT-260324-2108-de_fr_Alle_Kapitel.pptx                5377549  2026-03-24 22:04
+[00:35:22]   IT-260324-2215-de_de_Alle_Kapitel.pptx                2726937  2026-03-24 22:30
+[00:35:22]   IT-260325-1135-de_de_Alle_Kapitel.pptx                 770334  2026-03-25 11:45
+[00:35:22]   IT-260325-1135-de_fr_Alle_Kapitel.pptx                1022594  2026-03-25 11:50
+[00:35:22]   IT-260325-1135-de_tr_Alle_Kapitel.pptx                 712919  2026-03-25 11:55
+[00:35:22]   IT-260325-1423-de_de_Alle_Kapitel.pptx                1234240  2026-03-25 14:40
+[00:35:22]   IT-260325-1423-de_tr_Alle_Kapitel.pptx                1220308  2026-03-25 15:02
+[00:35:22]   IT-260325-2107-de_de_Alle_Kapitel.pptx                1150930  2026-03-25 21:18
+[00:35:22]   IT-260325-2107-de_fr_Alle_Kapitel.pptx                1721309  2026-03-25 21:37
+[00:35:22]   IT-260325-2107-de_tr_Alle_Kapitel.pptx                1519691  2026-03-25 21:46
+[00:35:22]   IT-260325-2157-de_de_Alle_Kapitel.pptx                1993934  2026-03-25 22:16
+[00:35:22]   IT-260325-2232-de_de_Alle_Kapitel.pptx                1318488  2026-03-25 22:42
+[00:35:22]   IT-260325-2304-de_de_Alle_Kapitel.pptx                 343171  2026-03-25 23:12
+[00:35:22]   IT-260326-1334-de_de_Alle_Kapitel.pptx                 981734  2026-03-26 13:50
+[00:35:22]   IT-260326-1334-de_tr_Alle_Kapitel.pptx                1133046  2026-03-26 14:01
+[00:35:22]   IT-260326-1426-de_de_Alle_Kapitel.pptx                 701609  2026-03-26 14:34
+[00:35:22]   IT-260326-1456-de_de_Alle_Kapitel.pptx                1135589  2026-03-26 15:08
+[00:35:22]   IT-260327-0934-de_de_Alle_Kapitel.pptx                1398870  2026-03-27 09:48
+[00:35:22]   IT-260327-0934-de_en_Alle_Kapitel.pptx                1398866  2026-03-27 10:03
+[00:35:22]   IT-260327-0934-de_fr_Alle_Kapitel.pptx                1398866  2026-03-27 10:03
+[00:35:22]   IT-260327-1418-de_de_Alle_Kapitel.pptx                1723690  2026-03-27 14:52
+[00:35:22]   IT-260327-1515-de_de_Alle_Kapitel.pptx                1420698  2026-03-27 15:40
+[00:35:22]   IT-260327-1931-de_de_Alle_Kapitel.pptx                2729209  2026-03-27 21:54
+[00:35:22]   IT-260327-2011-de_de_Alle_Kapitel.pptx                1468637  2026-03-27 20:34
+[00:35:22]   IT-260327-2050-de_de_Alle_Kapitel.pptx                1196213  2026-03-27 21:11
+[00:35:22]   IT-260328-0011-de_de_Alle_Kapitel.pptx                 561073  2026-03-28 00:18
+[00:35:22]   ~$IT-260325-2304-de_de_Alle_Kapitel.pptx                  165  2026-03-25 23:25
+[00:35:22]   IT-260318-1816-de_Alle_Kapitel_AB.docx                  60069  2026-03-18 18:21
+[00:35:22]   IT-260318-2059-de_Alle_Kapitel_AB.docx                  61018  2026-03-18 21:10
+[00:35:22]   IT-260319-1604-de_Alle_Kapitel_AB.docx                  79231  2026-03-19 16:12
+[00:35:22]   IT-260319-1740-de_Alle_Kapitel_AB.docx                  63101  2026-03-19 18:10
+[00:35:22]   IT-260319-1811-en_Alle_Kapitel_AB.docx                  75220  2026-03-19 18:19
+[00:35:22]   IT-260319-1848-tr_Alle_Kapitel_AB.docx                  62545  2026-03-19 18:53
+[00:35:22]   IT-260321-1456-de_Alle_Kapitel_AB.docx                  44291  2026-03-21 15:00
+[00:35:22]   IT-260323-1943-de_Alle_Kapitel_AB.docx                  71097  2026-03-23 19:56
+[00:35:22]   IT-260323-1943-de_Alle_Kapitel_AB_neu.docx              77354  2026-03-23 21:21
+[00:35:22]   IT-260323-2201-de_Alle_Kapitel_AB.docx                  42944  2026-03-23 22:19
+[00:35:22]   IT-260323-2238-de_Alle_Kapitel_AB.docx                  65519  2026-03-23 22:51
+[00:35:22]   IT-260323-2307-de_Alle_Kapitel_AB.docx                  54675  2026-03-23 23:27
+[00:35:22]   IT-260324-1412-de_de_Alle_Kapitel_AB.docx              106159  2026-03-24 14:24
+[00:35:22]   IT-260324-1459-de_de_Alle_Kapitel_AB.docx              107378  2026-03-24 15:19
+[00:35:22]   IT-260324-1649-de_de_Alle_Kapitel_AB.docx               44066  2026-03-24 16:57
+[00:35:22]   IT-260324-2108-de_de_Alle_Kapitel_AB.docx               78962  2026-03-24 21:50
+[00:35:22]   IT-260324-2108-de_fr_Alle_Kapitel_AB.docx               46655  2026-03-24 22:04
+[00:35:22]   IT-260324-2215-de_de_Alle_Kapitel_AB.docx               79182  2026-03-24 22:43
+[00:35:22]   IT-260325-1135-de_de_Alle_Kapitel_AB.docx               43747  2026-03-25 11:46
+[00:35:22]   IT-260325-1135-de_fr_Alle_Kapitel_AB.docx               43253  2026-03-25 11:50
+[00:35:22]   IT-260325-1135-de_tr_Alle_Kapitel_AB.docx               40706  2026-03-25 11:55
+[00:35:22]   IT-260325-1423-de_de_Alle_Kapitel_AB.docx               55661  2026-03-25 14:49
+[00:35:22]   IT-260325-1423-de_tr_Alle_Kapitel_AB.docx               56180  2026-03-25 15:04
+[00:35:22]   IT-260325-2107-de_de_Alle_Kapitel_AB.docx               58865  2026-03-25 21:27
+[00:35:22]   IT-260325-2107-de_fr_Alle_Kapitel_AB.docx               61332  2026-03-25 21:39
+[00:35:22]   IT-260325-2107-de_tr_Alle_Kapitel_AB.docx               56629  2026-03-25 21:54
+[00:35:22]   IT-260325-2232-de_de_Alle_Kapitel_AB.docx               60290  2026-03-25 22:52
+[00:35:22]   IT-260325-2304-de_de_Alle_Kapitel_AB.docx               52370  2026-03-25 23:18
+[00:35:23]   IT-260326-1546-de_de_Alle_Kapitel_AB.docx               63281  2026-03-26 17:53
+[00:35:23]   IT-260326-1546-de_en_Alle_Kapitel_AB.docx               76761  2026-03-26 18:17
+[00:35:23]   IT-260326-1546-de_it_Alle_Kapitel_AB.docx               70495  2026-03-26 18:27
+[00:35:23]   IT-260327-0934-de_de_Alle_Kapitel_AB.docx               60080  2026-03-27 09:55
+[00:35:23]   IT-260327-0934-de_en_Alle_Kapitel_AB.docx               60205  2026-03-27 10:10
+[00:35:23]   IT-260327-0934-de_fr_Alle_Kapitel_AB.docx               60503  2026-03-27 10:10
+[00:35:23]   IT-260327-1515-de_de_Alle_Kapitel_AB.docx               61445  2026-03-27 15:46
+[00:35:23]   IT-260327-1931-de_de_Alle_Kapitel_AB.docx               61997  2026-03-27 19:55
+[00:35:23]   IT-260327-2011-de_de_Alle_Kapitel_AB.docx               55427  2026-03-27 20:36
+[00:35:23]   IT-260327-2337-de_de_Alle_Kapitel_AB.docx               43999  2026-03-27 23:50
+[00:35:23]   ~$-260319-1848-tr_Alle_Kapitel_AB.docx                    162  2026-03-20 18:37
+[00:35:23] ─────────────────────────────────────────────────────────────────
+[00:35:23]   GESAMT                                              113448636  (78 Dateien)
+[00:35:23] ─────────────────────────────────────────────────────────────────
+[00:35:23] 🔍 QA Agent gestartet (neues Fenster)...
+[00:35:25] 
+────────────────────────────────────────────────────────────
+[00:35:25] 🔍 QA REPORT  —  ⚠️ WARNINGS
+[00:35:25]    0 OK  |  1 Warnungen  |  0 Fehler
+[00:35:25] ────────────────────────────────────────────────────────────
+[00:35:25]   ⚠️  Kein DOCX erzeugt (optional)
+[00:35:25] 
+  📋 1 Probleme — bitte prüfen:
+[00:35:25]      ⚠️ Kein DOCX erzeugt (optional)
+[00:35:25] ────────────────────────────────────────────────────────────
+[00:36:16]   Multi-KI: nemotron-3-super-120b- verworfen (zu kurz/falsche Sprache)
+

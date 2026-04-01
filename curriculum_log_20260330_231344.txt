@@ -1,0 +1,100 @@
+[23:07:39] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[23:07:39] OpenRouter: 24 Free-Engines geladen
+[23:07:39] ========================================================
+[23:07:39] 📚 Curriculum Generator  v6.5  |  Build 149  |  2026-03-30
+[23:07:39]    B149: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[23:07:39] ========================================================
+[23:07:51] ✅ 3 Kapitel übernommen.
+[23:07:57] ✅ 3 Kapitel übernommen.
+[23:08:41] ▶ Start: 'IT-260330-2307-de' | 3 Kapitel | 1 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Kurz (~5 Seiten)
+[23:08:41] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[23:08:41] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[23:08:41] 📝 DOCX Sektionen deaktiviert: lernziele, glossar, aufgaben, praxis, loesungen, quellen, notizen
+[23:08:41] Zusatz-Sprachen: Arabisch / Arabic, Koreanisch / Korean
+[23:08:41] 🤖 KI: openrouter/meta-llama/llama-3.3-70b-instruct
+[23:08:41] ============================================================
+[23:08:41] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 3 Kapitel
+[23:08:41] ============================================================
+[23:08:41] [1/3] Grundlagen und Einführung
+[23:08:49]   ✓ 1 Folien generiert
+[23:08:49] [2/3] Kernkonzepte
+[23:08:53]   ✓ 1 Folien generiert
+[23:08:53] [3/3] Vertiefung
+[23:09:02]   ✓ 1 Folien generiert
+[23:09:02] 
+📊 Gesamt: 3 Folien in 3 Kapiteln
+[23:09:02] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[23:09:02]   ⚡ Generiere DOCX-Inhalte parallel (3 gleichzeitig)...
+[23:09:43]   📖 Grundlagen und Einführung
+[23:09:43]   ✓ OK (1 Aufgaben, 3 Glossar-Einträge)
+[23:09:52]   📖 Vertiefung
+[23:09:52]   ✓ OK (2 Aufgaben, 3 Glossar-Einträge)
+[23:09:58]   📖 Kernkonzepte
+[23:09:58]   ✓ OK (2 Aufgaben, 3 Glossar-Einträge)
+[23:09:59] ✓ DOCX: IT-260330-2307-de_de_Alle_Kapitel_AB.docx
+[23:09:59] 
+============================================================
+[23:09:59] 🎉 FERTIG!
+[23:09:59] ============================================================
+[23:09:59] ─────────────────────────────────────────────────────────────────
+[23:09:59] 📁 OUTPUT-DATEIEN
+[23:09:59]   Dateiname                                               Bytes  Datum
+[23:09:59] ─────────────────────────────────────────────────────────────────
+[23:09:59]   IT-260330-2225-de_ar_Alle_Kapitel.pptx                 427842  2026-03-30 22:41
+[23:09:59]   IT-260330-2225-de_de_Alle_Kapitel.pptx                 427842  2026-03-30 22:32
+[23:09:59]   IT-260330-2225-de_ko_Alle_Kapitel.pptx                 427842  2026-03-30 22:41
+[23:09:59]   IT-260330-2251-de_ar_Alle_Kapitel.pptx                 295669  2026-03-30 22:59
+[23:09:59]   IT-260330-2251-de_de_Alle_Kapitel.pptx                 295669  2026-03-30 22:56
+[23:09:59]   IT-260330-2251-de_ko_Alle_Kapitel.pptx                 295669  2026-03-30 22:59
+[23:09:59]   IT-260330-1303-de_ar_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[23:09:59]   IT-260330-1303-de_de_Alle_Kapitel_AB.docx               61388  2026-03-30 14:05
+[23:09:59]   IT-260330-1303-de_it_Alle_Kapitel_AB.docx               61800  2026-03-30 14:28
+[23:09:59]   IT-260330-1303-de_در_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[23:09:59]   IT-260330-1303-de_فا_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[23:09:59]   IT-260330-1631-de_de_Alle_Kapitel_AB.docx               55019  2026-03-30 16:54
+[23:09:59]   IT-260330-1631-de_en_Alle_Kapitel_AB.docx               55131  2026-03-30 16:59
+[23:09:59]   IT-260330-1631-de_ko_Alle_Kapitel_AB.docx               55019  2026-03-30 16:59
+[23:09:59]   IT-260330-1801-de_de_Alle_Kapitel_AB.docx               43073  2026-03-30 18:10
+[23:09:59]   IT-260330-1801-de_en_Alle_Kapitel_AB.docx               43096  2026-03-30 18:15
+[23:09:59]   IT-260330-1801-de_ko_Alle_Kapitel_AB.docx               43073  2026-03-30 18:14
+[23:09:59]   IT-260330-1819-de_de_Alle_Kapitel_AB.docx               47636  2026-03-30 18:33
+[23:09:59]   IT-260330-1819-de_en_Alle_Kapitel_AB.docx               47727  2026-03-30 18:39
+[23:09:59]   IT-260330-1819-de_ko_Alle_Kapitel_AB.docx               47636  2026-03-30 18:39
+[23:09:59]   IT-260330-2251-de_de_Alle_Kapitel_AB.docx               41792  2026-03-30 22:58
+[23:09:59]   IT-260330-2307-de_de_Alle_Kapitel_AB.docx               41474  2026-03-30 23:09
+[23:09:59] ─────────────────────────────────────────────────────────────────
+[23:09:59]   GESAMT                                                2998858  (22 Dateien)
+[23:09:59] ─────────────────────────────────────────────────────────────────
+[23:09:59] ⚡ Starte 2 Zusatzsprachen parallel (Translate-Modus)...
+[23:10:41]   [Koreanisch / Korean] ✓ 3 Kapitel übersetzt
+[23:10:41]   [Arabisch / Arabic] ✓ 3 Kapitel übersetzt
+[23:13:12] [Koreanisch / Korean] FEHLER: 'intro_context'
+[23:13:12] Traceback (most recent call last):
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\gui.py", line 2194, in _generate_extra_lang
+    ex_docx = DOCXBuilder().build_combined(
+        course, extra_slides_list,
+    ...<3 lines>...
+        docx_size=docx_s
+[23:13:12] [Arabisch / Arabic] FEHLER: 'intro_context'
+[23:13:12] Traceback (most recent call last):
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\gui.py", line 2194, in _generate_extra_lang
+    ex_docx = DOCXBuilder().build_combined(
+        course, extra_slides_list,
+    ...<3 lines>...
+        docx_size=docx_s
+[23:13:12] 🔍 QA Agent gestartet (neues Fenster)...
+[23:13:14] 
+────────────────────────────────────────────────────────────
+[23:13:14] 🔍 QA REPORT  —  ⚠️ WARNINGS
+[23:13:14]    3 OK  |  1 Warnungen  |  0 Fehler
+[23:13:14] ────────────────────────────────────────────────────────────
+[23:13:14]   ✅  DOCX 'IT-260330-2307-de_de_Alle_Kapitel_AB.docx': 0.04 MB ✓
+[23:13:14]   ✅  DOCX Umfang: 144 Absätze ✓
+[23:13:14]   ⚠️  Möglicherweise fehlende Sektionen: ['🎯', '✏️', '✅']
+[23:13:14]   ✅  DOCX Kapitel: 3 Überschriften ✓
+[23:13:14] 
+  📋 1 Probleme — bitte prüfen:
+[23:13:14]      ⚠️ Möglicherweise fehlende Sektionen: ['🎯', '✏️', '✅']
+[23:13:14] ────────────────────────────────────────────────────────────
+

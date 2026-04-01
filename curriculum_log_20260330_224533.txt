@@ -1,0 +1,182 @@
+[22:25:21] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[22:25:21] OpenRouter: 24 Free-Engines geladen
+[22:25:22] ========================================================
+[22:25:22] 📚 Curriculum Generator  v6.5  |  Build 147  |  2026-03-30
+[22:25:22]    B147: Auto-Increment | B083: 401-Fallback Groq, Blocksatz, Code-Rendering, Notes 1.2.3. | B082: GUI-Sprache, Hebräisch, Tab-Flicker-Fix | B081: Tab-GUI, Zeitbudget | B080: Multi-KI Batching
+[22:25:22] ========================================================
+[22:25:34] ✅ 3 Kapitel übernommen.
+[22:26:28] ▶ Start: 'IT-260330-2225-de' | 3 Kapitel | 2 Folien | openrouter/meta-llama/llama-3.3-70b-instruct | Modus: combined | DOCX: Kurz (~5 Seiten)
+[22:26:28] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[22:26:28] 🌍 Übersetzung aktiviert → Deutsch (Google → LibreTranslate → MyMemory)
+[22:26:28] 📝 DOCX Sektionen deaktiviert: lernziele, praxis, notizen
+[22:26:28] Zusatz-Sprachen: Arabisch / Arabic, Koreanisch / Korean
+[22:26:28] ⚠️  MULTI-KI AKTIV: 21 Engines + Claude Synthese
+[22:26:28]    Engines: nemotron-3-super-120b-a12b:free, step-3.5-flash:free, nemotron-3-nano-30b-a3b:free, trinity-mini:free, gpt-oss-120b:free...
+[22:26:28] ============================================================
+[22:26:28] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 3 Kapitel
+[22:26:28] ============================================================
+[22:26:28] [1/3] Grundlagen und Einführung
+[22:26:28]   Multi-KI: 18 Engines | 3 Batch(es) | Zeitbudget: 25s
+[22:26:30]   Multi-KI: gemma-3-27b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[22:26:30]   Multi-KI: llama-3.2-3b-instruct: Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[22:26:30]   Multi-KI: hermes-3-llama-3.1-405 Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[22:26:46]   Multi-KI: trinity-mini:free gesperrt (nur 1309 Z. < 1500 Minimum)
+[22:26:53]   Multi-KI: nemotron-3-super-120b- Zeitbudget (25s) ueberschritten — uebersprungen
+[22:26:54]   Multi-KI: step-3.5-flash:free Zeitbudget (25s) ueberschritten — uebersprungen
+[22:26:54]   Multi-KI: nemotron-3-nano-30b-a3 Zeitbudget (25s) ueberschritten — uebersprungen
+[22:26:55]   Multi-KI: glm-4.5-air:free Zeitbudget (25s) ueberschritten — uebersprungen
+[22:26:55]   Multi-KI: Batch 1 fertig in 26.5s
+[22:26:57]   Multi-KI: gemma-3-12b-it:free Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[22:26:57]   Multi-KI: llama-3.3-70b-instruct Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[22:26:57]   Multi-KI: dolphin-mistral-24b-ve Fehler — HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"
+[22:27:01]   Multi-KI: nemotron-3-nano-30b-a3 OK (2277 Z.)
+[22:27:02]   Multi-KI: lfm-2.5-1.2b-thinking: gesperrt (nur 702 Z. < 1500 Minimum)
+[22:27:09]   Multi-KI: nemotron-nano-12b-v2-v OK (1852 Z.)
+[22:27:20]   Multi-KI: gemma-3-4b-it:free OK (3179 Z.)
+[22:27:20]   Multi-KI: trinity-large-preview: Zeitbudget (25s) ueberschritten — uebersprungen
+[22:27:21]   Multi-KI: nemotron-nano-9b-v2:fr Zeitbudget (25s) ueberschritten — uebersprungen
+[22:27:21]   Multi-KI: Batch 2 fertig in 25.5s
+[22:27:21]   Multi-KI: trinity-large-preview: OK (2025 Z.)
+[22:27:37]   Multi-KI: gemma-3n-e2b-it:free OK (2117 Z.)
+[22:27:39]   Multi-KI: gemma-3n-e4b-it:free OK (2220 Z.)
+[22:27:39]   Multi-KI: Batch 3 fertig in 18.1s
+[22:27:39]   Multi-KI: nemotron-3-nano-30b-a3b:free → 2 Folien geparst
+[22:27:39]   Multi-KI: nemotron-nano-12b-v2-vl:free → 2 Folien geparst
+[22:27:39]   Multi-KI: gemma-3-4b-it:free → 2 Folien geparst
+[22:27:39]   Multi-KI: trinity-large-preview:free → 2 Folien geparst
+[22:27:39]   Multi-KI: gemma-3n-e2b-it:free → 2 Folien geparst
+[22:27:39]   Multi-KI: gemma-3n-e4b-it:free → 2 Folien geparst
+[22:27:39]   Multi-KI: Claude synthetisiert 6 Versionen...
+[22:27:40]   Multi-KI: step-3.5-flash:free OK (3461 Z.)
+[22:28:03]   Multi-KI: Synthese OK (2 Folien)
+[22:28:03]   ✓ 2 Folien generiert
+[22:28:03] [2/3] Kernkonzepte
+[22:28:03]   Multi-KI: 4 Engines | 1 Batch(es) | Zeitbudget: 25s
+[22:28:21]   Multi-KI: gemma-3n-e2b-it:free OK (2260 Z.)
+[22:28:21]   Multi-KI: gemma-3n-e4b-it:free OK (2321 Z.)
+[22:28:28]   Multi-KI: nemotron-nano-12b-v2-v Zeitbudget (25s) ueberschritten — uebersprungen
+[22:28:28]   Multi-KI: gemma-3-4b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[22:28:28]   Multi-KI: Batch 1 fertig in 25.5s
+[22:28:28]   Multi-KI: gemma-3n-e2b-it:free → 2 Folien geparst
+[22:28:28]   Multi-KI: gemma-3n-e4b-it:free → 2 Folien geparst
+[22:28:28]   Multi-KI: Claude synthetisiert 2 Versionen...
+[22:28:29]   Multi-KI: gemma-3-4b-it:free OK (2892 Z.)
+[22:28:55]   Multi-KI: nemotron-nano-9b-v2:fr OK (1509 Z.)
+[22:29:03]   Multi-KI: Synthese OK (2 Folien)
+[22:29:03]   ✓ 2 Folien generiert
+[22:29:03] [3/3] Vertiefung
+[22:29:03]   Multi-KI: 2 Engines | 1 Batch(es) | Zeitbudget: 25s
+[22:29:16]   Multi-KI: nemotron-nano-12b-v2-v OK (2051 Z.)
+[22:29:20]   Multi-KI: gemma-3n-e4b-it:free OK (2215 Z.)
+[22:29:29]   Multi-KI: gemma-3n-e2b-it:free Zeitbudget (25s) ueberschritten — uebersprungen
+[22:29:29]   Multi-KI: Batch 1 fertig in 25.0s
+[22:29:29]   Multi-KI: gemma-3n-e4b-it:free → 2 Folien geparst
+[22:29:29]   Multi-KI: 1 Version — Claude prueft Qualitaet
+[22:29:42]   Multi-KI: glm-4.5-air:free OK (2546 Z.)
+[22:29:47]   Multi-KI: gemma-3n-e2b-it:free OK (4605 Z.)
+[22:31:08]   Multi-KI: nemotron-3-super-120b- OK (3707 Z.)
+[22:31:46]   Multi-KI: Refinement OK (2 Folien)
+[22:31:46]   ✓ 2 Folien generiert
+[22:31:46] 
+📊 Gesamt: 6 Folien in 3 Kapiteln
+[22:31:46] 
+📊 Erstelle kombinierte Präsentation...
+[22:31:46]   ⚡ Lade 6 Bilder parallel...
+[22:32:00] ⚠️  [Pexels] 'Geschäftswachstum Strategieplanung' → Score 5/10 ❌  Das Bild zeigt ein paar alltägliche Büromaterialien wie ein Notizbuch, einen Taschenrechner, ein paar Stifte und ein Highlighter, aber keinen direkten Bezug zu einem IT-Thema. — nächste Quelle
+[22:32:00] 🖼  [Pexels] 'linux terminal command line nslookup dns' → Score 9/10 ✅  Das Bild zeigt einen Linux-Terminalbildschirm mit einer Kommandozeile und einem `nslookup`-Befehl für eine DNS-Abfrage, was direkt mit IT-Themen wie Netzwerken und Systemadministration zusammenhängt.
+[22:32:10] 🖼  [Pexels] 'computer motherboard cpu ram close-up' → Score 9/10 ✅  Das Bild zeigt eine Nahaufnahme einer Computer-Mainboard mit CPU und RAM, was perfekt zum Thema "IT-Grundlagen" passt und eine gute Visualisierung von Hardware-Komponenten bietet.
+[22:32:10] 🖼  [Pexels] 'information technology learning objectiv' → Score 7/10 ✅  Das Bild zeigt zwei Jungen, die an Computern arbeiten, was thematisch relevant für IT-Grundlagen ist, aber keine spezifischen IT-Themen wie Hardware, Software oder Terminals zeigt.
+[22:32:11] 🖼  [Pexels] 'Infrastruktur Rechenzentrum server' → Score 9/10 ✅  Das Bild zeigt eine Frau, die in einem Rechenzentrum steht und einen Tablet-Computer hält, während sie von Servern und IT-Infrastruktur umgeben ist, was sehr gut zum Thema "IT-Vertiefung: Fallstudien & Fehlerbehebung" passt.
+[22:32:11] 🖼  [Pexels] 'hardware computer hardware circuit board' → Score 9/10 ✅  Das Bild zeigt eine Computerplatine mit verschiedenen Hardware-Komponenten, was sehr gut zum Thema "Einführung in die IT" passt und einen konkreten Bezug zu Computerhardware herstellt.
+[22:32:14] ⚠️  [Fallback] 'Geschäftswachstum Strategieplanung' → Score 5/10 ❌  Das Bild zeigt eine Computer-Hardware-Komponente, jedoch ist der Fokus auf die physische Struktur gerichtet und nicht direkt auf ein IT-spezifisches Konzept oder eine Strategieplanung zum Geschäftswachstum. — nächste Quelle
+[22:32:14] ⚠️  Kein Bild über Schwelle — nehme bestes verfügbares (Score 5/10) für: 'Geschäftswachstum Strategieplanung'
+[22:32:14]   ✓ Bilder vorgeladen
+[22:32:35] 🖼  [Pexels] 'server web browser code internet' → Score 9/10 ✅  Das Bild zeigt Programmcode auf einem schwarzen Hintergrund, was eindeutig auf ein IT-Thema hinweist, insbesondere auf Programmierung und Softwareentwicklung, und somit sehr gut zum Titel "IT-Vertiefung: Fallstudien & Fehlerbehebung" passt.
+[22:32:35] 🖼  [Pexels] 'Linux operating system Linux terminal' → Score 8/10 ✅  Das Bild zeigt einen Screenshot eines Linux-Terminals mit Codezeilen, was gut zum Thema "Lernziele für die IT" passt und einen klaren Bezug zu Linux und der Verwendung einer Shell (Terminal) hat.
+[22:32:36] 🖼  [Pexels] 'Computer computer IT technology' → Score 8/10 ✅  Das Bild zeigt eine Computer-Hardware-Komponente mit Kabeln und Platinen, was gut zum Thema "IT-Grundlagen" passt und einen deutlichen IT-Bezug aufweist.
+[22:32:36] 🖼  [Pexels] 'information computer IT technology' → Score 8/10 ✅  Das Bild zeigt einen Laptop-Bildschirm mit einem Debug-Fenster, das Threads und Variablen anzeigt, was für IT-Grundlagen und Programmierung relevant ist.
+[22:32:37] ✓ PPTX: IT-260330-2225-de_de_Alle_Kapitel.pptx
+[22:32:37] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[22:32:37]   ⚡ Generiere DOCX-Inhalte parallel (3 gleichzeitig)...
+[22:38:03]   📖 Kernkonzepte
+[22:38:03]   ✓ OK (1 Aufgaben, 3 Glossar-Einträge)
+[22:39:50]   📖 Grundlagen und Einführung
+[22:39:50]   ✓ OK (1 Aufgaben, 3 Glossar-Einträge)
+[22:40:05]   📖 Vertiefung
+[22:40:05]   ✓ OK (2 Aufgaben, 3 Glossar-Einträge)
+[22:40:05] ✗ DOCX FEHLER: cannot access local variable '_rtl' where it is not associated with a value
+[22:40:05] Traceback (most recent call last):
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\gui.py", line 2064, in _worker
+    docx_file = docx_builder.build_combined(
+        course, all_chapters_slides,
+    ...<3 lines>...
+        docx_size=docx_size,
+        docx_sections=docx_sections)
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\builders\docx_builder.py", line 124, in build_combined
+    self._setup_styles(doc, rtl=_rtl)
+                                ^^^^
+UnboundLocalError: cannot access local variable '_rtl' where it is not associated with a value
+
+[22:40:05] 
+============================================================
+[22:40:05] 🎉 FERTIG!
+[22:40:05] ============================================================
+[22:40:05] ─────────────────────────────────────────────────────────────────
+[22:40:05] 📁 OUTPUT-DATEIEN
+[22:40:05]   Dateiname                                               Bytes  Datum
+[22:40:05] ─────────────────────────────────────────────────────────────────
+[22:40:05]   IT-260330-2225-de_de_Alle_Kapitel.pptx                 427842  2026-03-30 22:32
+[22:40:05]   IT-260330-1303-de_ar_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[22:40:05]   IT-260330-1303-de_de_Alle_Kapitel_AB.docx               61388  2026-03-30 14:05
+[22:40:05]   IT-260330-1303-de_it_Alle_Kapitel_AB.docx               61800  2026-03-30 14:28
+[22:40:05]   IT-260330-1303-de_در_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[22:40:05]   IT-260330-1303-de_فا_Alle_Kapitel_AB.docx               61487  2026-03-30 14:28
+[22:40:05]   IT-260330-1631-de_de_Alle_Kapitel_AB.docx               55019  2026-03-30 16:54
+[22:40:05]   IT-260330-1631-de_en_Alle_Kapitel_AB.docx               55131  2026-03-30 16:59
+[22:40:05]   IT-260330-1631-de_ko_Alle_Kapitel_AB.docx               55019  2026-03-30 16:59
+[22:40:05]   IT-260330-1801-de_de_Alle_Kapitel_AB.docx               43073  2026-03-30 18:10
+[22:40:05]   IT-260330-1801-de_en_Alle_Kapitel_AB.docx               43096  2026-03-30 18:15
+[22:40:05]   IT-260330-1801-de_ko_Alle_Kapitel_AB.docx               43073  2026-03-30 18:14
+[22:40:05]   IT-260330-1819-de_de_Alle_Kapitel_AB.docx               47636  2026-03-30 18:33
+[22:40:05]   IT-260330-1819-de_en_Alle_Kapitel_AB.docx               47727  2026-03-30 18:39
+[22:40:05]   IT-260330-1819-de_ko_Alle_Kapitel_AB.docx               47636  2026-03-30 18:39
+[22:40:05] ─────────────────────────────────────────────────────────────────
+[22:40:05]   GESAMT                                                1172901  (15 Dateien)
+[22:40:05] ─────────────────────────────────────────────────────────────────
+[22:40:05] ⚡ Starte 2 Zusatzsprachen parallel (Translate-Modus)...
+[22:41:33]   [Arabisch / Arabic] ✓ 3 Kapitel übersetzt
+[22:41:33]   [Koreanisch / Korean] ✓ 3 Kapitel übersetzt
+[22:41:33] [Arabisch / Arabic] PPTX: IT-260330-2225-de_ar_Alle_Kapitel.pptx
+[22:41:33] [Koreanisch / Korean] PPTX: IT-260330-2225-de_ko_Alle_Kapitel.pptx
+[22:44:24] [Arabisch / Arabic] FEHLER: cannot access local variable '_rtl' where it is not associated with a value
+[22:44:24] Traceback (most recent call last):
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\gui.py", line 2194, in _generate_extra_lang
+    ex_docx = DOCXBuilder().build_combined(
+        course, extra_slides_list,
+    ...<3 lines>...
+        docx_size=docx_s
+[22:44:27] [Koreanisch / Korean] FEHLER: cannot access local variable '_rtl' where it is not associated with a value
+[22:44:27] Traceback (most recent call last):
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\gui.py", line 2194, in _generate_extra_lang
+    ex_docx = DOCXBuilder().build_combined(
+        course, extra_slides_list,
+    ...<3 lines>...
+        docx_size=docx_s
+[22:44:27] 🔍 QA Agent gestartet (neues Fenster)...
+[22:44:29] 
+────────────────────────────────────────────────────────────
+[22:44:29] 🔍 QA REPORT  —  ⚠️ WARNINGS
+[22:44:29]    5 OK  |  1 Warnungen  |  0 Fehler
+[22:44:29] ────────────────────────────────────────────────────────────
+[22:44:29]   ✅  PPTX 'IT-260330-2225-de_de_Alle_Kapitel.pptx': 6 Folien ✓
+[22:44:29]   ✅  PPTX Größe: 0.4 MB ✓
+[22:44:29]   ✅  Alle Folien haben ausreichende Sprechernotizen ✓
+[22:44:29]   ✅  Alle Folien haben ausreichend Text/Bullets ✓
+[22:44:29]   ✅  Bilder auf 100% der Folien ✓
+[22:44:29]   ⚠️  Kein DOCX erzeugt (optional)
+[22:44:29] 
+  📋 1 Probleme — bitte prüfen:
+[22:44:29]      ⚠️ Kein DOCX erzeugt (optional)
+[22:44:29] ────────────────────────────────────────────────────────────
+

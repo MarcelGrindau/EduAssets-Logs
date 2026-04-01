@@ -1,0 +1,215 @@
+[14:12:13] API Keys: perplexity ✅, groq ✅, gemini ✅, mistral ✅, openrouter ✅
+[14:12:13] OpenRouter: 26 Free-Engines geladen
+[14:12:13] ========================================================
+[14:12:13] 📚 Curriculum Generator  v6.5  |  Build 81  |  2026-03-21
+[14:12:13]    B078-081: Design-Upgrade — Arial, Kursbalken, Glossar-Tabelle, Aufgaben-Box, Quiz-Blöcke
+[14:12:13] ========================================================
+[14:12:47] ✅ 10 Kapitel übernommen.
+[14:13:41] ✅ 10 Kapitel übernommen.
+[14:14:15] ✅ 10 Kapitel übernommen.
+[14:14:26] ▶ Start: 'IT-260324-1412-de' | 10 Kapitel | 5 Folien | sonar-pro | Modus: combined | DOCX: Mittel (~20 Seiten)
+[14:14:26] 🔗 Quellen-Links aktiviert (Wikipedia, Elektronik-Kompendium, ...)
+[14:14:26] Zusatz-Sprachen: English, Français, Español, Italiano, Türkçe, Português, Polski, Русский, العربية, हिन्दी
+[14:14:26] ============================================================
+[14:14:26] 🚀 Generiere 1 kombinierte PPTX + 1 DOCX für 10 Kapitel
+[14:14:26] ============================================================
+[14:14:26] [1/10] Virtualisierung und Cloud-Computing
+[14:14:48]   ✓ 5 Folien generiert
+[14:14:48] [2/10] Cloud-Modelle: IaaS, PaaS, SaaS
+[14:15:13]   ✓ 5 Folien generiert
+[14:15:13] [3/10] Mobile Geräte und Betriebssysteme
+[14:15:33]   ✓ 5 Folien generiert
+[14:15:33] [4/10] Gerätekonfiguration, Sicherheit, Updates
+[14:15:52]   ✓ 5 Folien generiert
+[14:15:52] [5/10] MDM, Unternehmenssynchronisierung
+[14:16:15]   ✓ 5 Folien generiert
+[14:16:15] [6/10] Verbindungsmethoden (USB,USB-C, Lightning, NFC, Bluetooth, Hotspot) Zubehör
+[14:16:33]   ✓ 5 Folien generiert
+[14:16:34] [7/10] Netzwerkverbindungen für Mobilgeräte konfigurieren
+[14:17:00]   ✓ 5 Folien generiert
+[14:17:00] [8/10] Prüfungsvorbereitung CompTIA A+ 1201
+[14:17:22]   ✓ 5 Folien generiert
+[14:17:22] [9/10] Strategien für Multiple-Choice- und Performance-Based-Questions
+[14:17:44]   ✓ 5 Folien generiert
+[14:17:44] [10/10] Einführung CISCO Packet Tracer
+[14:18:00]   ✓ 5 Folien generiert
+[14:18:00] 
+📊 Gesamt: 50 Folien in 10 Kapiteln
+[14:18:00] 
+📊 Erstelle kombinierte Präsentation...
+[14:18:00] ✗ PPTX FEHLER: 'ImageAgent' object is not subscriptable
+[14:18:00] Traceback (most recent call last):
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\gui.py", line 1626, in _worker
+    pptx_file = builder.build_combined(
+        course, chapters, all_chapters_slides,
+        CONFIG['folders']['output'],
+        imgagent, pal, tmpl, src_agent
+    )
+  File "V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\builders\pptx_builder.py", line 567, in build_combined
+    lang_suffix = _LANG_CODES.get(language, language[:2].lower())
+                                            ~~~~~~~~^^^^
+TypeError: 'ImageAgent' object is not subscriptable
+
+[14:18:00] 
+📝 Erstelle kombiniertes Arbeitsblatt...
+[14:18:00]   📖 Generiere Einleitung + Glossar + Aufgaben: Virtualisierung und Cloud-Computing
+[14:18:24]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[14:18:24]   📖 Generiere Einleitung + Glossar + Aufgaben: Cloud-Modelle: IaaS, PaaS, SaaS
+[14:19:58]   ⚠ Kein enriched content — nutze Folien-Notes
+[14:19:58]   📖 Generiere Einleitung + Glossar + Aufgaben: Mobile Geräte und Betriebssysteme
+[14:20:01] Hilfe geoeffnet: V:\DOKUMENTE\0030 Scripts Unterricht\0030 Module\CurriculumGenerator_v6.5_modular_B076fix\help.html
+[14:20:29]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[14:20:29]   📖 Generiere Einleitung + Glossar + Aufgaben: Gerätekonfiguration, Sicherheit, Updates
+[14:20:57]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[14:20:57]   📖 Generiere Einleitung + Glossar + Aufgaben: MDM, Unternehmenssynchronisierung
+[14:21:22]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[14:21:22]   📖 Generiere Einleitung + Glossar + Aufgaben: Verbindungsmethoden (USB,USB-C, Lightning, NFC, Bl
+[14:21:44]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[14:21:44]   📖 Generiere Einleitung + Glossar + Aufgaben: Netzwerkverbindungen für Mobilgeräte konfigurieren
+[14:22:51]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[14:22:51]   📖 Generiere Einleitung + Glossar + Aufgaben: Prüfungsvorbereitung CompTIA A+ 1201
+[14:23:14]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[14:23:14]   📖 Generiere Einleitung + Glossar + Aufgaben: Strategien für Multiple-Choice- und Performance-Ba
+[14:23:41]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[14:23:41]   📖 Generiere Einleitung + Glossar + Aufgaben: Einführung CISCO Packet Tracer
+[14:24:07]   ✓ Inhalte OK (3 Aufgaben, 5 Glossar-Einträge)
+[14:24:16] ✓ DOCX: IT-260324-1412-de_de_Alle_Kapitel_AB.docx
+[14:24:16] 
+============================================================
+[14:24:16] 🎉 FERTIG!
+[14:24:16] ============================================================
+[14:24:16] 
+========================================
+[14:24:16] Generiere Zusatz-Sprache: English
+[14:24:16] ========================================
+[14:24:44]   [English] Virtualisierung und Cloud-Computing — 5 Folien
+[14:25:02]   [English] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[14:25:08]   [English] Mobile Geräte und Betriebssysteme — 5 Folien
+[14:25:23]   [English] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[14:25:40]   [English] MDM, Unternehmenssynchronisierung — 5 Folien
+[14:26:00]   [English] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[14:26:17]   [English] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[14:26:34]   [English] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[14:26:52]   [English] Strategien für Multiple-Choice- und Perf — 5 Folien
+[14:27:17]   [English] Einführung CISCO Packet Tracer — 5 Folien
+[14:27:17] [English] FEHLER: 'ImageAgent' object is not subscriptable
+[14:27:17] 
+========================================
+[14:27:17] Generiere Zusatz-Sprache: Français
+[14:27:17] ========================================
+[14:27:35]   [Français] Virtualisierung und Cloud-Computing — 5 Folien
+[14:27:43]   [Français] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[14:28:00]   [Français] Mobile Geräte und Betriebssysteme — 5 Folien
+[14:28:19]   [Français] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[14:28:41]   [Français] MDM, Unternehmenssynchronisierung — 5 Folien
+[14:28:47]   [Français] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[14:28:53]   [Français] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[14:29:14]   [Français] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[14:29:32]   [Français] Strategien für Multiple-Choice- und Perf — 5 Folien
+[14:29:47]   [Français] Einführung CISCO Packet Tracer — 5 Folien
+[14:29:47] [Français] FEHLER: 'ImageAgent' object is not subscriptable
+[14:29:47] 
+========================================
+[14:29:47] Generiere Zusatz-Sprache: Español
+[14:29:47] ========================================
+[14:30:04]   [Español] Virtualisierung und Cloud-Computing — 5 Folien
+[14:30:20]   [Español] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[14:30:38]   [Español] Mobile Geräte und Betriebssysteme — 5 Folien
+[14:30:56]   [Español] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[14:31:14]   [Español] MDM, Unternehmenssynchronisierung — 5 Folien
+[14:31:31]   [Español] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[14:31:57]   [Español] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[14:32:03]   [Español] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[14:32:22]   [Español] Strategien für Multiple-Choice- und Perf — 5 Folien
+[14:32:41]   [Español] Einführung CISCO Packet Tracer — 5 Folien
+[14:32:41] [Español] FEHLER: 'ImageAgent' object is not subscriptable
+[14:32:41] 
+========================================
+[14:32:41] Generiere Zusatz-Sprache: Italiano
+[14:32:41] ========================================
+[14:32:59]   [Italiano] Virtualisierung und Cloud-Computing — 5 Folien
+[14:33:18]   [Italiano] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[14:33:33]   [Italiano] Mobile Geräte und Betriebssysteme — 5 Folien
+[14:33:53]   [Italiano] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[14:34:15]   [Italiano] MDM, Unternehmenssynchronisierung — 5 Folien
+[14:34:33]   [Italiano] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[14:34:51]   [Italiano] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[14:35:17]   [Italiano] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[14:35:24]   [Italiano] Strategien für Multiple-Choice- und Perf — 5 Folien
+[14:35:40]   [Italiano] Einführung CISCO Packet Tracer — 5 Folien
+[14:35:40] [Italiano] FEHLER: 'ImageAgent' object is not subscriptable
+[14:35:40] 
+========================================
+[14:35:40] Generiere Zusatz-Sprache: Türkçe
+[14:35:40] ========================================
+[14:36:05]   [Türkçe] Virtualisierung und Cloud-Computing — 5 Folien
+[14:36:11]   [Türkçe] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[14:36:29]   [Türkçe] Mobile Geräte und Betriebssysteme — 5 Folien
+[14:36:52]   [Türkçe] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[14:37:09]   [Türkçe] MDM, Unternehmenssynchronisierung — 5 Folien
+[14:37:31]   [Türkçe] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[14:37:52]   [Türkçe] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[14:38:19]   [Türkçe] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[14:38:40]   [Türkçe] Strategien für Multiple-Choice- und Perf — 5 Folien
+[14:38:59]   [Türkçe] Einführung CISCO Packet Tracer — 5 Folien
+[14:38:59] [Türkçe] FEHLER: 'ImageAgent' object is not subscriptable
+[14:38:59] 
+========================================
+[14:38:59] Generiere Zusatz-Sprache: Português
+[14:38:59] ========================================
+[14:39:17]   [Português] Virtualisierung und Cloud-Computing — 5 Folien
+[14:39:36]   [Português] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[14:39:58]   [Português] Mobile Geräte und Betriebssysteme — 5 Folien
+[14:40:15]   [Português] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[14:40:33]   [Português] MDM, Unternehmenssynchronisierung — 5 Folien
+[14:40:50]   [Português] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[14:41:09]   [Português] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[14:41:31]   [Português] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[14:41:54]   [Português] Strategien für Multiple-Choice- und Perf — 5 Folien
+[14:42:12]   [Português] Einführung CISCO Packet Tracer — 5 Folien
+[14:42:12] [Português] FEHLER: 'ImageAgent' object is not subscriptable
+[14:42:12] 
+========================================
+[14:42:12] Generiere Zusatz-Sprache: Polski
+[14:42:12] ========================================
+[14:42:37]   [Polski] Virtualisierung und Cloud-Computing — 5 Folien
+[14:42:58]   [Polski] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[14:43:19]   [Polski] Mobile Geräte und Betriebssysteme — 5 Folien
+[14:43:43]   [Polski] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[14:44:04]   [Polski] MDM, Unternehmenssynchronisierung — 5 Folien
+[14:44:28]   [Polski] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[14:44:50]   [Polski] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[14:45:15]   [Polski] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[14:45:35]   [Polski] Strategien für Multiple-Choice- und Perf — 5 Folien
+[14:46:00]   [Polski] Einführung CISCO Packet Tracer — 5 Folien
+[14:46:00] [Polski] FEHLER: 'ImageAgent' object is not subscriptable
+[14:46:00] 
+========================================
+[14:46:00] Generiere Zusatz-Sprache: Русский
+[14:46:00] ========================================
+[14:46:16]   [Русский] Virtualisierung und Cloud-Computing — 5 Folien
+[14:46:42]   [Русский] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[14:46:50]   [Русский] Mobile Geräte und Betriebssysteme — 5 Folien
+[14:47:01]   [Русский] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[14:47:19]   [Русский] MDM, Unternehmenssynchronisierung — 5 Folien
+[14:47:43]   [Русский] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[14:47:50]   [Русский] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[14:48:09]   [Русский] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[14:48:29]   [Русский] Strategien für Multiple-Choice- und Perf — 5 Folien
+[14:48:43]   [Русский] Einführung CISCO Packet Tracer — 5 Folien
+[14:48:43] [Русский] FEHLER: 'ImageAgent' object is not subscriptable
+[14:48:43] 
+========================================
+[14:48:43] Generiere Zusatz-Sprache: العربية
+[14:48:43] ========================================
+[14:49:05]   [العربية] Virtualisierung und Cloud-Computing — 5 Folien
+[14:49:12]   [العربية] Cloud-Modelle: IaaS, PaaS, SaaS — 5 Folien
+[14:49:29]   [العربية] Mobile Geräte und Betriebssysteme — 5 Folien
+[14:49:36]   [العربية] Gerätekonfiguration, Sicherheit, Updates — 5 Folien
+[14:49:57]   [العربية] MDM, Unternehmenssynchronisierung — 5 Folien
+[14:50:23]   [العربية] Verbindungsmethoden (USB,USB-C, Lightnin — 5 Folien
+[14:50:43]   [العربية] Netzwerkverbindungen für Mobilgeräte kon — 5 Folien
+[14:51:04]   [العربية] Prüfungsvorbereitung CompTIA A+ 1201 — 5 Folien
+[14:51:26]   [العربية] Strategien für Multiple-Choice- und Perf — 5 Folien
+[14:51:51]   [العربية] Einführung CISCO Packet Tracer — 5 Folien
+[14:51:51] [العربية] FEHLER: 'ImageAgent' object is not subscriptable
